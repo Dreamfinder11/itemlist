@@ -45629,7 +45629,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -46069,7 +46069,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -50280,7 +50280,7 @@
     "KarmaType": null
   },
   "VFEC_Bronze": {
-    "CustomName": null,
+    "CustomName": "bronzeingot",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -72386,7 +72386,7 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -84240,7 +84240,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Eye_EyeOfTheVoid": {
-    "CustomName": null,
+    "CustomName": "eyeofthevoid",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84260,7 +84260,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Sternum_NornCrown": {
-    "CustomName": null,
+    "CustomName": "norncrown",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84280,7 +84280,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Sternum_ReactiveShimmerworms": {
-    "CustomName": null,
+    "CustomName": "reactiveshimmerworms",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84300,7 +84300,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Torso_MucousGland": {
-    "CustomName": null,
+    "CustomName": "mucousgland",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84380,7 +84380,7 @@
     "KarmaType": null
   },
   "EVOR_Item_AbdominalAndChestcavity_ExtraNanofilterLung": {
-    "CustomName": null,
+    "CustomName": "extrananofilterlung",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84400,7 +84400,7 @@
     "KarmaType": null
   },
   "EVOR_Item_AbdominalAndChestcavity_AuxilaryHeart": {
-    "CustomName": null,
+    "CustomName": "auxilaryheart",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84420,7 +84420,7 @@
     "KarmaType": null
   },
   "EVOR_Item_AbdominalAndChestcavity_CombatSerumGland": {
-    "CustomName": null,
+    "CustomName": "combatserumgland",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84440,7 +84440,7 @@
     "KarmaType": null
   },
   "EVOR_Item_AbdominalAndChestcavity_HormoneRegulator": {
-    "CustomName": null,
+    "CustomName": "hormoneregulator",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84460,7 +84460,7 @@
     "KarmaType": null
   },
   "EVOR_Item_AbdominalAndChestcavity_LymphaticProliferator": {
-    "CustomName": null,
+    "CustomName": "lymphaticproliferator",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84480,7 +84480,7 @@
     "KarmaType": null
   },
   "EVOR_Item_AbdominalAndChestcavity_RasVacoule": {
-    "CustomName": null,
+    "CustomName": "rasvacoule",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84500,7 +84500,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Back_FeatheredWings": {
-    "CustomName": null,
+    "CustomName": "featheredwings",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84520,7 +84520,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Back_LeatheryWings": {
-    "CustomName": null,
+    "CustomName": "leatherywings",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84540,7 +84540,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Back_TentacleCluster": {
-    "CustomName": null,
+    "CustomName": "tentaclecluster",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84560,7 +84560,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Back_MusculatureBraces": {
-    "CustomName": null,
+    "CustomName": "musculaturebraces",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84580,7 +84580,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Back_PeltGrowth": {
-    "CustomName": null,
+    "CustomName": "peltgrowth",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84600,7 +84600,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Back_WaterFilledGrowth": {
-    "CustomName": null,
+    "CustomName": "waterfilledgrowth",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84620,7 +84620,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Brain_NeuralHyperthreader": {
-    "CustomName": null,
+    "CustomName": "neuralhyperthreader",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84640,7 +84640,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Brain_ButchersNails": {
-    "CustomName": null,
+    "CustomName": "butchersnails",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84660,7 +84660,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Brain_ReptilianFrontalCortex": {
-    "CustomName": null,
+    "CustomName": "reptilianfrontalcortex",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84680,7 +84680,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Sternum_PlagueLesions": {
-    "CustomName": null,
+    "CustomName": "plaguelesions",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84700,7 +84700,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Sternum_ReinforcedTortoiseShell": {
-    "CustomName": null,
+    "CustomName": "reinforcedtortoiseshell",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84720,7 +84720,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Appendage_ExtradextrousArm": {
-    "CustomName": null,
+    "CustomName": "extradextrousappendage",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84740,7 +84740,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Appendage_RendingClaw": {
-    "CustomName": null,
+    "CustomName": "rendingclaw",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84760,7 +84760,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Appendage_HighPressurePincer": {
-    "CustomName": null,
+    "CustomName": "highpressurepincer",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84780,7 +84780,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Appendage_SonicImpactMace": {
-    "CustomName": null,
+    "CustomName": "sonicimpactmace",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84800,7 +84800,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Appendage_VenopillarArm": {
-    "CustomName": null,
+    "CustomName": "venopillararm",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84820,7 +84820,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Appendage_FrostMantisHook": {
-    "CustomName": null,
+    "CustomName": "frostmantishook",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84840,7 +84840,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Appendage_SalamanderWhip": {
-    "CustomName": null,
+    "CustomName": "salamanderwhip",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84860,7 +84860,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Appendage_OssifiedBoneSaber": {
-    "CustomName": null,
+    "CustomName": "ossifiedbonesaber",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84880,7 +84880,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Appendage_TriPlacedLimb": {
-    "CustomName": null,
+    "CustomName": "triplatedlimb",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84900,7 +84900,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Appendage_ReinforcedLeg": {
-    "CustomName": null,
+    "CustomName": "reinforcedleg",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84920,7 +84920,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Appendage_GraspingLeg": {
-    "CustomName": null,
+    "CustomName": "graspingleg",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84940,7 +84940,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Appendage_ShireHorseLeg": {
-    "CustomName": null,
+    "CustomName": "shirehorseleg",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84960,7 +84960,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Appendage_WeightedTail": {
-    "CustomName": null,
+    "CustomName": "weigthedtail",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -84980,7 +84980,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Tail_VenomousStinger": {
-    "CustomName": null,
+    "CustomName": "venomousstinger",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85000,7 +85000,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Heart_TriwovenPrimaryHeart": {
-    "CustomName": null,
+    "CustomName": "triwovenprimaryheart",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85020,7 +85020,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Kidney_TripleFilterPassKidney": {
-    "CustomName": null,
+    "CustomName": "triplefilterpasskidney",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85040,7 +85040,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Kidney_PerspirationCleansingKidney": {
-    "CustomName": null,
+    "CustomName": "perspirationcleansingkidney",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85060,7 +85060,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Lung_NanoAlveoliLung": {
-    "CustomName": null,
+    "CustomName": "nanoalveolilung",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85080,7 +85080,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Stomach_MultichamberStomach": {
-    "CustomName": null,
+    "CustomName": "multichamberstomach",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85100,7 +85100,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Liver_QuadlobeLiver": {
-    "CustomName": null,
+    "CustomName": "quadlobeliver",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85120,7 +85120,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Liver_RegenerativeLiver": {
-    "CustomName": null,
+    "CustomName": "regenerativeliver",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85140,7 +85140,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Spine_NeuroAcceleratedSpine": {
-    "CustomName": null,
+    "CustomName": "neuroacceleratedspine",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85160,7 +85160,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Eye_MultispectrumEye": {
-    "CustomName": null,
+    "CustomName": "multispectrumeye",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85180,7 +85180,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Eye_IridescentEye": {
-    "CustomName": null,
+    "CustomName": "iridescenteye",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85200,7 +85200,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Nose_MicroAnalyzerNose": {
-    "CustomName": null,
+    "CustomName": "microanalyzernose",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85220,7 +85220,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Nose_PheromoneReleaserNose": {
-    "CustomName": null,
+    "CustomName": "pheromonereleasernose",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85240,7 +85240,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Ear_MultifrequencyEar": {
-    "CustomName": null,
+    "CustomName": "multifrequencyear",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85260,7 +85260,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Jaw_DistendableJaw": {
-    "CustomName": null,
+    "CustomName": "distendablejaw",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85280,7 +85280,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Jaw_VenomousFangs": {
-    "CustomName": null,
+    "CustomName": "venomousfangs",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85300,7 +85300,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Protection_Skull_PsychicResonanceTissue": {
-    "CustomName": null,
+    "CustomName": "psychicresonancetissue",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85320,7 +85320,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Protection_Skull_InterferenceShielding": {
-    "CustomName": null,
+    "CustomName": "interferenceshielding",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85340,7 +85340,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Protection_Skull_CranialPlating": {
-    "CustomName": null,
+    "CustomName": "cranialplating",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85360,7 +85360,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Protection_Torso_MultilayeredDermalPlating": {
-    "CustomName": null,
+    "CustomName": "multilayereddermalplating",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85380,7 +85380,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Protection_Skin_FlameRetardantSkin": {
-    "CustomName": null,
+    "CustomName": "flameretardantskin",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85400,7 +85400,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Protection_Skin_VariableInsulationSkin": {
-    "CustomName": null,
+    "CustomName": "variableinsulationskin",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85420,7 +85420,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Protection_Skin_ShimmeringSkin": {
-    "CustomName": null,
+    "CustomName": "shimmeringskin",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85440,7 +85440,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Protection_Skin_RadiationAbsorbingSkin": {
-    "CustomName": null,
+    "CustomName": "radiationabsorbingskin",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85460,7 +85460,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Protection_Skin_PhytoplanktonSkin": {
-    "CustomName": null,
+    "CustomName": "phytoplanktonskin",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85480,7 +85480,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Protection_Ribcage_CalciumAlloyRibcage": {
-    "CustomName": null,
+    "CustomName": "calciumalloyribcage",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -85500,7 +85500,7 @@
     "KarmaType": null
   },
   "EVOR_Item_Protection_Neck_ReinforcedNeckMuscles": {
-    "CustomName": null,
+    "CustomName": "reinforcedneckmuscles",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -92519,13 +92519,13 @@
     "Mod": "NewRatkinPlus",
     "KarmaType": null
   },
-  "pipelineValve": {
+  "VFEP_WarcasketGun_FoldingGun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -92536,7 +92536,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Rimefeller",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
   "AB_Shell_Tar": {
@@ -92999,13 +92999,13 @@
     "Mod": "Rimefeller",
     "KarmaType": null
   },
-  "denture": {
+  "TM_WinterStaff": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -93016,7 +93016,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "A RimWorld of Magic",
     "KarmaType": null
   },
   "ResourceConsole": {
@@ -94017,6 +94017,566 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Autocleaner",
+    "KarmaType": null
+  },
+  "VFEP_Box_FoldingGun": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_WarcasketGun_TearGasGrenadeLauncher": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_Box_TearGasGrenadeLauncher": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_WarcasketGun_Railgun": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_Box_Railgun": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_WarcasketGun_CryptoCannon": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_WarcasketMeleeWeapon_PlasmaSword": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_Box_ChargeLance": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_Box_HandheldCannon": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_Box_ChargeBlaster": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_Box_GravityHammer": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_WarcasketMeleeWeapon_GravityHammer": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_WarcasketGun_ChargeLance": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_WarcasketGun_HandheldCannon": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_WarcasketGun_ChargeBlaster": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "pipelineValve": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Rimefeller",
+    "KarmaType": null
+  },
+  "VCHE_DeepchemTap": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Chemfuel Expanded",
+    "KarmaType": null
+  },
+  "VCHE_DeepchemDrain": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Chemfuel Expanded",
+    "KarmaType": null
+  },
+  "denture": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "KarmaType": null
+  },
+  "VFEP_WarcasketGun_SalvagedLaserEradicator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "VFEP_Box_SalvagedLaserEradicator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "VFEP_WarcasketGun_LaserBlaster": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "VFEP_Box_WarcasketLaserBolter": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "SR_Soil": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Soil Relocation Framework",
+    "KarmaType": null
+  },
+  "SR_RichSoil": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Soil Relocation Framework",
+    "KarmaType": null
+  },
+  "SR_Sand": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Soil Relocation Framework",
+    "KarmaType": null
+  },
+  "SR_Gravel": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Soil Relocation Framework",
+    "KarmaType": null
+  },
+  "SR_Ice": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Soil Relocation Framework",
     "KarmaType": null
   }
 }

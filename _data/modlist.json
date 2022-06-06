@@ -45,7 +45,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.2"
+    "version": "2.5.7.5"
   },
   {
     "author": "spoonshortage",
@@ -147,7 +147,7 @@
     "author": "Oskar Potocki and  XeoNovaDan",
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
-    "version": "1.0.6.0"
+    "version": "1.0.5.0"
   },
   {
     "author": "Oskar Potocki",
@@ -195,6 +195,60 @@
     "author": "ChJees",
     "name": "Androids",
     "steamId": "1541064015",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Battle Mounts",
+    "steamId": "1217001091",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spino",
+    "name": "Megafauna",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spincrus",
+    "name": "Dinosauria",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cosmic Horrors",
+    "steamId": "765890823",
+    "version": "1.3.0.2"
+  },
+  {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg,  erdelf,  Oskar Potocki,  Luizi and  Reann Shepard",
+    "name": "Vanilla Genetics Expanded",
+    "steamId": "2801160906",
     "version": "1.0.0.0"
   },
   {
@@ -246,12 +300,6 @@
     "version": null
   },
   {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Cosmic Horrors",
-    "steamId": "765890823",
-    "version": "1.3.0.2"
-  },
-  {
     "author": "Orion",
     "name": "Cash Register",
     "steamId": null,
@@ -290,8 +338,8 @@
   {
     "author": "Vanilla Expanded team",
     "name": "Vanilla Factions Expanded - Vikings",
-    "steamId": null,
-    "version": null
+    "steamId": "2231295285",
+    "version": "1.0.0.0"
   },
   {
     "author": "avilmask",
@@ -332,12 +380,6 @@
   {
     "author": "Troopersmith1 - Linq- deathrat",
     "name": "Death Rattle Continued [1.2+]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Spincrus",
-    "name": "Dinosauria",
     "steamId": null,
     "version": null
   },
@@ -492,30 +534,6 @@
     "version": null
   },
   {
-    "author": "Roolo",
-    "name": "Giddy-up! Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Battle Mounts",
-    "steamId": "1217001091",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Caravan",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Ride and Roll",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Captain Muscles (Nathan Harbour)",
     "name": "Grab Your Tool!",
     "steamId": "2355912467",
@@ -628,12 +646,6 @@
     "name": "Magical Menagerie",
     "steamId": "1821617793",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Spino",
-    "name": "Megafauna",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Miathea",
@@ -896,8 +908,8 @@
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "RimWorld - Witcher Monster Hunt",
-    "steamId": null,
-    "version": null
+    "steamId": "2008529522",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki",
@@ -1140,12 +1152,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Kikohi",
-    "name": "Vanilla Chemfuel Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Cooking Expanded - Stews",
     "steamId": null,
@@ -1258,12 +1264,6 @@
     "name": "Vanilla Furniture Expanded - Spacer Module",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Sarg,  erdelf,  Oskar Potocki,  Luizi and  Reann Shepard",
-    "name": "Vanilla Genetics Expanded",
-    "steamId": "2801160906",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki,  XeoNovaDan and  erdelf",
@@ -1618,5 +1618,35 @@
     "name": "No One Left Behind",
     "steamId": "2401146569",
     "version": "1.1.1"
+  },
+  {
+    "author": "Gorlath",
+    "name": "Epona race Renaissance - Translation Fixes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bando",
+    "name": "Heyra race restriction remover",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sam",
+    "name": "Tilled Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Evelyn",
+    "name": "Consistent Map Stone",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Evelyn",
+    "name": "Soil Relocation Framework",
+    "steamId": "2654088143",
+    "version": "1.2.3"
   }
 ]

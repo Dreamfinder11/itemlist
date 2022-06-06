@@ -28,7 +28,7 @@
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": -10
+      "price": 117
     },
     {
       "abr": "penoxycyline",
@@ -766,7 +766,7 @@
       "abr": "kibble",
       "category": "Foods",
       "defname": "Kibble",
-      "price": 5
+      "price": 1
     },
     {
       "abr": "pemmican",
@@ -958,7 +958,7 @@
       "abr": "hay",
       "category": "Foods",
       "defname": "Hay",
-      "price": 10
+      "price": 1
     },
     {
       "abr": "hops",
@@ -7970,19 +7970,19 @@
     },
     {
       "abr": "mutantleg",
-      "category": "Natural",
+      "category": "Teratogenic parts",
       "defname": "AA_MutantLeg",
       "price": 170
     },
     {
       "abr": "mutantarm",
-      "category": "Natural",
+      "category": "Teratogenic parts",
       "defname": "AA_MutantArm",
       "price": 160
     },
     {
       "abr": "mutanteye",
-      "category": "Natural",
+      "category": "Teratogenic parts",
       "defname": "AA_MutantEye",
       "price": 160
     },
@@ -8560,7 +8560,7 @@
       "abr": "animalisk",
       "category": "Animals",
       "defname": "AA_Animalisk",
-      "price": 830
+      "price": 2830
     },
     {
       "abr": "animusvox",
@@ -8986,7 +8986,7 @@
       "abr": "maturefleshbeast",
       "category": "Animals",
       "defname": "AA_MatureFleshbeast",
-      "price": 920
+      "price": -10
     },
     {
       "abr": "meadowave",
@@ -13240,7 +13240,7 @@
       "abr": "aberrantfleshbeast",
       "category": "Animals",
       "defname": "GR_AberrantFleshbeast",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "aberrantmeat",
@@ -13840,7 +13840,7 @@
       "abr": "archocentipede",
       "category": "Animals",
       "defname": "GR_ArchotechCentipede",
-      "price": 6666666
+      "price": 66666
     },
     {
       "abr": "archocentipedeformer",
@@ -14272,13 +14272,13 @@
       "abr": "basilisk",
       "category": "Animals",
       "defname": "MM_Basilisk",
-      "price": 750
+      "price": 1750
     },
     {
       "abr": "basilisk",
       "category": "Animals",
       "defname": "WMH_Basilisk",
-      "price": 583
+      "price": 3583
     },
     {
       "abr": "basiliskegg(fert.)",
@@ -14410,7 +14410,7 @@
       "abr": "bearofleet",
       "category": "Animals",
       "defname": "WMH_Bearofleet",
-      "price": 200
+      "price": 2200
     },
     {
       "abr": "bearofleettrophy(grand)",
@@ -16426,7 +16426,7 @@
       "abr": "djinn",
       "category": "Animal",
       "defname": "WMH_Djinn",
-      "price": 417
+      "price": 3417
     },
     {
       "abr": "djinnfireimplant",
@@ -16840,7 +16840,7 @@
       "abr": "ekimmara",
       "category": "Animals",
       "defname": "WMH_Ekimmara",
-      "price": 750
+      "price": 4750
     },
     {
       "abr": "ekimmaratrophy",
@@ -17974,7 +17974,7 @@
       "abr": "fleder",
       "category": "Animals",
       "defname": "WMH_Fleder",
-      "price": 750
+      "price": 4750
     },
     {
       "abr": "fledertrophy",
@@ -17998,13 +17998,13 @@
       "abr": "fleshgrowth",
       "category": "Animals",
       "defname": "GR_FleshGrowth",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "fleshmonstrosity",
       "category": "Animals",
       "defname": "GR_FleshMonstrosity",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "fleshcraftedfoot",
@@ -18016,7 +18016,7 @@
       "abr": "fleshling",
       "category": "Animals",
       "defname": "GR_Fleshling",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "flighthelmet",
@@ -18070,7 +18070,7 @@
       "abr": "fogler",
       "category": "Animal",
       "defname": "WMH_Fogler",
-      "price": 208
+      "price": 3208
     },
     {
       "abr": "foglertrophy",
@@ -18485,12 +18485,6 @@
       "category": "Scrolls",
       "defname": "SpellOf_Meteor",
       "price": 2750
-    },
-    {
-      "abr": "ghoul",
-      "category": "Animal",
-      "defname": "WMH_Ghoul",
-      "price": 92
     },
     {
       "abr": "ghoultrophy",
@@ -19558,7 +19552,7 @@
       "abr": "hym",
       "category": "Animal",
       "defname": "WMH_Hym",
-      "price": 2292
+      "price": 3292
     },
     {
       "abr": "hymtrophy",
@@ -19792,13 +19786,13 @@
       "abr": "kikimorewarrior",
       "category": "Animals",
       "defname": "WMAux_KikimoreWarrior",
-      "price": 333
+      "price": 3333
     },
     {
       "abr": "kikimoreworker",
       "category": "Animals",
       "defname": "WMAux_KikimoreWorker",
-      "price": 167
+      "price": 3167
     },
     {
       "abr": "kineticfieldmanipulator",
@@ -21520,7 +21514,7 @@
       "abr": "nekker",
       "category": "Animals",
       "defname": "WMH_Nekker",
-      "price": 25
+      "price": 2225
     },
     {
       "abr": "nekkertrophy",
@@ -26110,7 +26104,7 @@
       "abr": "golem",
       "category": "Animals",
       "defname": "WMH_Golem",
-      "price": 417
+      "price": 2417
     },
     {
       "abr": "greenhousecontroller",
@@ -27766,7 +27760,7 @@
       "abr": "werewolf",
       "category": "Animals",
       "defname": "WMH_Werewolf",
-      "price": 750
+      "price": 3750
     },
     {
       "abr": "werewolftrophy",
@@ -28042,7 +28036,7 @@
       "abr": "wraith",
       "category": "Animal",
       "defname": "WMH_Wraith",
-      "price": 292
+      "price": 2292
     },
     {
       "abr": "wraithtrophy",
@@ -28060,7 +28054,7 @@
       "abr": "wyvern",
       "category": "Animals",
       "defname": "WMH_Wyvern",
-      "price": 583
+      "price": 6583
     },
     {
       "abr": "wyvernacidspitterimplant",
@@ -28207,6 +28201,180 @@
       "price": 550
     },
     {
+      "abr": "deepchemdrain",
+      "category": "Furniture",
+      "defname": "VCHE_DeepchemDrain",
+      "price": 194
+    },
+    {
+      "abr": "deepchemtap",
+      "category": "Furniture",
+      "defname": "VCHE_DeepchemTap",
+      "price": 194
+    },
+    {
+      "abr": "ghoul",
+      "category": "Animal",
+      "defname": "WMH_Ghoul",
+      "price": 92
+    },
+    {
+      "abr": "warcasketchargeblaster",
+      "category": "Misc",
+      "defname": "VFEP_Box_ChargeBlaster",
+      "price": 3667
+    },
+    {
+      "abr": "warcasketchargeblaster",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_ChargeBlaster",
+      "price": 3667
+    },
+    {
+      "abr": "warcasketchargelance",
+      "category": "Misc",
+      "defname": "VFEP_Box_ChargeLance",
+      "price": 3750
+    },
+    {
+      "abr": "warcasketchargelance",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_ChargeLance",
+      "price": 3750
+    },
+    {
+      "abr": "warcasketcryptocannon",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_CryptoCannon",
+      "price": 6000
+    },
+    {
+      "abr": "warcasketfoldinggun",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_FoldingGun",
+      "price": 2750
+    },
+    {
+      "abr": "warcasketfoldinggun",
+      "category": "Misc",
+      "defname": "VFEP_Box_FoldingGun",
+      "price": 2750
+    },
+    {
+      "abr": "warcasketgravityhammer",
+      "category": "Misc",
+      "defname": "VFEP_Box_GravityHammer",
+      "price": 5000
+    },
+    {
+      "abr": "warcasketgravityhammer",
+      "category": "Melee weapons",
+      "defname": "VFEP_WarcasketMeleeWeapon_GravityHammer",
+      "price": 5000
+    },
+    {
+      "abr": "warcaskethandheldcannon",
+      "category": "Misc",
+      "defname": "VFEP_Box_HandheldCannon",
+      "price": 2250
+    },
+    {
+      "abr": "warcaskethandheldcannon",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_HandheldCannon",
+      "price": 2250
+    },
+    {
+      "abr": "warcasketlaserblaster",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_LaserBlaster",
+      "price": 5333
+    },
+    {
+      "abr": "warcasketlaserbolter",
+      "category": "Misc",
+      "defname": "VFEP_Box_WarcasketLaserBolter",
+      "price": 5333
+    },
+    {
+      "abr": "warcasketplasmasword",
+      "category": "Melee weapons",
+      "defname": "VFEP_WarcasketMeleeWeapon_PlasmaSword",
+      "price": 6000
+    },
+    {
+      "abr": "warcasketrailgun",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_Railgun",
+      "price": 5333
+    },
+    {
+      "abr": "warcasketrailgun",
+      "category": "Misc",
+      "defname": "VFEP_Box_Railgun",
+      "price": 5333
+    },
+    {
+      "abr": "warcasketsalvagedlasereradicator",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_SalvagedLaserEradicator",
+      "price": 6833
+    },
+    {
+      "abr": "warcasketsalvagedlasereradicator",
+      "category": "Misc",
+      "defname": "VFEP_Box_SalvagedLaserEradicator",
+      "price": 6833
+    },
+    {
+      "abr": "warcasketteargasgrenadelauncher",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_TearGasGrenadeLauncher",
+      "price": 2750
+    },
+    {
+      "abr": "warcasketteargasgrenadelauncher",
+      "category": "Misc",
+      "defname": "VFEP_Box_TearGasGrenadeLauncher",
+      "price": 2750
+    },
+    {
+      "abr": "winter'sreign",
+      "category": "Magic foci",
+      "defname": "TM_WinterStaff",
+      "price": 7500
+    },
+    {
+      "abr": "ice",
+      "category": "Soils",
+      "defname": "SR_Ice",
+      "price": -10
+    },
+    {
+      "abr": "richsoil",
+      "category": "Soils",
+      "defname": "SR_RichSoil",
+      "price": -10
+    },
+    {
+      "abr": "sand",
+      "category": "Soils",
+      "defname": "SR_Sand",
+      "price": -10
+    },
+    {
+      "abr": "soil",
+      "category": "Soils",
+      "defname": "SR_Soil",
+      "price": -10
+    },
+    {
+      "abr": "stonysoil",
+      "category": "Soils",
+      "defname": "SR_Gravel",
+      "price": -10
+    },
+    {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
@@ -28351,5 +28519,5 @@
       "price": 5
     }
   ],
-  "total": 4725
+  "total": 4753
 }
