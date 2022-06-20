@@ -506,7 +506,7 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 5500,
       "degree": 0
     },
@@ -56323,42 +56323,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy's faith is firm. It allows him to move under any circumstances.",
-      "stats": [
-        "+10% pain shock threshold",
-        "-15% mental break threshold"
-      ],
-      "conflicts": [
-        "carefulshooter",
-        "trigger-happy",
-        "wimp"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "NewRatkinPlus",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "carefulshooter",
-          "trigger-happy",
-          "wimp"
-        ],
-        "stats": [
-          "+10% pain shock threshold",
-          "-15% mental break threshold"
-        ]
-      },
-      "defName": "Faith",
-      "name": "faith",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
       "description": "Timmy finds it difficult to focus on distant targets, and prefer to get up close and personal.",
       "stats": [
         "-2 shooting",
@@ -66695,6 +66659,192 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy is a Berserker PAWN_alienRace, he has no honor in the hunt, unlike rival clans, as he will hunt unarmed prey with his clan. he is a relentless and ruthless hunter, and he has also shown to be sadistic, seemingly savoring the fear of the prey throughout the hunt. Despite Timmy's brutality, he is also an incredibly skilled fighter, proving this by repeatedly emerging victorious in battle against Humans, Xenomorph and Predator alike. Unsurprisingly, he arrogance will be he demise./n/nhe is four times as likely to start a social fight as others.",
+      "stats": [
+        "+4 melee",
+        "-4 intellectual",
+        "-4 social",
+        "+4.0 melee hit chance",
+        "+15.0 melee dodge chance",
+        "+60% pain shock threshold",
+        "-50% aiming time",
+        "-5.0 shooting accuracy"
+      ],
+      "conflicts": [
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alien Vs Predator",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp"
+        ],
+        "stats": [
+          "+4 melee",
+          "-4 intellectual",
+          "-4 social",
+          "+4.0 melee hit chance",
+          "+15.0 melee dodge chance",
+          "+60% pain shock threshold",
+          "-50% aiming time",
+          "-5.0 shooting accuracy"
+        ]
+      },
+      "defName": "AvP_Berserker",
+      "name": "berserker",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a defective inhibitor.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alien Vs Predator",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "AvP_DefectiveInhibitor",
+      "name": "defectiveinhibitor",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a very heavy build for a PAWN_alienRace, he cant jump as high as most PAWN_alienRace and is always falling behind the group whenever he goes anywhere. But when it comes to matter of raw physical strength, Timmy is Far stronger compared to the average PAWN_alienRace.",
+      "stats": [
+        "Go frenzy inspiration disabled.",
+        "-0.20 move speed",
+        "-35% global work speed",
+        "-2.0 melee hit chance",
+        "-15.0 melee dodge chance",
+        "+30% pain shock threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alien Vs Predator",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Go frenzy inspiration disabled.",
+          "-0.20 move speed",
+          "-35% global work speed",
+          "-2.0 melee hit chance",
+          "-15.0 melee dodge chance",
+          "+30% pain shock threshold"
+        ]
+      },
+      "defName": "YautjaBuild",
+      "name": "heavyset",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy has a very light build for a PAWN_alienRace, he can jump higher and move faster than your average PAWN_alienRace this allows Timmy to avoid attacks that would kill, a side effect is that Timmy is weaker when it comes to raw physical strength compared to the average PAWN_alienRace.",
+      "stats": [
+        "+0.40 move speed",
+        "+4.0 melee hit chance",
+        "+15.0 melee dodge chance",
+        "-20% pain shock threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alien Vs Predator",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.40 move speed",
+          "+4.0 melee hit chance",
+          "+15.0 melee dodge chance",
+          "-20% pain shock threshold"
+        ]
+      },
+      "defName": "YautjaBuild",
+      "name": "lightweight",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy's faith is firm. It allows him to move under any circumstances.",
+      "stats": [
+        "+10% pain shock threshold",
+        "-15% mental break threshold"
+      ],
+      "conflicts": [
+        "carefulshooter",
+        "trigger-happy",
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "NewRatkinPlus",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "carefulshooter",
+          "trigger-happy",
+          "wimp"
+        ],
+        "stats": [
+          "+10% pain shock threshold",
+          "-15% mental break threshold"
+        ]
+      },
+      "defName": "Faith",
+      "name": "faith",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -66723,45 +66873,6 @@
     {
       "data": {
         "stats": [
-          "+40.00 Mass",
-          "+70% Flammability",
-          "+$850 Market value",
-          "+6.00 Move speed",
-          "+120% Hunger rate multiplier",
-          "+18.0F Minimum comfortable temperature",
-          "+72.0F Maximum comfortable temperature",
-          "+1 Honor value",
-          "+50% Psychic sensitivity",
-          "+50% Toxic sensitivity",
-          "+60 Carrying capacity",
-          "+35 Meat amount",
-          "+25 Leather amount",
-          "+6.0% Armor - Blunt",
-          "+12.0% Armor - Sharp",
-          "+25.00% Food poison chance",
-          "+25% Research speed",
-          "+133% Immunity gain speed",
-          "+120% Eating speed",
-          "+80% General labor speed",
-          "+50% Global learning factor",
-          "+120% Rest rate multiplier",
-          "+80.00% Social impact",
-          "+66% Medical tend quality",
-          "+66% Medical surgery success chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Small, scaled humanoids known for their lack of skill in anything but trap construction.\n\nThey're not sure how they ended up here, but what they do know is that there are shinies for the taking!\n\n<i><color=#66E0E4FF>Kobolds of the Rim</color></i>",
-      "defName": "Alien_Kobold",
-      "enabled": true,
-      "name": "kobold",
-      "price": 1410
-    },
-    {
-      "data": {
-        "stats": [
           "+75.00 Mass",
           "+100% Flammability",
           "+$1500 Market value",
@@ -66778,7 +66889,7 @@
       },
       "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.\n\n<i><color=#66E0E4FF>Androids</color></i>",
       "defName": "ChjAndroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Android",
       "price": 2500
     },
@@ -66811,7 +66922,7 @@
       },
       "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.\n\n<i><color=#66E0E4FF>Androids</color></i>",
       "defName": "ChjDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Droid",
       "price": 1410
     },
@@ -66845,314 +66956,9 @@
       },
       "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.\n\n<i><color=#66E0E4FF>Androids</color></i>",
       "defName": "ChjBattleDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Battledroid",
       "price": 3160
-    },
-    {
-      "data": {
-        "stats": [
-          "+55.00 Mass",
-          "+100% Flammability",
-          "+$2000 Market value",
-          "+4.85 Move speed",
-          "+38% Mental break threshold",
-          "+46.8F Maximum comfortable temperature",
-          "+28.8F Minimum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+75 Carrying capacity",
-          "+60 Meat amount",
-          "+50 Leather amount",
-          "+80% Pain shock threshold",
-          "+120% Psychic sensitivity",
-          "+0.9 Melee dodge chance",
-          "+0.8 Melee hit chance",
-          "+80% Aiming time",
-          "+1.2 Shooting accuracy",
-          "+100.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+100.00% Social impact",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+100.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+100% Rest rate multiplier",
-          "+100% Plant work speed",
-          "+120% Research speed",
-          "+110% Medical tend quality",
-          "+120% Drug synthesis speed",
-          "+120% Medical surgery success chance",
-          "+80% Mining speed",
-          "+100% Mining yield"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Inhabitants of lunar cities that carry the genes of rabbits, the rabbie excel at waging war and constructing mega-cities. They travel the galaxy in search of celestial bodies with planetarium; a drug that the rabbie population has been reliant on for survival since the begining of their history. It is believed they originally came from another galaxy, but have sinced lost the technology and have been cut off from their home galaxy.\n\n<i><color=#66E0E4FF>Rabbie The Moonrabbit race</color></i>",
-      "defName": "Rabbie",
-      "enabled": true,
-      "name": "Rabbie",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+150% Flammability",
-          "+150% Psychic sensitivity",
-          "+140% Pain shock threshold",
-          "+200% Immunity gain speed",
-          "+50% Global learning factor",
-          "+150% Toxic sensitivity",
-          "+$2000 Market value",
-          "+4.90 Move speed",
-          "-72.0F Minimum comfortable temperature",
-          "+90.0F Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+100% Smoothing speed",
-          "+100% Construction speed",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+160.00% Social impact",
-          "+1.5 Melee dodge chance",
-          "+35.0% Armor - Blunt",
-          "+25.0% Armor - Sharp",
-          "+0.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A cold hearted creature, embodying the wilds. They have a alluring speech and their branches constantly shifts. They eat rarely but when they do, they eat meat.\n\n<i><color=#66E0E4FF>Warhammer\"ish\":Dryad</color></i>",
-      "defName": "Alien_Dryad",
-      "enabled": true,
-      "name": "dryad",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+175% Flammability",
-          "+150% Psychic sensitivity",
-          "+140% Pain shock threshold",
-          "+200% Immunity gain speed",
-          "+50% Global learning factor",
-          "+150% Toxic sensitivity",
-          "+$2000 Market value",
-          "+4.90 Move speed",
-          "-72.0F Minimum comfortable temperature",
-          "+90.0F Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+100% Smoothing speed",
-          "+100% Construction speed",
-          "+100% Research speed",
-          "+75% Mining speed",
-          "+50.00% Social impact",
-          "+1.5 Melee dodge chance",
-          "+35.0% Armor - Blunt",
-          "+25.0% Armor - Sharp",
-          "+0.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "The Dryads, the spiteful protectors of the forest. A truer form of the cold hearted wraiths of Athel Loren.\n\n<i><color=#66E0E4FF>Warhammer\"ish\":Dryad</color></i>",
-      "defName": "Alien_DryadWild",
-      "enabled": true,
-      "name": "wild dryad",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+65.00 Mass",
-          "+100% Flammability",
-          "+$2500 Market value",
-          "+3 Honor value",
-          "+110 Carrying capacity",
-          "+100% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+85% Rest rate multiplier",
-          "+90% Immunity gain speed",
-          "+90% Global work speed",
-          "+0.5 Foraged food amount",
-          "+90.00% Negotiation ability",
-          "+100.00% Social impact",
-          "+100.00% Trade price improvement",
-          "+40 Leather amount",
-          "+85% Pain shock threshold",
-          "+21.6F Minimum comfortable temperature",
-          "+45.0F Maximum comfortable temperature",
-          "+6.50 Move speed",
-          "+90% Aiming time",
-          "+10.0 Melee dodge chance",
-          "+1.2 Melee hit chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Epona is a humanoid creature whose origin is completely unknown except that it has its origin in Glitterworld. Some scholars view Epona as a kind of chimera with insects, not a gene-binding race with horses. Whatever the truth is. Epona considers themselves a centaur. They have established their own kingdoms in the name of horses in Rimworlds on the periphery.\n\n<i><color=#66E0E4FF>Epona race Renaissance</color></i>",
-      "defName": "Alien_Epona",
-      "enabled": true,
-      "name": "Epona",
-      "price": 4167
-    },
-    {
-      "data": {
-        "stats": [
-          "+130.00 Mass",
-          "+100% Flammability",
-          "+$3500 Market value",
-          "+4 Honor value",
-          "+180 Carrying capacity",
-          "+75% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+75% Rest rate multiplier",
-          "+85% Immunity gain speed",
-          "+95% Global work speed",
-          "+0 Foraged food amount",
-          "+90.00% Negotiation ability",
-          "+100.00% Social impact",
-          "+100.00% Trade price improvement",
-          "+70 Leather amount",
-          "+85% Pain shock threshold",
-          "+18.0F Minimum comfortable temperature",
-          "+45.0F Maximum comfortable temperature",
-          "+7.00 Move speed",
-          "+100% Aiming time",
-          "+3.0 Melee dodge chance",
-          "+1.4 Melee hit chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "This is Epona, which has become huge due to a problem with the gene called Destrier Syndrome. Only women get Destrier syndrome and get stronger to match their size, but they become a little stupid.\n\n<i><color=#66E0E4FF>Epona race Renaissance</color></i>",
-      "defName": "Alien_Destrier",
-      "enabled": true,
-      "name": "Destrier",
-      "price": 5833
-    },
-    {
-      "data": {
-        "stats": [
-          "+65.00 Mass",
-          "+100% Flammability",
-          "+$5000 Market value",
-          "+20 Honor value",
-          "+90 Carrying capacity",
-          "+100% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+85% Rest rate multiplier",
-          "+105% Immunity gain speed",
-          "+90% Global work speed",
-          "+0.5 Foraged food amount",
-          "+120.00% Negotiation ability",
-          "+120.00% Social impact",
-          "+120.00% Trade price improvement",
-          "+40 Leather amount",
-          "+75% Pain shock threshold",
-          "+21.6F Minimum comfortable temperature",
-          "+45.0F Maximum comfortable temperature",
-          "+7.20 Move speed",
-          "+105% Aiming time",
-          "+12.0 Melee dodge chance",
-          "+0.8 Melee hit chance",
-          "+120% Medical tend quality",
-          "+150% Medical surgery success chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Uniponen is a male epona with horns. The male incarnation of the goddess Epona. They are beautiful, but above all they have medicinal properties in their horns, so they are often hunted by foreign mercenaries and poachers in the Empire.\n\n<i><color=#66E0E4FF>Epona race Renaissance</color></i>",
-      "defName": "Alien_Unicorn",
-      "enabled": true,
-      "name": "Uniponen",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+100% Flammability",
-          "+$2000 Market value",
-          "+4.85 Move speed",
-          "+55.8F Maximum comfortable temperature",
-          "+10.8F Minimum comfortable temperature",
-          "+110% Immunity gain speed",
-          "+45 Carrying capacity",
-          "+70% Pain shock threshold",
-          "+90% Toxic sensitivity",
-          "+110% Eating speed",
-          "+35 Meat amount",
-          "+30 Leather amount",
-          "+1.2 Melee dodge chance",
-          "+118% Aiming time",
-          "+85.00% Negotiation ability",
-          "+107.00% Social impact",
-          "+110% Mining speed",
-          "+105% Mining yield",
-          "+110% Plant work speed",
-          "+115% Hunting stealth",
-          "+90% Construction speed",
-          "+80% Research speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.\n\n<i><color=#66E0E4FF>NewRatkinPlus</color></i>",
-      "defName": "Ratkin",
-      "enabled": true,
-      "name": "Ratkin",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+100% Flammability",
-          "+$2000 Market value",
-          "+4.85 Move speed",
-          "+55.8F Maximum comfortable temperature",
-          "+10.8F Minimum comfortable temperature",
-          "+110% Immunity gain speed",
-          "+45 Carrying capacity",
-          "+70% Pain shock threshold",
-          "+80% Toxic sensitivity",
-          "+110% Eating speed",
-          "+35 Meat amount",
-          "+30 Leather amount",
-          "+1.2 Melee dodge chance",
-          "+118% Aiming time",
-          "+75.00% Negotiation ability",
-          "+95.00% Social impact",
-          "+110% Mining speed",
-          "+105% Mining yield",
-          "+110% Plant work speed",
-          "+115% Hunting stealth",
-          "+90% Construction speed",
-          "+80% Research speed",
-          "+85% Psychic sensitivity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.\n\n<i><color=#66E0E4FF>NewRatkinPlus</color></i>",
-      "defName": "Ratkin_Su",
-      "enabled": true,
-      "name": "Ratkin subject",
-      "price": 3333
     },
     {
       "data": {
@@ -67203,7 +67009,7 @@
       },
       "description": "The Blood Elves or Sin'dorei in Thalassian (\"children of the blood\"), are a race composed of former high elves who renamed themselves in honor of their people who were killed during the siege of Quel'Thalas by the Scourge during the Third War.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
       "defName": "WoW_BloodElf",
-      "enabled": true,
+      "enabled": false,
       "name": "blood elf",
       "price": 5000
     },
@@ -67233,7 +67039,7 @@
       },
       "description": "The draenei (meaning Exiled Ones in their own tongue) are a faction of uncorrupted eredar who fled their homeworld of Argus to escape the corruption of the demonic Burning Legion.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
       "defName": "WoW_Draenei",
-      "enabled": true,
+      "enabled": false,
       "name": "Draenei",
       "price": 5833
     },
@@ -67297,7 +67103,7 @@
       },
       "description": "The undead Forsaken or simply the Forsaken and Undead are a race and a faction of intelligent undead who broke away from the Scourge and took control of much of the kingdom of Lordaeron, destroyed during the Third War by the death knight Arthas. While comprised vastly of undead humans, the Forsaken are a diverse faction that include several different races at their biological core. However, they have all assumed their racial identity as \"Forsaken,\" due to their shared goals and loyalties.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
       "defName": "WoW_Forsaken",
-      "enabled": true,
+      "enabled": false,
       "name": "forsaken",
       "price": 3333
     },
@@ -67343,7 +67149,7 @@
       },
       "description": "The Night Elves are a powerful and mystical race whose origins extend back to ancient times. These then-immortal beings were among the first to study magic and let it loose throughout the world nearly ten thousand years before the First War on Azeroth. The far-reaching and ancient legacy of the night elves shaped them into a race of very self-sufficient and self-conscious individuals, who often display strong streaks of isolationism.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
       "defName": "WoW_ForsakenNightElf",
-      "enabled": true,
+      "enabled": false,
       "name": "Forsaken Night Elf",
       "price": 5000
     },
@@ -67388,7 +67194,7 @@
       },
       "description": "The Blood Elves or Sin'dorei in Thalassian (\"children of the blood\"), are a race composed of former high elves who renamed themselves in honor of their people who were killed during the siege of Quel'Thalas by the Scourge during the Third War.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
       "defName": "WoW_ForsakenHighElf",
-      "enabled": true,
+      "enabled": false,
       "name": "Forsaken High Elf",
       "price": 5000
     },
@@ -67478,7 +67284,7 @@
       },
       "description": "The High Elves, or Quel'dorei (\"children of noble birth\"), are a race descended from the Highborne night elves who left Kalimdor and settled in the Eastern Kingdoms, founding Quel'Thalas. The high elves were once a significant force on the continent, but in recent times their numbers have been dramatically reduced: almost 90% of their population in Quel'Thalas was slaughtered during the Third War.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
       "defName": "WoW_HighElf",
-      "enabled": true,
+      "enabled": false,
       "name": "high elf",
       "price": 5000
     },
@@ -67552,7 +67358,7 @@
       },
       "description": "Humans (collectively referred to as mankind or humanity) are a resilient species native to the world of Azeroth. Recent discoveries have shown that humans are descended from the barbaric half-giant vrykul of Northrend. Though humans are among the younger races on Azeroth, they have faced many challenges with fortitude and resilience. Their continued ability to adapt and rebuild has made them a vital force in an ever-changing world.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
       "defName": "WoW_Human",
-      "enabled": true,
+      "enabled": false,
       "name": "azerothian human",
       "price": 3333
     },
@@ -67582,7 +67388,7 @@
       },
       "description": "The Night Elves are a powerful and mystical race whose origins extend back to ancient times. These then-immortal beings were among the first to study magic and let it loose throughout the world nearly ten thousand years before the First War on Azeroth. The far-reaching and ancient legacy of the night elves shaped them into a race of very self-sufficient and self-conscious individuals, who often display strong streaks of isolationism.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
       "defName": "WoW_NightElf",
-      "enabled": true,
+      "enabled": false,
       "name": "night elf",
       "price": 5000
     },
@@ -67738,200 +67544,159 @@
       },
       "description": "The worgen are a race of feral wolf-beasts whose very name inspires fear. They are large, lupine humanoids that walk upright, but lope on all fours to run. Being bitten by or drinking the blood of a worgen causes humans and night elves to be transformed into one. After the transformation, those that are overcome by rage and guilt gradually lose all vestiges of their former lives and turn mindless. By controlling their emotions via medication, magic, and self-discipline, worgen may resist being overcome by their feral instincts.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
       "defName": "WoW_Worgen",
-      "enabled": true,
+      "enabled": false,
       "name": "Worgen",
       "price": 5000
     },
     {
       "data": {
         "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
+          "+85.00 Mass",
           "+$3500 Market value",
-          "+5.25 Move speed",
-          "+0.0F Minimum comfortable temperature",
-          "+64.8F Maximum comfortable temperature",
-          "+45 Leather amount",
-          "+3 Honor value",
-          "+90% Research speed",
-          "+125% Mining speed",
-          "+95.00% Social impact",
-          "+1.3 Melee dodge chance"
+          "+5.50 Move speed",
+          "+60% Flammability",
+          "+36.0F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+55 Leather amount",
+          "+200 Carrying capacity",
+          "+75% Aiming time",
+          "+2.5% Mental break threshold",
+          "+125% Immunity gain speed",
+          "+90% Pain shock threshold",
+          "+105% Global learning factor",
+          "+1.1 Melee dodge chance",
+          "+1.1 Melee hit chance",
+          "+50.00% Negotiation ability",
+          "+50.00% Social impact",
+          "+50.00% Trade price improvement",
+          "+130% Butchery speed",
+          "+130% Butchery efficiency"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "A bloodthirsty vulpine near-human.\n\n<i><color=#66E0E4FF>Revia Race</color></i>",
-      "defName": "ReviaRaceAlien",
-      "enabled": true,
-      "name": "Revia",
+      "description": ".\n\n<i><color=#66E0E4FF>Alien Vs Predator</color></i>",
+      "defName": "AvP_Alien_Yautja",
+      "enabled": false,
+      "name": "Yautja",
       "price": 5833
     },
     {
       "data": {
         "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+32.4F Minimum comfortable temperature",
-          "+46.8F Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value",
-          "+95% Incoming damage multiplier",
-          "+2.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "One of the races of xenohumans discovered on the distant world of Eorzea.  This race in particular sports lizard-like scales and tails and sensory horns in place of human ears, bringing to mind Old Terra's legends of dragons.  There is a split between dark and light scales leading to a cultural divide, but otherwise appear to be of the same race.  Records translated from many old Eorzean tomes indicate that at one time there appeared to be a large sexual dimorphism of size in the Au Ra, but centuries of evolution - and potentially breeding with other humanlike races - has eliminated any size differences between both genders and species.  It is currently unknown if the same geneticists responsible for the Miqo'te had their hand in the Au Ra as well.\n\n<i><color=#66E0E4FF>Erin's Au Ra</color></i>",
-      "defName": "AURA_Raen",
-      "enabled": true,
-      "name": "Au Ra",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+32.4F Minimum comfortable temperature",
-          "+46.8F Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value",
-          "+95% Incoming damage multiplier",
-          "+2.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "One of the races of xenohumans discovered on the distant world of Eorzea.  This race in particular sports lizard-like scales and tails and sensory horns in place of human ears, bringing to mind Old Terra's legends of dragons.  There is a split between dark and light scales leading to a cultural divide, but otherwise appear to be of the same race.  Records translated from many old Eorzean tomes indicate that at one time there appeared to be a large sexual dimorphism of size in the Au Ra, but centuries of evolution - and potentially breeding with other humanlike races - has eliminated any size differences between both genders and species.  It is currently unknown if the same geneticists responsible for the Miqo'te had their hand in the Au Ra as well.\n\n<i><color=#66E0E4FF>Erin's Au Ra</color></i>",
-      "defName": "AURA_Xaela",
-      "enabled": true,
-      "name": "Au Ra",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+28.8F Minimum comfortable temperature",
-          "+46.8F Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value",
-          "+0.1 Melee dodge chance",
-          "+0.1 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "The Miqo'te are a race of xenohumans first recorded by the Ordo Historia on the world of Eorzea, although their origins are shrouded in mystery, but certain biological adaptations, particularly the presence of two major ethnicities and cultural groupings defined by a diurnal or nocturnal preference suggest that yet another world may have been their home. All Miqo'te have feline ears and tails, a sharp sense of smell and powerful leg muscles making them natural hunters. A quirk resulting from their gene-engineered origins means that male Miqo’te are exceedingly rare, representing about one-tenth of the population.\n\n<i><color=#66E0E4FF>Erin's Miqo'te</color></i>",
-      "defName": "MQT_Miqote",
-      "enabled": true,
-      "name": "miqo'te",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+65.00 Mass",
-          "+100% Flammability",
-          "+$2750 Market value",
-          "+4.55 Move speed",
-          "+50.4F Maximum comfortable temperature",
-          "+28.8F Minimum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+75 Carrying capacity",
-          "+80 Meat amount",
-          "+50 Leather amount",
-          "+100% Psychic sensitivity",
-          "+0.9 Melee dodge chance",
-          "+100.00% Social impact",
-          "+100% General labor speed",
-          "+100% Drug synthesis speed",
-          "+100% Medical tend speed",
-          "+100% Medical tend quality",
-          "+100% Medical surgery success chance",
-          "+6 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Heyras settled in Rimworld a long time ago. They possess a unique psychic ability to, occasionally, hear whispers in their heads. Despite these whispers being mostly scattered words, Heyras believe they are the oracles of God. We do not know if these whispers are real. But it is confirmed that Heyras have a higher psychic sensitivity than humans.\n\n<i><color=#66E0E4FF>Heyra the Horned</color></i>",
-      "defName": "Alien_Heyra",
-      "enabled": true,
-      "name": "Heyra",
-      "price": 4583
-    },
-    {
-      "data": {
-        "stats": [
-          "+65.00 Mass",
-          "+100% Flammability",
-          "+$2750 Market value",
+          "+$5000 Market value",
           "+4.80 Move speed",
-          "+63.0F Maximum comfortable temperature",
-          "+18.0F Minimum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+75 Carrying capacity",
-          "+80 Meat amount",
-          "+50 Leather amount",
-          "+80% Psychic sensitivity",
+          "+80% Flammability",
+          "-18.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+40 Leather amount",
+          "+40 Meat amount",
+          "+125 Carrying capacity",
+          "+0% Psychic sensitivity",
+          "+30% Toxic sensitivity",
+          "+120% Mining speed",
+          "+1.0 Shooting accuracy",
+          "+100% Aiming time",
+          "+2% Mental break threshold",
+          "+125% Immunity gain speed",
+          "+100% Pain shock threshold",
+          "+0 Foraged food amount",
+          "+130% Global learning factor",
           "+1.2 Melee dodge chance",
-          "+55.00% Social impact",
-          "+80% General labor speed",
-          "+120% Drug synthesis speed",
-          "+100% Medical tend speed",
-          "+100% Medical tend quality",
-          "+100% Medical surgery success chance",
-          "+6 Honor value"
+          "+1.1 Melee hit chance",
+          "+110% Butchery speed",
+          "+110% Butchery efficiency",
+          "+110% Smelting speed",
+          "+110% General labor speed",
+          "+110.00% Negotiation ability",
+          "+90.00% Social impact",
+          "+80.00% Trade price improvement"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "These savage barbarians are the nemesis of Heyras. They have thrown away the sense of moral and pursuit the primal pleasure. A series of evidence indicates that Rong is a separated branch of Heyra, although the Supreme Hierarch of Heyra denies this in all her strength.\n\n<i><color=#66E0E4FF>Heyra the Horned</color></i>",
-      "defName": "Alien_Heyra_Rong",
-      "enabled": true,
-      "name": "Rong",
-      "price": 4583
+      "description": "A synthetic being.\n\n<i><color=#66E0E4FF>Alien Vs Predator</color></i>",
+      "defName": "AvP_Synth",
+      "enabled": false,
+      "name": "Synth",
+      "price": 8333
     },
     {
       "data": {
         "stats": [
-          "+70.00 Mass",
+          "+50.00 Mass",
           "+100% Flammability",
-          "-108.0F Minimum comfortable temperature",
-          "+360.0F Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+0 Carrying capacity",
-          "+0.00% Social impact",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp",
-          "+0.0% Armor - Heat"
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+55.8F Maximum comfortable temperature",
+          "+10.8F Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+45 Carrying capacity",
+          "+70% Pain shock threshold",
+          "+90% Toxic sensitivity",
+          "+110% Eating speed",
+          "+35 Meat amount",
+          "+30 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+118% Aiming time",
+          "+85.00% Negotiation ability",
+          "+107.00% Social impact",
+          "+110% Mining speed",
+          "+105% Mining yield",
+          "+110% Plant work speed",
+          "+115% Hunting stealth",
+          "+90% Construction speed",
+          "+80% Research speed"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "A zombie\n\n<i><color=#66E0E4FF>Zombieland</color></i>",
-      "defName": "Zombie",
-      "enabled": true,
-      "name": "Zombie",
-      "price": 1
+      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.\n\n<i><color=#66E0E4FF>NewRatkinPlus</color></i>",
+      "defName": "Ratkin",
+      "enabled": false,
+      "name": "Ratkin",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+55.8F Maximum comfortable temperature",
+          "+10.8F Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+45 Carrying capacity",
+          "+70% Pain shock threshold",
+          "+80% Toxic sensitivity",
+          "+110% Eating speed",
+          "+35 Meat amount",
+          "+30 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+118% Aiming time",
+          "+75.00% Negotiation ability",
+          "+95.00% Social impact",
+          "+110% Mining speed",
+          "+105% Mining yield",
+          "+110% Plant work speed",
+          "+115% Hunting stealth",
+          "+90% Construction speed",
+          "+80% Research speed",
+          "+85% Psychic sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.\n\n<i><color=#66E0E4FF>NewRatkinPlus</color></i>",
+      "defName": "Ratkin_Su",
+      "enabled": false,
+      "name": "Ratkin subject",
+      "price": 3333
     }
   ]
 }

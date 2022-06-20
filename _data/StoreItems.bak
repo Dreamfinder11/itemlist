@@ -1028,7 +1028,7 @@
 	},
 	{
 		"abr": "steel",
-		"price": 10,
+		"price": 2,
 		"category": "Raw resources",
 		"defname": "Steel"
 	},
@@ -1040,7 +1040,7 @@
 	},
 	{
 		"abr": "wood",
-		"price": 10,
+		"price": 2,
 		"category": "Raw resources",
 		"defname": "WoodLog"
 	},
@@ -1406,7 +1406,7 @@
 	},
 	{
 		"abr": "sandstoneblocks",
-		"price": 10,
+		"price": 1,
 		"category": "Stone blocks",
 		"defname": "BlocksSandstone"
 	},
@@ -1418,7 +1418,7 @@
 	},
 	{
 		"abr": "limestoneblocks",
-		"price": 10,
+		"price": 1,
 		"category": "Stone blocks",
 		"defname": "BlocksLimestone"
 	},
@@ -8342,7 +8342,7 @@
 	},
 	{
 		"abr": "skysteel",
-		"price": 10,
+		"price": 2,
 		"category": "Raw resources",
 		"defname": "AA_SkySteel"
 	},
@@ -9578,7 +9578,7 @@
 	},
 	{
 		"abr": "cragstoneblocks",
-		"price": 10,
+		"price": 1,
 		"category": "Stone blocks",
 		"defname": "AB_BlocksCragstone"
 	},
@@ -9590,7 +9590,7 @@
 	},
 	{
 		"abr": "mudstoneblocks",
-		"price": 10,
+		"price": 1,
 		"category": "Stone blocks",
 		"defname": "AB_BlocksMudstone"
 	},
@@ -15853,12 +15853,6 @@
 		"defname": "VFEC_CraftingBench"
 	},
 	{
-		"abr": "cragstonechunk",
-		"price": -10,
-		"category": "Stone chunks",
-		"defname": "AB_ChunkCragstone"
-	},
-	{
 		"abr": "crimsonblossom",
 		"price": 567,
 		"category": "Melee weapons",
@@ -18739,12 +18733,6 @@
 		"defname": "MorrowRim_GrahlTusk"
 	},
 	{
-		"abr": "granitechunk",
-		"price": -10,
-		"category": "Stone chunks",
-		"defname": "ChunkGranite"
-	},
-	{
 		"abr": "granitegolem",
 		"price": 2500,
 		"category": "Animal",
@@ -19031,12 +19019,6 @@
 		"price": 2667,
 		"category": "Scrolls",
 		"defname": "SpellOf_SacrificialPact"
-	},
-	{
-		"abr": "hardenedslimechunk",
-		"price": -10,
-		"category": "Stone chunks",
-		"defname": "AB_ChunkSlimeStone"
 	},
 	{
 		"abr": "harmonobooster",
@@ -20041,12 +20023,6 @@
 		"defname": "SpellOf_Overcharge"
 	},
 	{
-		"abr": "limestonechunk",
-		"price": -10,
-		"category": "Stone chunks",
-		"defname": "ChunkLimestone"
-	},
-	{
 		"abr": "limestonegolem",
 		"price": 2500,
 		"category": "Animal",
@@ -20567,12 +20543,6 @@
 		"price": 917,
 		"category": "Animals",
 		"defname": "GR_Manwolf"
-	},
-	{
-		"abr": "marblechunk",
-		"price": -10,
-		"category": "Stone chunks",
-		"defname": "ChunkMarble"
 	},
 	{
 		"abr": "marblegolem",
@@ -21301,12 +21271,6 @@
 		"defname": "MRSKitR"
 	},
 	{
-		"abr": "mudstonechunk",
-		"price": -10,
-		"category": "Stone chunks",
-		"defname": "AB_ChunkMudstone"
-	},
-	{
 		"abr": "muffalogenome",
 		"price": 17,
 		"category": "Genetic materials (tier 1)",
@@ -21767,12 +21731,6 @@
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "VCE_RawOats"
-	},
-	{
-		"abr": "obsidianchunk",
-		"price": -10,
-		"category": "Stone chunks",
-		"defname": "AB_ChunkObsidian"
 	},
 	{
 		"abr": "ogrim",
@@ -23551,12 +23509,6 @@
 		"defname": "GR_RodentGenetic"
 	},
 	{
-		"abr": "rosequartzchunk",
-		"price": -10,
-		"category": "Stone chunks",
-		"defname": "GU_ChunkRoseQuartz"
-	},
-	{
 		"abr": "rotti",
 		"price": 667,
 		"category": "Animals",
@@ -23729,12 +23681,6 @@
 		"price": 842,
 		"category": "Armor",
 		"defname": "Ancient_SamuraiYoroi"
-	},
-	{
-		"abr": "sandstonechunk",
-		"price": -10,
-		"category": "Stone chunks",
-		"defname": "ChunkSandstone"
 	},
 	{
 		"abr": "sandstonegolem",
@@ -24379,12 +24325,6 @@
 		"defname": "TMC_SR_SKSOldNVG"
 	},
 	{
-		"abr": "slatechunk",
-		"price": -10,
-		"category": "Stone chunks",
-		"defname": "ChunkSlate"
-	},
-	{
 		"abr": "slategolem",
 		"price": 2500,
 		"category": "Animal",
@@ -24683,12 +24623,6 @@
 		"price": 173,
 		"category": "Simple parts",
 		"defname": "SteelArm"
-	},
-	{
-		"abr": "steelslagchunk",
-		"price": -10,
-		"category": "Chunks",
-		"defname": "ChunkSlagSteel"
 	},
 	{
 		"abr": "stegosaurusmeat",
@@ -25819,22 +25753,10 @@
 		"defname": "Meat_AURA_Raen"
 	},
 	{
-		"abr": "aurameat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_AURA_Xaela"
-	},
-	{
 		"abr": "aurelianstoneblocks",
-		"price": 2,
+		"price": 1,
 		"category": "Stone blocks",
 		"defname": "BlocksAurelianStone"
-	},
-	{
-		"abr": "aurelianstonechunk",
-		"price": -10,
-		"category": "Stone chunks",
-		"defname": "ChunkAurelianStone"
 	},
 	{
 		"abr": "autoclave",
@@ -28374,6 +28296,84 @@
 		"category": "Soils",
 		"defname": "SR_Gravel"
 	},
+	{
+		"abr": "zombieextract",
+		"price": 17,
+		"category": "Serum",
+		"defname": "ZombieExtract"
+	},
+	{
+		"abr": "zombiemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Zombie"
+	},
+	{
+		"abr": "zombieserum10%",
+		"price": 200,
+		"category": "Serum",
+		"defname": "Zombie10Serum"
+	},
+	{
+		"abr": "zombieserum100%",
+		"price": 200,
+		"category": "Serum",
+		"defname": "ZombieSerumSimple"
+	},
+	{
+		"abr": "zombieserum100%",
+		"price": 2000,
+		"category": "Serum",
+		"defname": "Zombie100Serum"
+	},
+	{
+		"abr": "zombieserum20%",
+		"price": 400,
+		"category": "Serum",
+		"defname": "Zombie20Serum"
+	},
+	{
+		"abr": "zombieserum30%",
+		"price": 600,
+		"category": "Serum",
+		"defname": "Zombie30Serum"
+	},
+	{
+		"abr": "zombieserum40%",
+		"price": 800,
+		"category": "Serum",
+		"defname": "Zombie40Serum"
+	},
+	{
+		"abr": "zombieserum50%",
+		"price": 1000,
+		"category": "Serum",
+		"defname": "Zombie50Serum"
+	},
+	{
+		"abr": "zombieserum60%",
+		"price": 1200,
+		"category": "Serum",
+		"defname": "Zombie60Serum"
+	},
+	{
+		"abr": "zombieserum70%",
+		"price": 1400,
+		"category": "Serum",
+		"defname": "Zombie70Serum"
+	},
+	{
+		"abr": "zombieserum80%",
+		"price": 1600,
+		"category": "Serum",
+		"defname": "Zombie80Serum"
+	},
+	{
+		"abr": "zombieserum90%",
+		"price": 1800,
+		"category": "Serum",
+		"defname": "Zombie90Serum"
+	},
 	],
-	"total": 4758
+	"total": 4741
 }

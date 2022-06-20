@@ -18,6 +18,12 @@
     "version": "3.8.1038"
   },
   {
+    "author": "Ghost_Rolly",
+    "name": "Rim73 - Performance and Optimisations",
+    "steamId": "2573814850",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
@@ -45,17 +51,11 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.5"
+    "version": "2.5.7.6"
   },
   {
     "author": "spoonshortage",
     "name": "A Dog Said... Animal Prosthetics",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Runne Latki",
-    "name": "Rabbie The Moonrabbit race",
     "steamId": null,
     "version": null
   },
@@ -130,12 +130,6 @@
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Kompadt",
-    "name": "Warhammer\"ish\":Dryad",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Sarg Bjornson and  AFriend",
@@ -300,12 +294,6 @@
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Cash Register",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
@@ -345,7 +333,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.1.46"
+    "version": "1.1.48"
   },
   {
     "author": "Kikohi and  Trunken",
@@ -426,18 +414,6 @@
     "version": "1.0.7875.31864"
   },
   {
-    "author": "Outremer",
-    "name": "Epona race Renaissance",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Erin and  xrushha",
-    "name": "Erin's Au Ra",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Erin",
     "name": "Erin's Body Retexture",
     "steamId": null,
@@ -452,12 +428,6 @@
   {
     "author": "Erin",
     "name": "Erin's Hairstyles - Redux",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Erin and  xrushha",
-    "name": "Erin's Miqo'te",
     "steamId": null,
     "version": null
   },
@@ -528,12 +498,6 @@
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Gastronomy",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Captain Muscles (Nathan Harbour)",
     "name": "Grab Your Tool!",
     "steamId": "2355912467",
@@ -558,28 +522,16 @@
     "version": "1.0.0"
   },
   {
-    "author": "Bando",
-    "name": "Heyra the Horned",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "AUTOMATIC",
     "name": "High quality textures",
     "steamId": "1676969930",
     "version": "1.0.0.0"
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "1.8.0.0"
+    "version": "2.0.0.0"
   },
   {
     "author": "Kikohi",
@@ -608,12 +560,6 @@
   {
     "author": "Kitsune",
     "name": "Kit's Gunpowder Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Goob and LimeTreeSnake",
-    "name": "Kobolds of the Rim",
     "steamId": null,
     "version": null
   },
@@ -708,22 +654,10 @@
     "version": null
   },
   {
-    "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Unon",
     "name": "No Burn Metal",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Taranchuk",
-    "name": "Performance Optimizer",
-    "steamId": "2664723367",
-    "version": "1.0.0.0"
   },
   {
     "author": "Mehni",
@@ -753,13 +687,7 @@
     "author": "The White Crayon (Updated for 1.1 by Ogliss)",
     "name": "Quarry",
     "steamId": "2007576583",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "sunny",
-    "name": "Rabbie The Moonrabbit - English Patch (1.3)",
-    "steamId": null,
-    "version": null
+    "version": "2.0.0"
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
@@ -772,18 +700,6 @@
     "name": "[SR]Raid Extension",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Rin",
-    "name": "Ratkin Apparel+",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "YAYO",
-    "name": "Real Faction Guest",
-    "steamId": "2263021260",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
@@ -807,19 +723,13 @@
     "author": "Helixien and  Taranchuk",
     "name": "ReGrowth: Expanded World Generation (Continued)",
     "steamId": "2791768296",
-    "version": "1.3.4"
+    "version": "1.3.5"
   },
   {
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
     "version": "1.1.0.0"
-  },
-  {
-    "author": "Fox with a Shotgun",
-    "name": "Revia Race",
-    "steamId": "2020041005",
-    "version": "1.0.0.0"
   },
   {
     "author": "Ryflamer",
@@ -906,12 +816,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "RimWorld - Witcher Monster Hunt",
-    "steamId": "2008529522",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Rimworld: Spartan Foundry (Continued)",
     "steamId": null,
@@ -944,12 +848,6 @@
   {
     "author": "IcyCheeseCake",
     "name": "TasteOfVanilla-ish Dryad Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Seti",
-    "name": "Runic Dryad Retexture",
     "steamId": null,
     "version": null
   },
@@ -1470,10 +1368,28 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Ogliss",
+    "name": "Alien Vs Predator",
+    "steamId": "2034103876",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "SineSwiper",
     "name": "Xenobionic Patcher",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Dual Wield",
+    "steamId": "1628211313",
+    "version": "0.5.0.0"
   },
   {
     "author": "YAYO",
@@ -1560,7 +1476,7 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Drunkmaster Krash",
+    "author": "Zebu Wan",
     "name": "Rimscape Music",
     "steamId": null,
     "version": null
@@ -1620,18 +1536,6 @@
     "version": "1.1.1"
   },
   {
-    "author": "Gorlath",
-    "name": "Epona race Renaissance - Translation Fixes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Bando",
-    "name": "Heyra race restriction remover",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sam",
     "name": "Tilled Soil",
     "steamId": null,
@@ -1650,9 +1554,15 @@
     "version": "1.2.3"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Zombieland",
-    "steamId": "928376710",
-    "version": "3.1.0.0"
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Impassable Map Maker",
+    "steamId": "1180719335",
+    "version": "1.0.0.0"
   }
 ]
