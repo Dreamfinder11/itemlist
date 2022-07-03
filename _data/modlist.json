@@ -48,18 +48,6 @@
     "version": "9.0.1"
   },
   {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.5.7.6"
-  },
-  {
-    "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -186,12 +174,6 @@
     "version": null
   },
   {
-    "author": "ChJees",
-    "name": "Androids",
-    "steamId": "1541064015",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Roolo",
     "name": "Giddy-up! Core",
     "steamId": null,
@@ -238,12 +220,6 @@
     "name": "Vanilla Chemfuel Expanded",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Sarg,  erdelf,  Oskar Potocki,  Luizi and  Reann Shepard",
-    "name": "Vanilla Genetics Expanded",
-    "steamId": "2801160906",
-    "version": "1.0.0.0"
   },
   {
     "author": "xrushha",
@@ -531,7 +507,7 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "2.0.0.0"
+    "version": "2.3.0.0"
   },
   {
     "author": "Kikohi",
@@ -554,18 +530,6 @@
   {
     "author": "Kitsune",
     "name": "Kit's Brazilian Crops",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kitsune",
-    "name": "Kit's Gunpowder Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kure",
-    "name": "Kure's Rimworld of Magic Class Expansion Pack",
     "steamId": null,
     "version": null
   },
@@ -598,12 +562,6 @@
     "name": "Midworld Expanded: Medical",
     "steamId": "2471436881",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "StatistNo1, Rebel_Rabbit and Cain",
-    "name": "Mines 2.0",
-    "steamId": "2503894706",
-    "version": "0.0.0.0"
   },
   {
     "author": "Haplo",
@@ -1374,10 +1332,16 @@
     "version": "1.0.0"
   },
   {
-    "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus",
-    "steamId": null,
-    "version": null
+    "author": "ChJees",
+    "name": "Androids",
+    "steamId": "1541064015",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "DaLLaN",
+    "name": "Cyber Fauna 1.3",
+    "steamId": "1548649032",
+    "version": "1.0.0.0"
   },
   {
     "author": "SineSwiper",
@@ -1419,7 +1383,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.5"
+    "version": "6.2.0.7"
   },
   {
     "author": "SirRandoo",
@@ -1444,12 +1408,6 @@
     "name": "Research Tree",
     "steamId": "2608058938",
     "version": "3.17.533"
-  },
-  {
-    "author": "ZhengXiaotian",
-    "name": "ADE Pulse Turrets",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Darth_Sergeant",
@@ -1492,12 +1450,6 @@
     "name": "Gulden Mod",
     "steamId": "2786007888",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "AUTOMATIC",
-    "name": "Autocleaner",
-    "steamId": "2051042827",
-    "version": "1.0.379.0018"
   },
   {
     "author": "Fluffy",
@@ -1548,21 +1500,63 @@
     "version": null
   },
   {
-    "author": "Evelyn",
-    "name": "Soil Relocation Framework",
-    "steamId": "2654088143",
-    "version": "1.2.3"
-  },
-  {
     "author": "Roolo",
     "name": "Search and Destroy",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Impassable Map Maker",
-    "steamId": "1180719335",
+    "author": "Machine",
+    "name": "Raise The Roof 1.3",
+    "steamId": "1776143665",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Zylle",
+    "name": "Gemstones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kuratheris",
+    "name": "Kura's Extra Gems",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erin and  xrushha",
+    "name": "Erin's Au Ra",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erin and  xrushha",
+    "name": "Erin's Miqo'te",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "XeoNovaDan and  Netrve",
+    "name": "[XND] Turret Extensions (Continued)",
+    "steamId": "2810485459",
+    "version": "1.3.2"
+  },
+  {
+    "author": "Paradox",
+    "name": "More Vanilla Turrets 1.1+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "XeoNovaDan",
+    "name": "More Vanilla Turrets - Turret Extensions Patch (Continued)",
+    "steamId": null,
+    "version": null
   }
 ]

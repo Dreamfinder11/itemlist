@@ -3,12 +3,7 @@
 	{
 		"abr": "tornado",
 		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -223,27 +218,27 @@
 	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "dropraid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "siegeraid",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "mechanoidraid",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "infestation",
@@ -253,7 +248,7 @@
 	{
 		"abr": "manhunterpack",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "predators",
@@ -377,7 +372,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -493,12 +488,12 @@
 	{
 		"abr": "raidblackhive",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "raidmechanoidsappers",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "fungalhuskwandersin",
@@ -508,12 +503,12 @@
 	{
 		"abr": "factionwar",
 		"price": 1500,
-		"karmatype": "Neutral"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "factionsiege",
 		"price": 1500,
-		"karmatype": "Neutral"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "factioncontention",
@@ -528,12 +523,12 @@
 	{
 		"abr": "raidpoachers",
 		"price": 1000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "raidloggers",
 		"price": 1000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "hostiletraveler",
@@ -574,11 +569,6 @@
 		"abr": "hailstorm",
 		"price": 800,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "veemeteoriteshower",
-		"price": 600,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "animalpodcrash",
@@ -631,5 +621,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 126
+	"total": 124
 }
