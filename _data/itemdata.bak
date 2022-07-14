@@ -26557,7 +26557,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Vanilla Animals Expanded — Caves",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "VAECaves_InsectoidHulk": {
     "CustomName": null,
@@ -34159,426 +34159,6 @@
     "Mod": "Misc. Training",
     "KarmaType": null
   },
-  "ChjAndroid": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "Leather_ChJAndroid": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChjDroid": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChjBattleDroid": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChJAndroidThermalBandages": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChjAndroidMaidOutfit": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChjAndroidMaidBattleDress": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChjAndroidBattleMaidHat": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChJAndroidPrinter": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChJDroidPrinter": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChjDroidHibernationPad": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChjAndroidBattery": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChjDroidRepairParts": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChjDroidRepairKit": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChjAndroid_SolarDuster": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChjAndroid_ChemfuelGenerator": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChjAndroidDroidAssemblyKit": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChjAndroidBattleDroidAssemblyKit": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChjAndroidGun_RebelRifle": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "ChjAndroidGun_Rebelpistol": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
-  "Gun_ChjCoreLauncher": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
-    "KarmaType": null
-  },
   "VAE_Headgear_RoyalTrooperHelmet": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -37917,26 +37497,6 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Dinosauria",
-    "KarmaType": null
-  },
-  "Meat_ChjAndroid": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Androids",
     "KarmaType": null
   },
   "Techprint_CataphractArmor": {
@@ -43637,7 +43197,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Better Infestations 1.3",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "RttR_AlgaeLantern": {
     "CustomName": null,
@@ -44397,7 +43957,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Race to the Rim",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RttR_Fury": {
     "CustomName": null,
@@ -44417,7 +43977,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Race to the Rim",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RttR_Gronckle": {
     "CustomName": null,
@@ -44437,7 +43997,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Race to the Rim",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RttR_Hotburple": {
     "CustomName": null,
@@ -44457,7 +44017,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Race to the Rim",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RttR_Nadder": {
     "CustomName": null,
@@ -44477,7 +44037,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Race to the Rim",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RttR_Nightmare": {
     "CustomName": null,
@@ -44497,7 +44057,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Race to the Rim",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RttR_Razorwhip": {
     "CustomName": null,
@@ -44517,7 +44077,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Race to the Rim",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RttR_Rumblehorn": {
     "CustomName": null,
@@ -44537,7 +44097,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Race to the Rim",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RttR_Scauldron": {
     "CustomName": null,
@@ -44557,7 +44117,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Race to the Rim",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RttR_Skrill": {
     "CustomName": null,
@@ -44577,7 +44137,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Race to the Rim",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RttR_Stormcutter": {
     "CustomName": null,
@@ -44597,7 +44157,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Race to the Rim",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RttR_TerribleTerror": {
     "CustomName": null,
@@ -44617,7 +44177,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Race to the Rim",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RttR_TripleStryke": {
     "CustomName": null,
@@ -44637,7 +44197,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Race to the Rim",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RttR_Zippleback": {
     "CustomName": null,
@@ -44657,7 +44217,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Race to the Rim",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "ANN_IndependentEye": {
     "CustomName": null,
@@ -46377,7 +45937,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Forsakens: Fauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "FO_DuskProwler": {
     "CustomName": null,
@@ -46397,7 +45957,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Forsakens: Fauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "FO_RMurkling": {
     "CustomName": null,
@@ -46417,7 +45977,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Forsakens: Fauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "FO_ShadowCharger": {
     "CustomName": null,
@@ -46437,7 +45997,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Forsakens: Fauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "FO_Thunderox": {
     "CustomName": null,
@@ -46457,7 +46017,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Forsakens: Fauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "FF_Razor": {
     "CustomName": null,
@@ -46917,7 +46477,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Forsakens",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Alien_Forsaken": {
     "CustomName": null,
@@ -48157,7 +47717,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MM_Fenghuang": {
     "CustomName": null,
@@ -48177,7 +47737,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MM_Griffin": {
     "CustomName": null,
@@ -48197,7 +47757,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MM_Ieltxu": {
     "CustomName": null,
@@ -48217,7 +47777,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MM_Kappa": {
     "CustomName": null,
@@ -48237,7 +47797,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MM_Kitsune": {
     "CustomName": null,
@@ -48257,7 +47817,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MM_LernaeanHydra": {
     "CustomName": null,
@@ -48277,7 +47837,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MM_LesserWyvern": {
     "CustomName": null,
@@ -48297,7 +47857,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MM_Manticore": {
     "CustomName": null,
@@ -48317,7 +47877,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MM_Pegasus": {
     "CustomName": null,
@@ -48337,7 +47897,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Good"
   },
   "MM_Phoenix": {
     "CustomName": null,
@@ -48357,7 +47917,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "MM_Qilin": {
     "CustomName": null,
@@ -48377,7 +47937,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MM_Salamander": {
     "CustomName": null,
@@ -48397,7 +47957,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MM_Tlilcoatl": {
     "CustomName": null,
@@ -48417,7 +47977,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MM_Unicorn": {
     "CustomName": null,
@@ -48437,7 +47997,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MM_WildMinotaur": {
     "CustomName": null,
@@ -48457,7 +48017,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MM_WillOWisp": {
     "CustomName": null,
@@ -48477,7 +48037,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MM_Xiezhi": {
     "CustomName": null,
@@ -48497,7 +48057,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Magical Menagerie",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "EggTitanoboaFertilized": {
     "CustomName": null,
@@ -48997,7 +48557,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Daeodon": {
     "CustomName": null,
@@ -49017,7 +48577,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Gigantopithecus": {
     "CustomName": null,
@@ -49037,7 +48597,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Paraceratherium": {
     "CustomName": null,
@@ -49057,7 +48617,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Titanis": {
     "CustomName": null,
@@ -49077,7 +48637,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Titanoboa": {
     "CustomName": null,
@@ -49097,7 +48657,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoollyMammoth": {
     "CustomName": null,
@@ -49117,7 +48677,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Elasmotherium": {
     "CustomName": null,
@@ -49137,7 +48697,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Smilodon": {
     "CustomName": null,
@@ -49157,7 +48717,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Chalicotherium": {
     "CustomName": null,
@@ -49197,7 +48757,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Procoptodon": {
     "CustomName": null,
@@ -49217,7 +48777,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Megalania": {
     "CustomName": null,
@@ -49237,7 +48797,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Gomphotaria": {
     "CustomName": null,
@@ -49257,7 +48817,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Diprotodon": {
     "CustomName": null,
@@ -49277,7 +48837,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "ShortfacedBear": {
     "CustomName": null,
@@ -49297,7 +48857,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Dinocrocuta": {
     "CustomName": null,
@@ -49317,7 +48877,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Sivatherium": {
     "CustomName": null,
@@ -49337,7 +48897,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Andrewsarchus": {
     "CustomName": null,
@@ -49377,7 +48937,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Macrauchenia": {
     "CustomName": null,
@@ -49397,7 +48957,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Quinkana": {
     "CustomName": null,
@@ -49417,7 +48977,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Deinotherium": {
     "CustomName": null,
@@ -49437,7 +48997,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Aurochs": {
     "CustomName": null,
@@ -49477,7 +49037,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Palaeeudyptes": {
     "CustomName": null,
@@ -49497,7 +49057,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Josephoartigasia": {
     "CustomName": null,
@@ -49517,7 +49077,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Gigantophis": {
     "CustomName": null,
@@ -49537,7 +49097,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Meganeura": {
     "CustomName": null,
@@ -49557,7 +49117,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Zygolophodon": {
     "CustomName": null,
@@ -49577,7 +49137,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Platybelodon": {
     "CustomName": null,
@@ -49597,7 +49157,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Purussaurus": {
     "CustomName": null,
@@ -49617,7 +49177,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Uintatherium": {
     "CustomName": null,
@@ -49637,7 +49197,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Pulmonoscorpius": {
     "CustomName": null,
@@ -49657,7 +49217,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Dinopithecus": {
     "CustomName": null,
@@ -49677,7 +49237,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Castoroides": {
     "CustomName": null,
@@ -49717,7 +49277,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WCE2_OrganModificationKit": {
     "CustomName": null,
@@ -55357,7 +54917,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_Dragonhawk": {
     "CustomName": null,
@@ -55377,7 +54937,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_Elekk": {
     "CustomName": null,
@@ -55397,7 +54957,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_FairyDragon": {
     "CustomName": null,
@@ -55417,7 +54977,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_Forsakenhorse": {
     "CustomName": null,
@@ -55437,7 +54997,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_EpicForsakenhorse": {
     "CustomName": null,
@@ -55457,7 +55017,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_Frostsaber": {
     "CustomName": null,
@@ -55477,7 +55037,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_Frostwolf": {
     "CustomName": null,
@@ -55497,7 +55057,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_Hawkstrider": {
     "CustomName": null,
@@ -55517,7 +55077,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_Horse": {
     "CustomName": null,
@@ -55537,7 +55097,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_Kodo": {
     "CustomName": null,
@@ -55557,7 +55117,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_Manasaber": {
     "CustomName": null,
@@ -55577,7 +55137,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_Mastiff": {
     "CustomName": null,
@@ -55597,7 +55157,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_Murloc": {
     "CustomName": null,
@@ -55617,7 +55177,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_Nightsaber": {
     "CustomName": null,
@@ -55637,7 +55197,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_Ram": {
     "CustomName": null,
@@ -55657,7 +55217,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_Raptor": {
     "CustomName": null,
@@ -55697,7 +55257,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_Unicorn": {
     "CustomName": null,
@@ -55717,7 +55277,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoW_Animal_Voidstrider": {
     "CustomName": null,
@@ -55737,7 +55297,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[Ry]Rimcraft Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "EggWoWRaptorFertilized": {
     "CustomName": null,
@@ -56177,7 +55737,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Trolls",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_TrollPygmy": {
     "CustomName": null,
@@ -56197,7 +55757,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Trolls",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_TrollSwamp": {
     "CustomName": null,
@@ -56217,7 +55777,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Trolls",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_TrollFungal": {
     "CustomName": null,
@@ -56237,7 +55797,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Trolls",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_TrollBoomer": {
     "CustomName": null,
@@ -56277,7 +55837,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Trolls",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_TrollHill": {
     "CustomName": null,
@@ -56297,7 +55857,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Trolls",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_TrollRiver": {
     "CustomName": null,
@@ -56317,7 +55877,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Trolls",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_TrollGrahl": {
     "CustomName": null,
@@ -56337,7 +55897,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Trolls",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_TrollUdyrfrykte": {
     "CustomName": null,
@@ -56357,7 +55917,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Trolls",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_TrollGehenoth": {
     "CustomName": null,
@@ -56377,7 +55937,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Trolls",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_Apparel_DaedraSummoningStone": {
     "CustomName": null,
@@ -57177,7 +56737,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_RetchingNetch": {
     "CustomName": null,
@@ -57197,7 +56757,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_Clannfear": {
     "CustomName": null,
@@ -57217,7 +56777,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_Daedroth": {
     "CustomName": null,
@@ -57237,7 +56797,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_Ogrim": {
     "CustomName": null,
@@ -57257,7 +56817,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_Scamp": {
     "CustomName": null,
@@ -57277,7 +56837,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "MorrowRim_Hunger": {
     "CustomName": null,
@@ -57297,7 +56857,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Doom"
   },
   "MorrowRim_OgrimSmol": {
     "CustomName": null,
@@ -57317,7 +56877,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_SiltStrider": {
     "CustomName": null,
@@ -57337,7 +56897,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_NixHound": {
     "CustomName": null,
@@ -57357,7 +56917,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_Shalk": {
     "CustomName": null,
@@ -57377,7 +56937,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_AshHopper": {
     "CustomName": null,
@@ -57417,7 +56977,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_FungalShalk": {
     "CustomName": null,
@@ -57437,7 +56997,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_KwamaScrib": {
     "CustomName": null,
@@ -57457,7 +57017,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_KwamaForager": {
     "CustomName": null,
@@ -57477,7 +57037,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_KwamaWorker": {
     "CustomName": null,
@@ -57497,7 +57057,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "MorrowRim_KwamaWarrior": {
     "CustomName": null,
@@ -57517,7 +57077,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "MorrowRim_AshPanther": {
     "CustomName": null,
@@ -57557,7 +57117,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_AlbinoGuar": {
     "CustomName": null,
@@ -57617,7 +57177,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_Durzog": {
     "CustomName": null,
@@ -57637,7 +57197,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_CliffRacer": {
     "CustomName": null,
@@ -57657,7 +57217,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_TigerGuar": {
     "CustomName": null,
@@ -57677,7 +57237,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_BantamGuar": {
     "CustomName": null,
@@ -57717,7 +57277,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "MorrowRim_Scuttler": {
     "CustomName": null,
@@ -57737,7 +57297,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "MorrowRim_Vvardvark": {
     "CustomName": null,
@@ -57757,7 +57317,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "MorrowRim - Just the Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "AdvancedBionicEye": {
     "CustomName": null,
@@ -61137,7 +60697,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "ReGrowth Remastered: Extinct Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RG_WoollyRhinoceros": {
     "CustomName": null,
@@ -61157,7 +60717,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "ReGrowth Remastered: Extinct Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RG_WoollyStegosaurus": {
     "CustomName": null,
@@ -61177,7 +60737,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "ReGrowth Remastered: Extinct Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RG_SabertoothSquirrel": {
     "CustomName": null,
@@ -61197,7 +60757,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "ReGrowth Remastered: Extinct Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RG_Protoceratidae": {
     "CustomName": null,
@@ -61217,7 +60777,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "ReGrowth Remastered: Extinct Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RG_Dodo": {
     "CustomName": null,
@@ -61237,7 +60797,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "ReGrowth Remastered: Extinct Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RG_ArcticDrak": {
     "CustomName": null,
@@ -61297,7 +60857,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "ReGrowth Remastered: Extinct Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RG_Megalenhydris": {
     "CustomName": null,
@@ -61317,7 +60877,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "ReGrowth Remastered: Extinct Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RG_Thrinaxodon": {
     "CustomName": null,
@@ -61337,7 +60897,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "ReGrowth Remastered: Extinct Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RG_Velociraptor": {
     "CustomName": null,
@@ -61357,7 +60917,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "ReGrowth Remastered: Extinct Animals",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "ERN_Ferret": {
     "CustomName": null,
@@ -61377,7 +60937,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Erin's Friendly Ferrets",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "VFEC_Shield_Heavy": {
     "CustomName": null,
@@ -65457,7 +65017,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Gulden Mod",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "GuldenRuneBear": {
     "CustomName": null,
@@ -65477,7 +65037,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Gulden Mod",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Leather_RuneBear": {
     "CustomName": null,
@@ -65557,7 +65117,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Gulden Mod",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Gulden_Animal_Capricorn": {
     "CustomName": null,
@@ -67617,7 +67177,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Alien Vs Predator",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "AvP_USCM_StandardGear": {
     "CustomName": null,
@@ -69399,6 +68959,86 @@
     "Mod": "More Vanilla Turrets 1.1+",
     "KarmaType": null
   },
+  "AB_GiantSeeds": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Biomes",
+    "KarmaType": null
+  },
+  "AA_Bobeene": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "BenchWoolLoom": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[T] MoreFloors",
+    "KarmaType": null
+  },
+  "WoolCloth": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[T] MoreFloors",
+    "KarmaType": null
+  },
   "pipelineValve": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -69437,6 +69077,1026 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Expanded Prosthetics and Organ Engineering",
+    "KarmaType": null
+  },
+  "RSR_RandomYield": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Randomised Stone Refinery",
+    "KarmaType": null
+  },
+  "AdvancedArchotechLeg": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "AdvancedArchotechArm": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "ArchotechObliterator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "ArchotechHeart": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "ArchotechKidney": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "ArchotechLiver": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "ArchotechPelvis": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "ArchotechSpine": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "ArchotechLung": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "ArchotechStomach": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "ArchotechDenture": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "ArchotechEar": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "ArchotechDeathClaw": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "ArchotechBrainMelder": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "ArchotechMembrane": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "BasicArchotechWorkbench": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "Attomachinery": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "Picomachinery": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "Nanomachinery": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Archotech Expanded",
+    "KarmaType": null
+  },
+  "PotassiumIodide": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "RimatomicsRTG": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "RocketEngine": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "MissileFuselage": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "FissionWarhead": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "turbineBlade": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "UraniumPellets": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "Plutonium": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "DepletedUraniumPellets": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "FuelRods": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "FuelRodsMOX": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "Apparel_RadiationMask": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "Apparel_MoppMaskDesert": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "Apparel_MoppMaskWoodland": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "Apparel_MoppMaskSnow": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "Apparel_RadiationSuit": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "Apparel_MoppSuitDesert": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "Apparel_MoppSuitWoodland": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "Apparel_MoppSuitSnow": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "RailgunSabot": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "RailgunSabotDU": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "ControlRodActuator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "ATOM": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "SCAD": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "MEPS": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "ALC": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "ERS": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "DriveActuator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "TargetingChip": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "BeamSplitter": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
+  "LenseModule": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
     "KarmaType": null
   }
 }

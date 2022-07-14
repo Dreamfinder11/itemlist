@@ -216,6 +216,12 @@
     "version": "1.3.0.2"
   },
   {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki and  Kikohi",
     "name": "Vanilla Chemfuel Expanded",
     "steamId": null,
@@ -507,7 +513,7 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "2.3.0.0"
+    "version": "2.4.0.0"
   },
   {
     "author": "Kikohi",
@@ -681,7 +687,7 @@
     "author": "Helixien and  Taranchuk",
     "name": "ReGrowth: Expanded World Generation (Continued)",
     "steamId": "2791768296",
-    "version": "1.3.5"
+    "version": "1.3.6"
   },
   {
     "author": "Uuugggg",
@@ -1092,12 +1098,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
-    "steamId": "2062943477",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki and  Trunken",
     "name": "Vanilla Furniture Expanded - Production",
     "steamId": null,
@@ -1332,12 +1332,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "ChJees",
-    "name": "Androids",
-    "steamId": "1541064015",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "DaLLaN",
     "name": "Cyber Fauna 1.3",
     "steamId": "1548649032",
@@ -1558,5 +1552,47 @@
     "name": "More Vanilla Turrets - Turret Extensions Patch (Continued)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "HappyBodi",
+    "name": "Better Multi-Analyzers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kupie",
+    "name": "Multiple Multi-Analyzers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Telkir",
+    "name": "[T] MoreFloors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lanilor",
+    "name": "Simply More Bridges (Continued)",
+    "steamId": "2012484790",
+    "version": "1.3.4"
+  },
+  {
+    "author": "MrKociak",
+    "name": "Randomised Stone Refinery",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Teok25",
+    "name": "Archotech Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
   }
 ]

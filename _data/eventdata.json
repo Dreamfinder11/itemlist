@@ -935,7 +935,7 @@
     "LocalCooldown": 0,
     "Mod": "Unknown"
   },
-  "veemeteoriteshower": {
+  "meteoriteshower": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,

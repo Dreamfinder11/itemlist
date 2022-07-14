@@ -1414,7 +1414,7 @@
       "abr": "graniteblocks",
       "category": "Stone blocks",
       "defname": "BlocksGranite",
-      "price": 10
+      "price": 1
     },
     {
       "abr": "limestoneblocks",
@@ -1426,13 +1426,13 @@
       "abr": "slateblocks",
       "category": "Stone blocks",
       "defname": "BlocksSlate",
-      "price": 10
+      "price": 1
     },
     {
       "abr": "marbleblocks",
       "category": "Stone blocks",
       "defname": "BlocksMarble",
-      "price": 10
+      "price": 1
     },
     {
       "abr": "breachaxe",
@@ -9574,7 +9574,7 @@
       "abr": "rosequartzblocks",
       "category": "Stone blocks",
       "defname": "GU_BlocksRoseQuartz",
-      "price": 10
+      "price": 1
     },
     {
       "abr": "cragstoneblocks",
@@ -9586,7 +9586,7 @@
       "abr": "obsidianblocks",
       "category": "Stone blocks",
       "defname": "AB_BlocksObsidian",
-      "price": 10
+      "price": 1
     },
     {
       "abr": "mudstoneblocks",
@@ -10217,132 +10217,6 @@
       "category": "Recreation",
       "defname": "MartialArtsTarget",
       "price": 250
-    },
-    {
-      "abr": "android",
-      "category": "Animal",
-      "defname": "ChjAndroid",
-      "price": -10
-    },
-    {
-      "abr": "androidleather",
-      "category": "Leathers",
-      "defname": "Leather_ChJAndroid",
-      "price": 10
-    },
-    {
-      "abr": "droid",
-      "category": "Animal",
-      "defname": "ChjDroid",
-      "price": -10
-    },
-    {
-      "abr": "battledroid",
-      "category": "Animal",
-      "defname": "ChjBattleDroid",
-      "price": -10
-    },
-    {
-      "abr": "thermalwrapping",
-      "category": "Apparel",
-      "defname": "ChJAndroidThermalBandages",
-      "price": 60
-    },
-    {
-      "abr": "maiddress",
-      "category": "Apparel",
-      "defname": "ChjAndroidMaidOutfit",
-      "price": 520
-    },
-    {
-      "abr": "battledress",
-      "category": "Apparel",
-      "defname": "ChjAndroidMaidBattleDress",
-      "price": 1450
-    },
-    {
-      "abr": "battlemaidhat",
-      "category": "Headgear",
-      "defname": "ChjAndroidBattleMaidHat",
-      "price": 450
-    },
-    {
-      "abr": "androidprinter",
-      "category": "Production",
-      "defname": "ChJAndroidPrinter",
-      "price": 7180
-    },
-    {
-      "abr": "droidfabricator",
-      "category": "Misc",
-      "defname": "ChJDroidPrinter",
-      "price": 1820
-    },
-    {
-      "abr": "hibernationpad",
-      "category": "Production",
-      "defname": "ChjDroidHibernationPad",
-      "price": 100
-    },
-    {
-      "abr": "droidbattery",
-      "category": "Manufactured",
-      "defname": "ChjAndroidBattery",
-      "price": 20
-    },
-    {
-      "abr": "droidrepairparts",
-      "category": "Manufactured",
-      "defname": "ChjDroidRepairParts",
-      "price": 30
-    },
-    {
-      "abr": "droidrepairkit",
-      "category": "Manufactured",
-      "defname": "ChjDroidRepairKit",
-      "price": 370
-    },
-    {
-      "abr": "droidsolarpanelduster",
-      "category": "Apparel",
-      "defname": "ChjAndroid_SolarDuster",
-      "price": 650
-    },
-    {
-      "abr": "droidchemfuelgeneratorbelt",
-      "category": "Apparel",
-      "defname": "ChjAndroid_ChemfuelGenerator",
-      "price": 330
-    },
-    {
-      "abr": "droidassemblykit",
-      "category": "Items",
-      "defname": "ChjAndroidDroidAssemblyKit",
-      "price": 1780
-    },
-    {
-      "abr": "battledroidassemblykit",
-      "category": "Items",
-      "defname": "ChjAndroidBattleDroidAssemblyKit",
-      "price": 3950
-    },
-    {
-      "abr": "rebelrifle",
-      "category": "Ranged weapons",
-      "defname": "ChjAndroidGun_RebelRifle",
-      "price": 920
-    },
-    {
-      "abr": "rebelpistol",
-      "category": "Ranged weapons",
-      "defname": "ChjAndroidGun_Rebelpistol",
-      "price": 320
-    },
-    {
-      "abr": "corelauncher",
-      "category": "Ranged weapons",
-      "defname": "Gun_ChjCoreLauncher",
-      "price": 2280
     },
     {
       "abr": "prestigetrooperhelmet",
@@ -11344,12 +11218,6 @@
       "abr": "pteranodonmeat",
       "category": "Meat",
       "defname": "Meat_Pteranodon",
-      "price": 10
-    },
-    {
-      "abr": "androidmeat",
-      "category": "Meat",
-      "defname": "Meat_ChjAndroid",
       "price": 10
     },
     {
@@ -13690,7 +13558,7 @@
       "abr": "concreteblocks",
       "category": "Stone blocks",
       "defname": "VFEC_BlocksConcrete",
-      "price": 2
+      "price": 1
     },
     {
       "abr": "concussionbaton",
@@ -20833,6 +20701,336 @@
       "price": 1667
     },
     {
+      "abr": "bobeene",
+      "category": "Animals",
+      "defname": "AA_Bobeene",
+      "price": 917
+    },
+    {
+      "abr": "giantsunflowerseeds",
+      "category": "Vegetarian",
+      "defname": "AB_GiantSeeds",
+      "price": 2
+    },
+    {
+      "abr": "woolcloth",
+      "category": "Textiles",
+      "defname": "WoolCloth",
+      "price": 3
+    },
+    {
+      "abr": "woolloom",
+      "category": "Production",
+      "defname": "BenchWoolLoom",
+      "price": 148
+    },
+    {
+      "abr": "randomresources",
+      "category": "Raw resources",
+      "defname": "RSR_RandomYield",
+      "price": 2
+    },
+    {
+      "abr": "advancedarchotecharm",
+      "category": "Archotech",
+      "defname": "AdvancedArchotechArm",
+      "price": 33333
+    },
+    {
+      "abr": "advancedarchotechleg",
+      "category": "Archotech",
+      "defname": "AdvancedArchotechLeg",
+      "price": 33333
+    },
+    {
+      "abr": "archotechbrainmelder",
+      "category": "Archotech",
+      "defname": "ArchotechBrainMelder",
+      "price": 33333
+    },
+    {
+      "abr": "archotechdeathclaw",
+      "category": "Archotech",
+      "defname": "ArchotechDeathClaw",
+      "price": 33333
+    },
+    {
+      "abr": "archotechdenture",
+      "category": "Prosthetic",
+      "defname": "ArchotechDenture",
+      "price": 4667
+    },
+    {
+      "abr": "archotechear",
+      "category": "Prosthetic",
+      "defname": "ArchotechEar",
+      "price": 4667
+    },
+    {
+      "abr": "archotechheart",
+      "category": "Prosthetic",
+      "defname": "ArchotechHeart",
+      "price": 4667
+    },
+    {
+      "abr": "archotechkidney",
+      "category": "Prosthetic",
+      "defname": "ArchotechKidney",
+      "price": 4667
+    },
+    {
+      "abr": "archotechliver",
+      "category": "Prosthetic",
+      "defname": "ArchotechLiver",
+      "price": 4667
+    },
+    {
+      "abr": "archotechlung",
+      "category": "Prosthetic",
+      "defname": "ArchotechLung",
+      "price": 4667
+    },
+    {
+      "abr": "archotechmembrane",
+      "category": "Archotech",
+      "defname": "ArchotechMembrane",
+      "price": 33333
+    },
+    {
+      "abr": "archotechobliterator",
+      "category": "Archotech",
+      "defname": "ArchotechObliterator",
+      "price": 33333
+    },
+    {
+      "abr": "archotechpelvis",
+      "category": "Prosthetic",
+      "defname": "ArchotechPelvis",
+      "price": 4667
+    },
+    {
+      "abr": "archotechspine",
+      "category": "Prosthetic",
+      "defname": "ArchotechSpine",
+      "price": 4667
+    },
+    {
+      "abr": "archotechstomach",
+      "category": "Prosthetic",
+      "defname": "ArchotechStomach",
+      "price": 4667
+    },
+    {
+      "abr": "attomachinery",
+      "category": "Textiles",
+      "defname": "Attomachinery",
+      "price": 500
+    },
+    {
+      "abr": "basicarchotechworkbench",
+      "category": "Production",
+      "defname": "BasicArchotechWorkbench",
+      "price": 2617
+    },
+    {
+      "abr": "nanomachinery",
+      "category": "Textiles",
+      "defname": "Nanomachinery",
+      "price": 167
+    },
+    {
+      "abr": "picomachinery",
+      "category": "Textiles",
+      "defname": "Picomachinery",
+      "price": 333
+    },
+    {
+      "abr": "alc",
+      "category": "Rimatomics Product",
+      "defname": "ALC",
+      "price": 67
+    },
+    {
+      "abr": "atom",
+      "category": "Rimatomics Product",
+      "defname": "ATOM",
+      "price": 67
+    },
+    {
+      "abr": "beamsplitter",
+      "category": "Rimatomics Product",
+      "defname": "BeamSplitter",
+      "price": 67
+    },
+    {
+      "abr": "controlrodactuator",
+      "category": "Rimatomics Product",
+      "defname": "ControlRodActuator",
+      "price": 67
+    },
+    {
+      "abr": "depleteduranium",
+      "category": "Rimatomics Product",
+      "defname": "DepletedUraniumPellets",
+      "price": 13
+    },
+    {
+      "abr": "driveactuator",
+      "category": "Rimatomics Product",
+      "defname": "DriveActuator",
+      "price": 67
+    },
+    {
+      "abr": "dusabotround",
+      "category": "Sabot Rounds",
+      "defname": "RailgunSabotDU",
+      "price": 83
+    },
+    {
+      "abr": "ers",
+      "category": "Rimatomics Product",
+      "defname": "ERS",
+      "price": 67
+    },
+    {
+      "abr": "fuelrods",
+      "category": "Nuclear fuel",
+      "defname": "FuelRods",
+      "price": 1667
+    },
+    {
+      "abr": "fuelrodsmox",
+      "category": "Nuclear fuel",
+      "defname": "FuelRodsMOX",
+      "price": 3333
+    },
+    {
+      "abr": "lensmodule",
+      "category": "Rimatomics Product",
+      "defname": "LenseModule",
+      "price": 67
+    },
+    {
+      "abr": "meps",
+      "category": "Rimatomics Product",
+      "defname": "MEPS",
+      "price": 67
+    },
+    {
+      "abr": "missilefuselage",
+      "category": "Rimatomics Product",
+      "defname": "MissileFuselage",
+      "price": 67
+    },
+    {
+      "abr": "moppmask(desert)",
+      "category": "Mopp",
+      "defname": "Apparel_MoppMaskDesert",
+      "price": 533
+    },
+    {
+      "abr": "moppmask(snow)",
+      "category": "Mopp",
+      "defname": "Apparel_MoppMaskSnow",
+      "price": 533
+    },
+    {
+      "abr": "moppmask(woodland)",
+      "category": "Mopp",
+      "defname": "Apparel_MoppMaskWoodland",
+      "price": 533
+    },
+    {
+      "abr": "moppsuit(desert)",
+      "category": "Mopp",
+      "defname": "Apparel_MoppSuitDesert",
+      "price": 550
+    },
+    {
+      "abr": "moppsuit(snow)",
+      "category": "Mopp",
+      "defname": "Apparel_MoppSuitSnow",
+      "price": 550
+    },
+    {
+      "abr": "moppsuit(woodland)",
+      "category": "Mopp",
+      "defname": "Apparel_MoppSuitWoodland",
+      "price": 550
+    },
+    {
+      "abr": "nuclearwarhead",
+      "category": "Rimatomics Product",
+      "defname": "FissionWarhead",
+      "price": 24000
+    },
+    {
+      "abr": "plutonium",
+      "category": "Rimatomics Product",
+      "defname": "Plutonium",
+      "price": 100
+    },
+    {
+      "abr": "potassiumiodide",
+      "category": "Drugs",
+      "defname": "PotassiumIodide",
+      "price": 53
+    },
+    {
+      "abr": "r.t.g",
+      "category": "Nuclear",
+      "defname": "RimatomicsRTG",
+      "price": 4333
+    },
+    {
+      "abr": "radiationmask",
+      "category": "Hazmat",
+      "defname": "Apparel_RadiationMask",
+      "price": 244
+    },
+    {
+      "abr": "radiationsuit",
+      "category": "Hazmat",
+      "defname": "Apparel_RadiationSuit",
+      "price": 383
+    },
+    {
+      "abr": "rocketengine",
+      "category": "Rimatomics Product",
+      "defname": "RocketEngine",
+      "price": 67
+    },
+    {
+      "abr": "sabotround",
+      "category": "Sabot Rounds",
+      "defname": "RailgunSabot",
+      "price": 17
+    },
+    {
+      "abr": "scad",
+      "category": "Rimatomics Product",
+      "defname": "SCAD",
+      "price": 67
+    },
+    {
+      "abr": "targetingchip",
+      "category": "Rimatomics Product",
+      "defname": "TargetingChip",
+      "price": 67
+    },
+    {
+      "abr": "turbineblades",
+      "category": "Rimatomics Product",
+      "defname": "turbineBlade",
+      "price": 2
+    },
+    {
+      "abr": "uraniumpellets",
+      "category": "Rimatomics Product",
+      "defname": "UraniumPellets",
+      "price": 3
+    },
+    {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
@@ -20977,5 +21175,5 @@
       "price": 5
     }
   ],
-  "total": 3496
+  "total": 3529
 }

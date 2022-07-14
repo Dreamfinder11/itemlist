@@ -6,6 +6,11 @@
 		"karmatype": "Doom"
 	},
 	{
+		"abr": "tornados",
+		"price": 2600,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -348,7 +353,7 @@
 	{
 		"abr": "surgery",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "passionshuffle",
@@ -571,6 +576,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "meteoriteshower",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "animalpodcrash",
 		"price": 350,
 		"karmatype": "Good"
@@ -621,5 +631,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 124
+	"total": 126
 }
