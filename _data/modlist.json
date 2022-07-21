@@ -1608,12 +1608,6 @@
     "version": "1.4.6"
   },
   {
-    "author": "newcolonist",
-    "name": "Large Faction Bases",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and  Taranchuk",
     "name": "Vanilla Persona Weapons Expanded",
     "steamId": "2826922787",
@@ -1622,6 +1616,24 @@
   {
     "author": "Derek Bickley",
     "name": "Worthless Junk",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kebeq",
+    "name": "Armor & UI Uncapper",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zeitloser and  Erin",
+    "name": "Birds Beyond: Temperate Forest",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zeitloser and  Erin",
+    "name": "Birds Beyond: Tropical Rainforest",
     "steamId": null,
     "version": null
   }

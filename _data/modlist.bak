@@ -1606,5 +1606,23 @@
     "name": "SRTS Expanded",
     "steamId": "1845423808",
     "version": "1.4.6"
+  },
+  {
+    "author": "newcolonist",
+    "name": "Large Faction Bases",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Taranchuk",
+    "name": "Vanilla Persona Weapons Expanded",
+    "steamId": "2826922787",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Derek Bickley",
+    "name": "Worthless Junk",
+    "steamId": null,
+    "version": null
   }
 ]

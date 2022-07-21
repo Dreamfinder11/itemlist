@@ -2309,15 +2309,15 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
-    "KarmaTypeForUsing": null,
+    "KarmaTypeForUsing": "Good",
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Good"
   },
   "ThrumboHorn": {
     "CustomName": null,
@@ -58620,7 +58620,7 @@
     "KarmaType": null
   },
   "Sapphire": {
-    "CustomName": null,
+    "CustomName": "purpsapphire",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -67480,7 +67480,7 @@
     "KarmaType": null
   },
   "KSapphire": {
-    "CustomName": null,
+    "CustomName": "blusapphire",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
