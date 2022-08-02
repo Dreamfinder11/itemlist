@@ -7,8 +7,8 @@
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
+		"price": 10,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "clearweather",
