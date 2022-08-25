@@ -162,12 +162,6 @@
     "version": null
   },
   {
-    "author": "Fluffy",
-    "name": "Research Tree",
-    "steamId": "2608058938",
-    "version": "3.17.533"
-  },
-  {
     "author": "Roolo",
     "name": "Dual Wield",
     "steamId": "1628211313",
@@ -900,6 +894,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Mlie",
+    "name": "Mercer's Backpacks + Nano Suit (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
@@ -1341,7 +1341,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.9"
+    "version": "6.2.1.0"
   },
   {
     "author": "saschahi",
@@ -1742,6 +1742,18 @@
   {
     "author": "Xavior",
     "name": "Glitter Tech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Evil Tactician",
+    "name": "Practical Pemmican",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMcKeon",
+    "name": "Reasonable Components",
     "steamId": null,
     "version": null
   }

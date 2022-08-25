@@ -770,7 +770,7 @@
 	},
 	{
 		"abr": "pemmican",
-		"price": 10,
+		"price": 1,
 		"category": "Meals",
 		"defname": "Pemmican"
 	},
@@ -22913,7 +22913,211 @@
 		"price": 3833,
 		"category": "Ranged weapons",
 		"defname": "Gun_MRGPistol"
+	},
+	{
+		"abr": "colorfullargebackpack",
+		"price": 433,
+		"category": "Apparel",
+		"defname": "LargeBackpackNaturalMC"
+	},
+	{
+		"abr": "colorfulsmallbackpack",
+		"price": 219,
+		"category": "Apparel",
+		"defname": "SmallBackpackNaturalMC"
+	},
+	{
+		"abr": "largebackpack",
+		"price": 433,
+		"category": "Apparel",
+		"defname": "LargeBackpackMC"
+	},
+	{
+		"abr": "mrg-5rifle",
+		"price": 4333,
+		"category": "Ranged weapons",
+		"defname": "Gun_MRGRifle"
+	},
+	{
+		"abr": "nanosuit",
+		"price": 8333,
+		"category": "Apparel",
+		"defname": "Apparel_NanoSuit"
+	},
+	{
+		"abr": "nanosuithelmet",
+		"price": 3000,
+		"category": "Apparel",
+		"defname": "Apparel_NanoSuitHelmet"
+	},
+	{
+		"abr": "nanosuit",
+		"price": 10833,
+		"category": "Apparel",
+		"defname": "NanoSuitMC"
+	},
+	{
+		"abr": "ocdefensepistol",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "Gun_OCPDPistol"
+	},
+	{
+		"abr": "ocdefenserifle",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "Gun_OCPDRifle"
+	},
+	{
+		"abr": "orioncombatvest",
+		"price": 1333,
+		"category": "Apparel",
+		"defname": "Apparel_OCCombatVest"
+	},
+	{
+		"abr": "orioncorpdefenseshield",
+		"price": 3500,
+		"category": "Apparel",
+		"defname": "Apparel_OCShield"
+	},
+	{
+		"abr": "orioncorppacifier",
+		"price": 3500,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_GTPacifier"
+	},
+	{
+		"abr": "orioncorporationhelmet",
+		"price": 1167,
+		"category": "Apparel",
+		"defname": "Apparel_OCHelmet"
+	},
+	{
+		"abr": "orionexoskeleton",
+		"price": 7500,
+		"category": "Bionic",
+		"defname": "OCExo"
+	},
+	{
+		"abr": "orionrocketlauncher",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "Gun_OCRocket"
+	},
+	{
+		"abr": "orionunfiormpants",
+		"price": 1333,
+		"category": "Apparel",
+		"defname": "Apparel_OCPants"
+	},
+	{
+		"abr": "orionuniformshirt",
+		"price": 1333,
+		"category": "Apparel",
+		"defname": "Apparel_OCShirt"
+	},
+	{
+		"abr": "reactivesuit",
+		"price": 3000,
+		"category": "Apparel",
+		"defname": "Apparel_Reactive"
+	},
+	{
+		"abr": "serum",
+		"price": 417,
+		"category": "Manufactured",
+		"defname": "Serum"
+	},
+	{
+		"abr": "silicon",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "Silicon"
+	},
+	{
+		"abr": "smallbackpack",
+		"price": 219,
+		"category": "Apparel",
+		"defname": "SmallBackpackMC"
+	},
+	{
+		"abr": "speedskinsuit",
+		"price": 4667,
+		"category": "Apparel",
+		"defname": "Apparel_NanoSpeed"
+	},
+	{
+		"abr": "tankmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Race_Tank"
+	},
+	{
+		"abr": "titanium",
+		"price": 53,
+		"category": "Raw resources",
+		"defname": "Titanium"
+	},
+	{
+		"abr": "blueac-417tombstone",
+		"price": 37600,
+		"category": "Buildings",
+		"defname": "MA_DropshipAC_417MatteBlue"
+	},
+	{
+		"abr": "darkac-417tombstone",
+		"price": 37600,
+		"category": "Buildings",
+		"defname": "MA_DropshipAC_417BlackRed"
+	},
+	{
+		"abr": "darkblueac-417tombstone",
+		"price": 37600,
+		"category": "Buildings",
+		"defname": "MA_DropshipAC_417DarkBlue"
+	},
+	{
+		"abr": "grayac-417tombstone",
+		"price": 37600,
+		"category": "Buildings",
+		"defname": "MA_DropshipAC_417MatteGray"
+	},
+	{
+		"abr": "hammerhead",
+		"price": 7692,
+		"category": "Buildings",
+		"defname": "SRTSHammerhead"
+	},
+	{
+		"abr": "lightblueac-417tombstone",
+		"price": 37600,
+		"category": "Buildings",
+		"defname": "MA_DropshipAC_417LightBlue"
+	},
+	{
+		"abr": "matteredac-417tombstone",
+		"price": 37600,
+		"category": "Buildings",
+		"defname": "MA_DropshipAC_417MatteRed"
+	},
+	{
+		"abr": "raceredac-417tombstone",
+		"price": 37600,
+		"category": "Buildings",
+		"defname": "MA_DropshipAC_417RaceRed"
+	},
+	{
+		"abr": "redtail",
+		"price": 9233,
+		"category": "Buildings",
+		"defname": "SRTSRedtail"
+	},
+	{
+		"abr": "swordfishii",
+		"price": 9233,
+		"category": "Buildings",
+		"defname": "SRTSSwordfish"
 	}
 	],
-	"total": 3843
+	"total": 3854
 }

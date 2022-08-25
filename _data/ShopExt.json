@@ -5496,7 +5496,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Fallout Traits",
         "karmaTypeForAdding": null,
@@ -5517,7 +5517,7 @@
         ]
       },
       "defName": "FT_Perfectionist",
-      "name": "perfectionist",
+      "name": "perfection",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
