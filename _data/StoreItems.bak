@@ -23117,7 +23117,13 @@
 		"price": 9233,
 		"category": "Buildings",
 		"defname": "SRTSSwordfish"
-	}
+	},
+	{
+		"abr": "whiteac-417tombstone",
+		"price": 37600,
+		"category": "Buildings",
+		"defname": "MA_DropshipAC_417White"
+	},
 	],
-	"total": 3854
+	"total": 3866
 }
