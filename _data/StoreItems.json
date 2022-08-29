@@ -23231,7 +23231,2215 @@
 		"price": 1617,
 		"category": "Charged arsenal",
 		"defname": "V_ChargeLongSword"
+	},
+	{
+		"abr": "chargemace",
+		"price": 1533,
+		"category": "Charged arsenal",
+		"defname": "V_ChargeMace"
+	},
+	{
+		"abr": "chargemagariyari",
+		"price": 2775,
+		"category": "Charged arsenal",
+		"defname": "V_ChargeMagariYari"
+	},
+	{
+		"abr": "chargescythe",
+		"price": 3358,
+		"category": "Charged arsenal",
+		"defname": "V_ChargeScythe"
+	},
+	{
+		"abr": "chargeshorteltexgunblade",
+		"price": 2667,
+		"category": "Eltex series",
+		"defname": "V_AnimaShortGunBlade"
+	},
+	{
+		"abr": "chargeshortgunblade",
+		"price": 2392,
+		"category": "Charged arsenal",
+		"defname": "V_ChargeShortGunBlade"
+	},
+	{
+		"abr": "chargesledgehammer",
+		"price": 2325,
+		"category": "Charged arsenal",
+		"defname": "V_ChargeHammer"
+	},
+	{
+		"abr": "a180blasterpistol",
+		"price": 1133,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_A180Blaster"
+	},
+	{
+		"abr": "a280blasterrifle",
+		"price": 3167,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_A280Blaster"
+	},
+	{
+		"abr": "abednedo",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Abednedo"
+	},
+	{
+		"abr": "adegan",
+		"price": 3333,
+		"category": "Power Crystals",
+		"defname": "O21_OR_PowerCrystal_Adegan"
+	},
+	{
+		"abr": "administratordesk",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "O21_OR_AdministratorDesk"
+	},
+	{
+		"abr": "alienleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "O21_AlienLeather_Thin"
+	},
+	{
+		"abr": "ambansniperrifle",
+		"price": 3250,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_AmbanSniperRifle"
+	},
+	{
+		"abr": "ancientsmg",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "BA_Gun_ThompsonSMG"
+	},
+	{
+		"abr": "annihilator",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "BA_Gun_AnnihilatorSMG"
+	},
+	{
+		"abr": "anti-tankrifle",
+		"price": 442,
+		"category": "Ranged weapons",
+		"defname": "BA_Gun_Tgewehr"
+	},
+	{
+		"abr": "apparelfabricator",
+		"price": 1408,
+		"category": "Production",
+		"defname": "O21_OR_ApparelFabricator"
+	},
+	{
+		"abr": "aqualish",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Aqualish"
+	},
+	{
+		"abr": "autorifle",
+		"price": 583,
+		"category": "Ranged weapons",
+		"defname": "BA_Gun_Autorifle"
+	},
+	{
+		"abr": "b1battledroid",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "O21_OR_BattleDroid"
+	},
+	{
+		"abr": "b2superbattledroid",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "O21_OR_SuperBattleDroid"
+	},
+	{
+		"abr": "bactaspray",
+		"price": 1250,
+		"category": "Medicine",
+		"defname": "O21_OR_BactaSpray"
+	},
+	{
+		"abr": "basicfabricator",
+		"price": 1867,
+		"category": "Production",
+		"defname": "O21_OR_BasicFabricator"
+	},
+	{
+		"abr": "bed(coruscant)",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "O21_OR_CoruscantBed"
+	},
+	{
+		"abr": "bed(generic)",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "O21_OR_GenericBed"
+	},
+	{
+		"abr": "bed(tatooine)",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "O21_OR_TatooineBed"
+	},
+	{
+		"abr": "beskad",
+		"price": 1692,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_MandalorianSaber"
+	},
+	{
+		"abr": "beskar",
+		"price": 37,
+		"category": "Raw resources",
+		"defname": "O21_OR_Beskar"
+	},
+	{
+		"abr": "bith",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Bith"
+	},
+	{
+		"abr": "braatadanlosstatue",
+		"price": 1967,
+		"category": "Art",
+		"defname": "O21_OR_SageOfDwartii_BraataDanlos"
+	},
+	{
+		"abr": "bxcommandodroid",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_OR_CommandoDroid"
+	},
+	{
+		"abr": "bxvibroblade",
+		"price": 1325,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_BXVibroblade"
+	},
+	{
+		"abr": "cerean",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Cerean"
+	},
+	{
+		"abr": "chargeannihilator",
+		"price": 2558,
+		"category": "Ranged weapons",
+		"defname": "BA_Gun_ChargeAnnihilatorSMG"
+	},
+	{
+		"abr": "chargeannihilator",
+		"price": 3550,
+		"category": "Ranged weapons",
+		"defname": "BA_Gun_GildedAnnihilatorSMG"
+	},
+	{
+		"abr": "chargeanti-tankrifle",
+		"price": 2192,
+		"category": "Ranged weapons",
+		"defname": "BA_Gun_ChargeTgewehr"
+	},
+	{
+		"abr": "chargeautopistol",
+		"price": 875,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeAutopistol"
+	},
+	{
+		"abr": "chargeautorifle",
+		"price": 2017,
+		"category": "Ranged weapons",
+		"defname": "BA_Gun_ChargeAutorifle"
+	},
+	{
+		"abr": "charriccarbine",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_ChissCarbine"
+	},
+	{
+		"abr": "charricpistol",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_ChissPistol"
+	},
+	{
+		"abr": "charricrifle",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_ChissRifle"
+	},
+	{
+		"abr": "chiss",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Chiss"
+	},
+	{
+		"abr": "chisscommanderuniform",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "O21_OR_ChissCommanderUniform"
+	},
+	{
+		"abr": "chissofficeruniform",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "O21_OR_ChissOfficerUniform"
+	},
+	{
+		"abr": "clonearmori(blank)",
+		"price": 2100,
+		"category": "Armor",
+		"defname": "O21_OR_CloneArmor_PhaseOne"
+	},
+	{
+		"abr": "clonecuirassii,marine(blank)",
+		"price": 2100,
+		"category": "Armor",
+		"defname": "O21_OR_CloneCuirassII_Snow"
+	},
+	{
+		"abr": "clonecuirassii,marine(chevron)",
+		"price": 2100,
+		"category": "Armor",
+		"defname": "O21_OR_CloneCuirassII_Snow_Chevron"
+	},
+	{
+		"abr": "clonecuirassii,marine(half)",
+		"price": 2100,
+		"category": "Armor",
+		"defname": "O21_OR_CloneCuirassII_Snow_Half"
+	},
+	{
+		"abr": "clonecuirassii,trooper(blank)",
+		"price": 2100,
+		"category": "Armor",
+		"defname": "O21_OR_CloneCuirassII_Trooper"
+	},
+	{
+		"abr": "clonecuirassii,trooper(chevron)",
+		"price": 2100,
+		"category": "Armor",
+		"defname": "O21_OR_CloneCuirassII_Trooper_Chevron"
+	},
+	{
+		"abr": "clonecuirassii,trooper(half)",
+		"price": 2100,
+		"category": "Armor",
+		"defname": "O21_OR_CloneCuirassII_Trooper_Half"
+	},
+	{
+		"abr": "clonehelmeti(blank)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmet_PhaseOne"
+	},
+	{
+		"abr": "clonehelmeti(captain)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmet_PhaseOne_Captain"
+	},
+	{
+		"abr": "clonehelmeti(commander)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmet_PhaseOne_Commander"
+	},
+	{
+		"abr": "clonehelmeti(lieutenant)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmet_PhaseOne_Lieutenant"
+	},
+	{
+		"abr": "clonehelmeti(sergeant)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmet_PhaseOne_Sergeant"
+	},
+	{
+		"abr": "clonehelmetii,arc(blank)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_ARC"
+	},
+	{
+		"abr": "clonehelmetii,arc(chevron)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_ARC_Chevron"
+	},
+	{
+		"abr": "clonehelmetii,arc(half)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_ARC_Half"
+	},
+	{
+		"abr": "clonehelmetii,barc(blank)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_BARC"
+	},
+	{
+		"abr": "clonehelmetii,barc(chevron)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_BARC_Chevron"
+	},
+	{
+		"abr": "clonehelmetii,barc(half)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_BARC_Half"
+	},
+	{
+		"abr": "clonehelmetii,captain(blank)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Captain"
+	},
+	{
+		"abr": "clonehelmetii,captain(blank)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Captain_Half"
+	},
+	{
+		"abr": "clonehelmetii,captain(chevron)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Captain_Chevron"
+	},
+	{
+		"abr": "clonehelmetii,commander(blank)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Commander"
+	},
+	{
+		"abr": "clonehelmetii,commander(chevron)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Commander_Chevron"
+	},
+	{
+		"abr": "clonehelmetii,commander(half)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Commander_Half"
+	},
+	{
+		"abr": "clonehelmetii,desert(blank)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Desert"
+	},
+	{
+		"abr": "clonehelmetii,desert(chevron)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Desert_Chevron"
+	},
+	{
+		"abr": "clonehelmetii,desert(half)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Desert_Half"
+	},
+	{
+		"abr": "clonehelmetii,engineer(blank)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Engineer"
+	},
+	{
+		"abr": "clonehelmetii,engineer(chevron)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Engineer_Chevron"
+	},
+	{
+		"abr": "clonehelmetii,engineer(half)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Engineer_Half"
+	},
+	{
+		"abr": "clonehelmetii,heavy(blank)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Heavy"
+	},
+	{
+		"abr": "clonehelmetii,heavy(chevron)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Heavy_Chevron"
+	},
+	{
+		"abr": "clonehelmetii,heavy(half)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Heavy_Half"
+	},
+	{
+		"abr": "clonehelmetii,ops(blank)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Ops"
+	},
+	{
+		"abr": "clonehelmetii,ops(chevron)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Ops_Chevron"
+	},
+	{
+		"abr": "clonehelmetii,ops(half)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Ops_Half"
+	},
+	{
+		"abr": "clonehelmetii,pilot(blank)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Pilot"
+	},
+	{
+		"abr": "clonehelmetii,pilot(chevron)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Pilot_Chevron"
+	},
+	{
+		"abr": "clonehelmetii,pilot(half)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Pilot_Half"
+	},
+	{
+		"abr": "clonehelmetii,snow(blank)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Snow"
+	},
+	{
+		"abr": "clonehelmetii,snow(chevron)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Snow_Chevron"
+	},
+	{
+		"abr": "clonehelmetii,snow(half)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Snow_Half"
+	},
+	{
+		"abr": "clonehelmetii,trooper(blank)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Trooper"
+	},
+	{
+		"abr": "clonehelmetii,trooper(chevron)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Trooper_Chevron"
+	},
+	{
+		"abr": "clonehelmetii,trooper(half)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_CloneHelmetII_Trooper_Half"
+	},
+	{
+		"abr": "clonekama",
+		"price": 297,
+		"category": "Apparel",
+		"defname": "O21_OR_CloneKama"
+	},
+	{
+		"abr": "clonepauldronsi(blank)",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_ClonePauldrons_PhaseOne"
+	},
+	{
+		"abr": "clonepauldronsii,arc(blank)",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_ClonePauldronsII_ARC"
+	},
+	{
+		"abr": "clonepauldronsii,arc(chevron)",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_ClonePauldronsII_ARC_Chevron"
+	},
+	{
+		"abr": "clonepauldronsii,arc(half)",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_ClonePauldronsII_ARC_Half"
+	},
+	{
+		"abr": "clonepauldronsii,rank(blank)",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_ClonePauldronsII_Rank"
+	},
+	{
+		"abr": "clonepauldronsii,rank(chevron)",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_ClonePauldronsII_Rank_Chevron"
+	},
+	{
+		"abr": "clonepauldronsii,rank(half)",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_ClonePauldronsII_Rank_Half"
+	},
+	{
+		"abr": "clonepauldronsii,trooper(blank)",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_ClonePauldronsII_Trooper"
+	},
+	{
+		"abr": "clonepauldronsii,trooper(chevron)",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_ClonePauldronsII_Trooper_Chevron"
+	},
+	{
+		"abr": "clonepauldronsii,trooper(half)",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_ClonePauldronsII_Trooper_Half"
+	},
+	{
+		"abr": "corelliantable(1x1)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "O21_OR_Corellian1x1Table"
+	},
+	{
+		"abr": "corelliantable(2x1)",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "O21_OR_Corellian2x1Table"
+	},
+	{
+		"abr": "corelliantable(2x2)",
+		"price": 758,
+		"category": "Furniture",
+		"defname": "O21_OR_Corellian2x2Table"
+	},
+	{
+		"abr": "coruscanttable(1x1)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "O21_OR_Coruscant1x1Table"
+	},
+	{
+		"abr": "coruscanttable(2x1)",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "O21_OR_Coruscant2x1Table"
+	},
+	{
+		"abr": "coruscanttable(2x2)",
+		"price": 758,
+		"category": "Furniture",
+		"defname": "O21_OR_Coruscant2x2Table"
+	},
+	{
+		"abr": "d-72woppressorflameprojector",
+		"price": 3258,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_D72wOppressor"
+	},
+	{
+		"abr": "damind",
+		"price": 3333,
+		"category": "Power Crystals",
+		"defname": "O21_OR_PowerCrystal_Damind"
+	},
+	{
+		"abr": "dataspike",
+		"price": 2667,
+		"category": "Manufactured",
+		"defname": "O21_OR_DataSpike"
+	},
+	{
+		"abr": "dathomirian",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Dathomirian"
+	},
+	{
+		"abr": "dc-15ablaster",
+		"price": 3167,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_DC15ACarbine"
+	},
+	{
+		"abr": "dc-15ablasterrifle",
+		"price": 3250,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_DC15ARifle"
+	},
+	{
+		"abr": "dc-15xsniperrifle",
+		"price": 3792,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_DC15xSniperRifle"
+	},
+	{
+		"abr": "dc-17handblaster",
+		"price": 1133,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_DC17HandBlaster"
+	},
+	{
+		"abr": "dc-17mrepeatingblaster",
+		"price": 3167,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_DC17mCarbine"
+	},
+	{
+		"abr": "destroyerdroid",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "O21_OR_DestroyerDroid"
+	},
+	{
+		"abr": "devaronian",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Devaronian"
+	},
+	{
+		"abr": "dh-17blasterpistol",
+		"price": 3167,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_DH17Pistol"
+	},
+	{
+		"abr": "dh-17blasterrifle",
+		"price": 3167,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_DH17Rifle"
+	},
+	{
+		"abr": "diningchair(coruscant)",
+		"price": 425,
+		"category": "Furniture",
+		"defname": "O21_OR_CoruscantDiningChair"
+	},
+	{
+		"abr": "diningchair(tatooine)",
+		"price": 425,
+		"category": "Furniture",
+		"defname": "O21_OR_TatooineDiningChair"
+	},
+	{
+		"abr": "dlt-19xtargetingblaster",
+		"price": 3792,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_DLT19XTargetingBlaster"
+	},
+	{
+		"abr": "dlt-20ablasterrifle",
+		"price": 3250,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_DLT20ABlaster"
+	},
+	{
+		"abr": "doublebed(coruscant)",
+		"price": 717,
+		"category": "Furniture",
+		"defname": "O21_OR_CoruscantDoubleBed"
+	},
+	{
+		"abr": "doublebed(tatooine)",
+		"price": 717,
+		"category": "Furniture",
+		"defname": "O21_OR_TatooineDoubleBed"
+	},
+	{
+		"abr": "dragite",
+		"price": 3333,
+		"category": "Power Crystals",
+		"defname": "O21_OR_PowerCrystal_Dragite"
+	},
+	{
+		"abr": "dresser(corellian)",
+		"price": 425,
+		"category": "Furniture",
+		"defname": "O21_OR_CorellianDresser"
+	},
+	{
+		"abr": "dresser(coruscant)",
+		"price": 425,
+		"category": "Furniture",
+		"defname": "O21_OR_CoruscantDresser"
+	},
+	{
+		"abr": "dresser(tatooine)",
+		"price": 425,
+		"category": "Furniture",
+		"defname": "O21_OR_TatooineDresser"
+	},
+	{
+		"abr": "droidarm",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidArm"
+	},
+	{
+		"abr": "droidarm(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidArm_Advanced"
+	},
+	{
+		"abr": "droidarm(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidArm_Makeshift"
+	},
+	{
+		"abr": "droidarm(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidArm_Overclocked"
+	},
+	{
+		"abr": "droidarmorplating",
+		"price": 1258,
+		"category": "Apparel",
+		"defname": "O21_OR_DroidArmorModule"
+	},
+	{
+		"abr": "droidbattery(depleted)",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "O21_OR_DroidBattery_Empty"
+	},
+	{
+		"abr": "droidbattery(full)",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "O21_OR_DroidBattery_Full"
+	},
+	{
+		"abr": "droidbrain",
+		"price": 1333,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidBrain"
+	},
+	{
+		"abr": "droidchemicalanalyser",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidSmellSensor"
+	},
+	{
+		"abr": "droidchemicalanalyser(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidSmellSensor_Advanced"
+	},
+	{
+		"abr": "droidchemicalanalyser(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidSmellSensor_Makeshift"
+	},
+	{
+		"abr": "droidchemicalanalyser(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidSmellSensor_Overclocked"
+	},
+	{
+		"abr": "droidcomponentfabricator",
+		"price": 1408,
+		"category": "Production",
+		"defname": "O21_OR_DroidCompFabricator"
+	},
+	{
+		"abr": "droiddamageshielding(advanced)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidDamageShielding_Advanced"
+	},
+	{
+		"abr": "droiddamageshielding(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidDamageShielding_Overclocked"
+	},
+	{
+		"abr": "droiddamageshielding(standard)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidDamageShielding_Standard"
+	},
+	{
+		"abr": "droiddeflectorshield",
+		"price": 4325,
+		"category": "Equipment",
+		"defname": "O21_OR_DroidDeflectorShield"
+	},
+	{
+		"abr": "droidfluidreprocessor",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidFluidReprocessor"
+	},
+	{
+		"abr": "droidfluidreprocessor(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidFluidReprocessor_Advanced"
+	},
+	{
+		"abr": "droidfluidreprocessor(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidFluidReprocessor_Makeshift"
+	},
+	{
+		"abr": "droidfluidreprocessor(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidFluidReprocessor_Overclocked"
+	},
+	{
+		"abr": "droidfoot",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidFoot"
+	},
+	{
+		"abr": "droidfoot(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidFoot_Advanced"
+	},
+	{
+		"abr": "droidfoot(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidFoot_Makeshift"
+	},
+	{
+		"abr": "droidfoot(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidFoot_Overclocked"
+	},
+	{
+		"abr": "droidhand",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidHand"
+	},
+	{
+		"abr": "droidhand(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidHand_Advanced"
+	},
+	{
+		"abr": "droidhand(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidHand_Makeshift"
+	},
+	{
+		"abr": "droidhand(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidHand_Overclocked"
+	},
+	{
+		"abr": "droidleg",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidLeg"
+	},
+	{
+		"abr": "droidleg(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidLeg_Advanced"
+	},
+	{
+		"abr": "droidleg(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidLeg_Makeshift"
+	},
+	{
+		"abr": "droidleg(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidLeg_Overclocked"
+	},
+	{
+		"abr": "droidparts",
+		"price": 28,
+		"category": "Manufactured",
+		"defname": "O21_OR_DroidParts"
+	},
+	{
+		"abr": "droidpropulsionjets",
+		"price": 4325,
+		"category": "Equipment",
+		"defname": "O21_OR_DroidPropulsionJets"
+	},
+	{
+		"abr": "droidreactivationkit",
+		"price": 2667,
+		"category": "Manufactured",
+		"defname": "O21_OR_DroidReactivationKit"
+	},
+	{
+		"abr": "droidreactor",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidReactor"
+	},
+	{
+		"abr": "droidreactor(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidReactor_Advanced"
+	},
+	{
+		"abr": "droidreactor(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidReactor_Makeshift"
+	},
+	{
+		"abr": "droidreactor(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidReactor_Overclocked"
+	},
+	{
+		"abr": "droidshielding(emp)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidShielding_EMP"
+	},
+	{
+		"abr": "droidsightsensor",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidSightSensor"
+	},
+	{
+		"abr": "droidsightsensor(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidSightSensor_Advanced"
+	},
+	{
+		"abr": "droidsightsensor(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidSightSensor_Makeshift"
+	},
+	{
+		"abr": "droidsightsensor(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidSightSensor_Overclocked"
+	},
+	{
+		"abr": "droidsoundsensor",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidSoundSensor"
+	},
+	{
+		"abr": "droidsoundsensor(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidSoundSensor_Advanced"
+	},
+	{
+		"abr": "droidsoundsensor(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidSoundSensor_Makeshift"
+	},
+	{
+		"abr": "droidsoundsensor(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "O21_OR_DroidSoundSensor_Overclocked"
+	},
+	{
+		"abr": "duracrete",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "O21_OR_Duracrete"
+	},
+	{
+		"abr": "durafiber",
+		"price": 2,
+		"category": "Textiles",
+		"defname": "O21_OR_Durafiber"
+	},
+	{
+		"abr": "durafiberbodysuit",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "O21_OR_Bodysuit"
+	},
+	{
+		"abr": "durasteel",
+		"price": 8,
+		"category": "Raw resources",
+		"defname": "O21_OR_Durasteel"
+	},
+	{
+		"abr": "duros",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Duros"
+	},
+	{
+		"abr": "e-11blasterrifle",
+		"price": 3167,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_E11BlasterRifle"
+	},
+	{
+		"abr": "e-5blasterrifle",
+		"price": 2167,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_E5Blaster"
+	},
+	{
+		"abr": "e-5ssniperrifle",
+		"price": 2417,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_E5sSniperRifle"
+	},
+	{
+		"abr": "ec-17scoutblaster",
+		"price": 1133,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_EC17Blaster"
+	},
+	{
+		"abr": "ee-3blastercarbine",
+		"price": 2258,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_EE3BlasterCarbine"
+	},
+	{
+		"abr": "endtable(corellian)",
+		"price": 256,
+		"category": "Furniture",
+		"defname": "O21_OR_CorellianEndTable"
+	},
+	{
+		"abr": "endtable(coruscant)",
+		"price": 256,
+		"category": "Furniture",
+		"defname": "O21_OR_CoruscantEndTable"
+	},
+	{
+		"abr": "endtable(tatooine)",
+		"price": 256,
+		"category": "Furniture",
+		"defname": "O21_OR_TatooineEndTable"
+	},
+	{
+		"abr": "eralam",
+		"price": 3333,
+		"category": "Power Crystals",
+		"defname": "O21_OR_PowerCrystal_Eralam"
+	},
+	{
+		"abr": "fayarodemosstatue",
+		"price": 1967,
+		"category": "Art",
+		"defname": "O21_OR_SageOfDwartii_FayaRodemos"
+	},
+	{
+		"abr": "firkrann",
+		"price": 3333,
+		"category": "Power Crystals",
+		"defname": "O21_OR_PowerCrystal_Firkrann"
+	},
+	{
+		"abr": "floorlamp(dathomirian)",
+		"price": 483,
+		"category": "Furniture",
+		"defname": "O21_OR_DathomirOrbLamp_Small"
+	},
+	{
+		"abr": "furryalienleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "O21_AlienLeather_Furry"
+	},
+	{
+		"abr": "fusionreactor(portable)",
+		"price": 16667,
+		"category": "Special",
+		"defname": "O21_OR_FusionReactorPortable"
+	},
+	{
+		"abr": "galaar-15blastercarbine",
+		"price": 1758,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_GALAAR15Blaster"
+	},
+	{
+		"abr": "galacticcredits",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "O21_OR_GalacticCredits"
+	},
+	{
+		"abr": "galacticrepubliccache",
+		"price": 1667,
+		"category": "Caches",
+		"defname": "O21_OR_CacheGalacticRepublic"
+	},
+	{
+		"abr": "genericfloorlamp",
+		"price": 633,
+		"category": "Furniture",
+		"defname": "O21_OR_FloorLamp"
+	},
+	{
+		"abr": "genericfloorlamp(blue)",
+		"price": 633,
+		"category": "Furniture",
+		"defname": "O21_OR_FloorLamp_Blue"
+	},
+	{
+		"abr": "genericfloorlamp(cyan)",
+		"price": 633,
+		"category": "Furniture",
+		"defname": "O21_OR_FloorLamp_Cyan"
+	},
+	{
+		"abr": "genericfloorlamp(darklight)",
+		"price": 633,
+		"category": "Furniture",
+		"defname": "O21_OR_FloorLamp_Darklight"
+	},
+	{
+		"abr": "genericfloorlamp(green)",
+		"price": 633,
+		"category": "Furniture",
+		"defname": "O21_OR_FloorLamp_Green"
+	},
+	{
+		"abr": "genericfloorlamp(orange)",
+		"price": 633,
+		"category": "Furniture",
+		"defname": "O21_OR_FloorLamp_Orange"
+	},
+	{
+		"abr": "genericfloorlamp(pink)",
+		"price": 633,
+		"category": "Furniture",
+		"defname": "O21_OR_FloorLamp_Pink"
+	},
+	{
+		"abr": "genericfloorlamp(purple)",
+		"price": 633,
+		"category": "Furniture",
+		"defname": "O21_OR_FloorLamp_Purple"
+	},
+	{
+		"abr": "genericfloorlamp(red)",
+		"price": 633,
+		"category": "Furniture",
+		"defname": "O21_OR_FloorLamp_Red"
+	},
+	{
+		"abr": "genericfloorlamp(yellow)",
+		"price": 633,
+		"category": "Furniture",
+		"defname": "O21_OR_FloorLamp_Yellow"
+	},
+	{
+		"abr": "gildedanti-tankrifle",
+		"price": 4433,
+		"category": "Ranged weapons",
+		"defname": "BA_Gun_GildedTgewehr"
+	},
+	{
+		"abr": "gildedautorifle",
+		"price": 3808,
+		"category": "Ranged weapons",
+		"defname": "BA_Gun_GildedAutorifle"
+	},
+	{
+		"abr": "gildedautopistol",
+		"price": 2100,
+		"category": "Ranged weapons",
+		"defname": "Gun_GildedAutopistol"
+	},
+	{
+		"abr": "gildedsmg",
+		"price": 3458,
+		"category": "Ranged weapons",
+		"defname": "BA_Gun_GildedThompsonSMG"
+	},
+	{
+		"abr": "gildedwatercooledmg",
+		"price": 4758,
+		"category": "Ranged weapons",
+		"defname": "BA_Gun_GildedWatercooledMG"
+	},
+	{
+		"abr": "gnkpowerdroid",
+		"price": 833,
+		"category": "Special",
+		"defname": "O21_OR_GNKDroid"
+	},
+	{
+		"abr": "gungan",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Gungan"
+	},
+	{
+		"abr": "hh-12rocketlauncher",
+		"price": 3208,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_HH12RocketLauncher"
+	},
+	{
+		"abr": "hk-47assassindroid",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_OR_HK47Droid"
+	},
+	{
+		"abr": "hk-50assassindroid",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_OR_HK50Droid"
+	},
+	{
+		"abr": "hk-51assassindroid",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_OR_HK51Droid"
+	},
+	{
+		"abr": "holobank",
+		"price": 34,
+		"category": "Furniture",
+		"defname": "O21_OR_Holobank"
+	},
+	{
+		"abr": "holonetarcade(mynockhunt)",
+		"price": 2992,
+		"category": "Recreation",
+		"defname": "O21_OR_HoloArcade_MynockHunt"
+	},
+	{
+		"abr": "human",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_CloneTrooper"
+	},
+	{
+		"abr": "humanmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_O21_OR_CloneTrooper"
+	},
+	{
+		"abr": "hurrikaine",
+		"price": 3333,
+		"category": "Power Crystals",
+		"defname": "O21_OR_PowerCrystal_Hurrikaine"
+	},
+	{
+		"abr": "hypertechcomponent",
+		"price": 458,
+		"category": "Manufactured",
+		"defname": "O21_OR_ComponentHypertech"
+	},
+	{
+		"abr": "hypertechresearchbench",
+		"price": 5825,
+		"category": "Production",
+		"defname": "O21_OR_HypertechResearchBench"
+	},
+	{
+		"abr": "hypertechterminal",
+		"price": 2842,
+		"category": "Furniture",
+		"defname": "O21_OR_HypertechTerminal"
+	},
+	{
+		"abr": "hypertechterminal(wide)",
+		"price": 5675,
+		"category": "Furniture",
+		"defname": "O21_OR_HypertechTerminalWide"
+	},
+	{
+		"abr": "ib-94blasterpistol",
+		"price": 1133,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_IB94BlasterPistol"
+	},
+	{
+		"abr": "iktotchi",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Iktotchi"
+	},
+	{
+		"abr": "imperialofficercap",
+		"price": 68,
+		"category": "Apparel",
+		"defname": "O21_OR_ImperialOfficerCap"
+	},
+	{
+		"abr": "imperialofficercap(black)",
+		"price": 68,
+		"category": "Apparel",
+		"defname": "O21_OR_ImperialOfficerCap_Black"
+	},
+	{
+		"abr": "imperialofficercap(white)",
+		"price": 68,
+		"category": "Apparel",
+		"defname": "O21_OR_ImperialOfficerCap_White"
+	},
+	{
+		"abr": "imperialofficeruniform",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "O21_OR_ImperialOfficerUniform"
+	},
+	{
+		"abr": "imperialofficeruniform(black)",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "O21_OR_ImperialOfficerUniform_Black"
+	},
+	{
+		"abr": "imperialofficeruniform(white)",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "O21_OR_ImperialOfficerUniform_White"
+	},
+	{
+		"abr": "iridonian",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Iridonian"
+	},
+	{
+		"abr": "isbagentcuirass",
+		"price": 2100,
+		"category": "Armor",
+		"defname": "O21_OR_ISBAgentCuirass"
+	},
+	{
+		"abr": "isbagenthelmet",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_ISBAgentHelmet"
+	},
+	{
+		"abr": "ithorian",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Ithorian"
+	},
+	{
+		"abr": "jawa",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Jawa"
+	},
+	{
+		"abr": "jawahood",
+		"price": 198,
+		"category": "Headgear",
+		"defname": "O21_OR_JawaHood"
+	},
+	{
+		"abr": "jawarobes",
+		"price": 467,
+		"category": "Apparel",
+		"defname": "O21_OR_JawaRobes"
+	},
+	{
+		"abr": "jedigeneralpauldron",
+		"price": 558,
+		"category": "Armor",
+		"defname": "O21_OR_JediGeneralPauldron"
+	},
+	{
+		"abr": "jedihood",
+		"price": 160,
+		"category": "Headgear",
+		"defname": "O21_OR_JediHood"
+	},
+	{
+		"abr": "jedirobe",
+		"price": 350,
+		"category": "Apparel",
+		"defname": "O21_OR_JediRobe"
+	},
+	{
+		"abr": "jeditunic",
+		"price": 342,
+		"category": "Apparel",
+		"defname": "O21_OR_JediTunic"
+	},
+	{
+		"abr": "jt-12jetpack",
+		"price": 4325,
+		"category": "Utility",
+		"defname": "O21_OR_JT12Jetpack"
+	},
+	{
+		"abr": "kaiburr",
+		"price": 5000,
+		"category": "Power Crystals",
+		"defname": "O21_OR_PowerCrystal_Kaiburr"
+	},
+	{
+		"abr": "koltogelpack",
+		"price": 142,
+		"category": "Medicine",
+		"defname": "O21_OR_KoltoGelPack"
+	},
+	{
+		"abr": "kraytdragonpearl",
+		"price": 3333,
+		"category": "Power Crystals",
+		"defname": "O21_OR_PowerCrystal_KraytPearl"
+	},
+	{
+		"abr": "kxsecuritydroid",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "O21_OR_KXSecurityDroid"
+	},
+	{
+		"abr": "kybercrystal(blue)",
+		"price": 2500,
+		"category": "Kyber Crystals",
+		"defname": "O21_OR_KyberCrystal_Blue"
+	},
+	{
+		"abr": "kybercrystal(cyan)",
+		"price": 2500,
+		"category": "Kyber Crystals",
+		"defname": "O21_OR_KyberCrystal_Cyan"
+	},
+	{
+		"abr": "kybercrystal(green)",
+		"price": 2500,
+		"category": "Kyber Crystals",
+		"defname": "O21_OR_KyberCrystal_Green"
+	},
+	{
+		"abr": "kybercrystal(orange)",
+		"price": 2500,
+		"category": "Kyber Crystals",
+		"defname": "O21_OR_KyberCrystal_Orange"
+	},
+	{
+		"abr": "kybercrystal(purple)",
+		"price": 2500,
+		"category": "Kyber Crystals",
+		"defname": "O21_OR_KyberCrystal_Purple"
+	},
+	{
+		"abr": "kybercrystal(red)",
+		"price": 2500,
+		"category": "Kyber Crystals",
+		"defname": "O21_OR_KyberCrystal_Red"
+	},
+	{
+		"abr": "kybercrystal(white)",
+		"price": 2500,
+		"category": "Kyber Crystals",
+		"defname": "O21_OR_KyberCrystal_White"
+	},
+	{
+		"abr": "kybercrystal(yellow)",
+		"price": 2500,
+		"category": "Kyber Crystals",
+		"defname": "O21_OR_KyberCrystal_Yellow"
+	},
+	{
+		"abr": "lightsaber(inquisitor)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "O21_OR_Lightsaber_Inquisitor"
+	},
+	{
+		"abr": "lightsaber(jarrus)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "O21_OR_Lightsaber_Jarrus"
+	},
+	{
+		"abr": "lightsaber(jinn)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "O21_OR_Lightsaber_Jinn"
+	},
+	{
+		"abr": "lightsaber(kenobi)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "O21_OR_Lightsaber_Kenobi"
+	},
+	{
+		"abr": "lightsaber(maul)",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "O21_OR_Lightsaber_Maul"
+	},
+	{
+		"abr": "magnaguarddroid",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "O21_OR_MagnaGuardDroid"
+	},
+	{
+		"abr": "mandalorianchestplate(simple)",
+		"price": 2108,
+		"category": "Armor",
+		"defname": "O21_OR_MandalorianChest_Simple"
+	},
+	{
+		"abr": "mandalorianhelmet(armorer)",
+		"price": 2092,
+		"category": "Armor",
+		"defname": "O21_OR_MandalorianHelmet_Armorer"
+	},
+	{
+		"abr": "mandalorianhelmet(imperial)",
+		"price": 2092,
+		"category": "Armor",
+		"defname": "O21_OR_MandalorianHelmet_Imperial"
+	},
+	{
+		"abr": "mandalorianhelmet(pilot)",
+		"price": 2092,
+		"category": "Armor",
+		"defname": "O21_OR_MandalorianHelmet_Pilot"
+	},
+	{
+		"abr": "mandalorianhelmet(simple)",
+		"price": 2092,
+		"category": "Armor",
+		"defname": "O21_OR_MandalorianHelmet_Simple"
+	},
+	{
+		"abr": "mandalorianhelmet(traditional)",
+		"price": 2092,
+		"category": "Armor",
+		"defname": "O21_OR_MandalorianHelmet_Traditional"
+	},
+	{
+		"abr": "mandalorianpauldrons(simple)",
+		"price": 1567,
+		"category": "Armor",
+		"defname": "O21_OR_MandalorianPauldrons_Simple"
+	},
+	{
+		"abr": "mirialan",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Mirialan"
+	},
+	{
+		"abr": "moncalamari",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_MonCalamari"
+	},
+	{
+		"abr": "msedroidplatform",
+		"price": 2508,
+		"category": "Special",
+		"defname": "O21_OR_MSEDroidPlatform"
+	},
+	{
+		"abr": "munitkadhalberd",
+		"price": 1192,
+		"category": "Melee weapons",
+		"defname": "O21_OR_MunitkatHalberd"
+	},
+	{
+		"abr": "neimoidian",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Neimoidian"
+	},
+	{
+		"abr": "nikto",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Nikto"
+	},
+	{
+		"abr": "permacrete",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "O21_OR_Permacrete"
+	},
+	{
+		"abr": "plastcrete",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "O21_OR_Plastcrete"
+	},
+	{
+		"abr": "pontite",
+		"price": 3333,
+		"category": "Power Crystals",
+		"defname": "O21_OR_PowerCrystal_Pontite"
+	},
+	{
+		"abr": "purebeskar",
+		"price": 37,
+		"category": "Raw resources",
+		"defname": "O21_OR_PureBeskar"
+	},
+	{
+		"abr": "pyke",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Pyke"
+	},
+	{
+		"abr": "quarren",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Quarren"
+	},
+	{
+		"abr": "rakata",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Rakata"
+	},
+	{
+		"abr": "rakatadagger",
+		"price": 215,
+		"category": "Melee weapons",
+		"defname": "O21_OR_RakataDagger"
+	},
+	{
+		"abr": "rakatawarriorarmor(leather)",
+		"price": 317,
+		"category": "Armor",
+		"defname": "O21_OR_RakataWarriorArmor"
+	},
+	{
+		"abr": "rebelfleettrooperhelmet",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_RebelFleetTrooperHelmet"
+	},
+	{
+		"abr": "rebelfleettrooperuniform",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "O21_OR_RebelFleetTrooperUniform"
+	},
+	{
+		"abr": "rebelforestfatigues",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "O21_OR_RebelForestFatigues"
+	},
+	{
+		"abr": "rebelforesthelmet",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_RebelForestHelmet"
+	},
+	{
+		"abr": "rebelforestponcho",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "O21_OR_RebelForestPoncho"
+	},
+	{
+		"abr": "republicofficercap",
+		"price": 68,
+		"category": "Apparel",
+		"defname": "O21_OR_RepublicOfficerCap"
+	},
+	{
+		"abr": "republicofficeruniform",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "O21_OR_RepublicOfficerUniform"
+	},
+	{
+		"abr": "restraintbolt",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "O21_OR_RestraintBolt"
+	},
+	{
+		"abr": "retrochargesmg",
+		"price": 2700,
+		"category": "Ranged weapons",
+		"defname": "BA_Gun_ChargeThompsonSMG"
+	},
+	{
+		"abr": "rg4dblaster",
+		"price": 1133,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_RG4DBlaster"
+	},
+	{
+		"abr": "rubat",
+		"price": 3333,
+		"category": "Power Crystals",
+		"defname": "O21_OR_PowerCrystal_Rubat"
+	},
+	{
+		"abr": "scaledalienleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "O21_AlienLeather_Scaled"
+	},
+	{
+		"abr": "scouttroopercuirass",
+		"price": 1467,
+		"category": "Armor",
+		"defname": "O21_OR_ScoutTrooperCuirass"
+	},
+	{
+		"abr": "scouttrooperhelmet",
+		"price": 725,
+		"category": "Headgear",
+		"defname": "O21_OR_ScoutTrooperHelmet"
+	},
+	{
+		"abr": "scouttrooperpauldrons",
+		"price": 558,
+		"category": "Armor",
+		"defname": "O21_OR_ScoutTrooperPauldrons"
+	},
+	{
+		"abr": "se-14rblaster",
+		"price": 1133,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_SE14RBlaster"
+	},
+	{
+		"abr": "selkath",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Selkath"
+	},
+	{
+		"abr": "seperatistcache",
+		"price": 1667,
+		"category": "Caches",
+		"defname": "O21_OR_CacheGalacticSeperatist"
+	},
+	{
+		"abr": "sistrosnevetstatue",
+		"price": 1967,
+		"category": "Art",
+		"defname": "O21_OR_SageOfDwartii_SistrosNevet"
+	},
+	{
+		"abr": "sith",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Sith"
+	},
+	{
+		"abr": "stafflamp(dathomirian)",
+		"price": 500,
+		"category": "Furniture",
+		"defname": "O21_OR_DathomirOrbLamp"
+	},
+	{
+		"abr": "stool(coruscant)",
+		"price": 211,
+		"category": "Furniture",
+		"defname": "O21_OR_CoruscantStool"
+	},
+	{
+		"abr": "stool(tatooine)",
+		"price": 211,
+		"category": "Furniture",
+		"defname": "O21_OR_TatooineStool"
+	},
+	{
+		"abr": "storagecrate",
+		"price": 358,
+		"category": "Furniture",
+		"defname": "O21_OR_StorageCrate"
+	},
+	{
+		"abr": "storagecrate(clean)",
+		"price": 358,
+		"category": "Furniture",
+		"defname": "O21_OR_StorageCrateClean"
+	},
+	{
+		"abr": "storagecrate(wide)",
+		"price": 358,
+		"category": "Furniture",
+		"defname": "O21_OR_StorageCrateWide"
+	},
+	{
+		"abr": "stormtroopercuirass",
+		"price": 2100,
+		"category": "Armor",
+		"defname": "O21_OR_StormtrooperCuirass"
+	},
+	{
+		"abr": "stormtroopercuirass(pride)",
+		"price": 2100,
+		"category": "Armor",
+		"defname": "O21_OR_StormtrooperCuirass_Pride"
+	},
+	{
+		"abr": "stormtroopercuirass(specialist)",
+		"price": 2100,
+		"category": "Armor",
+		"defname": "O21_OR_StormtrooperCuirass_Specialist"
+	},
+	{
+		"abr": "stormtrooperhelmet",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_StormtrooperHelmet"
+	},
+	{
+		"abr": "stormtrooperhelmet(pride)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_StormtrooperHelmet_Pride"
+	},
+	{
+		"abr": "stormtrooperhelmet(specialist)",
+		"price": 2067,
+		"category": "Headgear",
+		"defname": "O21_OR_StormtrooperHelmet_Specialist"
+	},
+	{
+		"abr": "stormtrooperpauldrons",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_StormtrooperPauldrons"
+	},
+	{
+		"abr": "stormtrooperpauldrons(black)",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_StormtrooperPauldrons_Enlisted"
+	},
+	{
+		"abr": "stormtrooperpauldrons(orange)",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_StormtrooperPauldrons_Officer"
+	},
+	{
+		"abr": "stormtrooperpauldrons(pride)",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_StormtrooperPauldrons_Pride"
+	},
+	{
+		"abr": "stormtrooperpauldrons(red)",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_StormtrooperPauldrons_Commander"
+	},
+	{
+		"abr": "stormtrooperpauldrons(white)",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_StormtrooperPauldrons_Sergeant"
+	},
+	{
+		"abr": "stormtrooperpauldrons(yellow)",
+		"price": 608,
+		"category": "Armor",
+		"defname": "O21_OR_StormtrooperPauldrons_Artillery"
+	},
+	{
+		"abr": "streetlamp(dathomirian)",
+		"price": 958,
+		"category": "Furniture",
+		"defname": "O21_OR_DathomirOrbLamp_Street"
+	},
+	{
+		"abr": "sunlamp(dathomirian)",
+		"price": 550,
+		"category": "Furniture",
+		"defname": "O21_OR_DathomirSunLamp"
+	},
+	{
+		"abr": "supertacticaldroid",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "O21_OR_SuperTacticalDroid"
+	},
+	{
+		"abr": "synthetickybercrystal",
+		"price": 2500,
+		"category": "Kyber Crystals",
+		"defname": "O21_OR_SyntheticCrystal"
+	},
+	{
+		"abr": "talllamp(dathomirian)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "O21_OR_DathomirOrbLamp_Tall"
+	},
+	{
+		"abr": "tatooinetable(1x1)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "O21_OR_Tatooine1x1Table"
+	},
+	{
+		"abr": "tatooinetable(2x1)",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "O21_OR_Tatooine2x1Table"
+	},
+	{
+		"abr": "tatooinetable(2x2)",
+		"price": 758,
+		"category": "Furniture",
+		"defname": "O21_OR_Tatooine2x2Table"
+	},
+	{
+		"abr": "techprint(gold-plasteelmetallurgy)",
+		"price": 16667,
+		"category": "Techprints",
+		"defname": "Techprint_GildedGuns"
+	},
+	{
+		"abr": "thermaldetonator",
+		"price": 483,
+		"category": "Grenades",
+		"defname": "O21_OR_ThermalDetonator"
+	},
+	{
+		"abr": "thermaldetonatorbelt",
+		"price": 483,
+		"category": "Utility",
+		"defname": "O21_OR_ThermalDetonatorBelt"
+	},
+	{
+		"abr": "thickalienleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "O21_AlienLeather_Thick"
+	},
+	{
+		"abr": "tibanna",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "O21_OR_Tibanna"
+	},
+	{
+		"abr": "tibannabottler",
+		"price": 35,
+		"category": "Furniture",
+		"defname": "O21_OR_TibannaBottler"
+	},
+	{
+		"abr": "tibannaextractor(heavy)",
+		"price": 14075,
+		"category": "Production",
+		"defname": "O21_OR_TibannaExtractorHeavy"
+	},
+	{
+		"abr": "tibannaextractor(light)",
+		"price": 4817,
+		"category": "Production",
+		"defname": "O21_OR_TibannaExtractorLight"
+	},
+	{
+		"abr": "tibannasiphon",
+		"price": 35,
+		"category": "Furniture",
+		"defname": "O21_OR_TibannaSiphon"
+	},
+	{
+		"abr": "togruta",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Togruta"
+	},
+	{
+		"abr": "trandoshan",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Trandoshan"
+	},
+	{
+		"abr": "t-seriestacticaldroid",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_OR_TacticalDroid"
+	},
+	{
+		"abr": "tusken",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Tusken"
+	},
+	{
+		"abr": "tuskenheadwrap",
+		"price": 198,
+		"category": "Headgear",
+		"defname": "O21_OR_TuskenHeadwrap"
+	},
+	{
+		"abr": "tuskenrobes",
+		"price": 467,
+		"category": "Apparel",
+		"defname": "O21_OR_TuskenRobes"
+	},
+	{
+		"abr": "twi'lek",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "O21_OR_Twilek"
+	},
+	{
+		"abr": "twinwristblaster",
+		"price": 2117,
+		"category": "Apparel",
+		"defname": "O21_OR_DroidWeapon_TwinWristBlaster"
+	},
+	{
+		"abr": "ultimapearl",
+		"price": 3333,
+		"category": "Power Crystals",
+		"defname": "O21_OR_PowerCrystal_UltimaPearl"
+	},
+	{
+		"abr": "vibro-axe",
+		"price": 1192,
+		"category": "Melee weapons",
+		"defname": "O21_OR_VibroAxe"
+	},
+	{
+		"abr": "vibro-blade",
+		"price": 1142,
+		"category": "Melee weapons",
+		"defname": "O21_OR_VibroBlade"
+	},
+	{
+		"abr": "vibro-cleaver",
+		"price": 1158,
+		"category": "Melee weapons",
+		"defname": "O21_OR_VibroCleaver"
+	},
+	{
+		"abr": "vibro-dagger",
+		"price": 1075,
+		"category": "Melee weapons",
+		"defname": "O21_OR_VibroDagger"
+	},
+	{
+		"abr": "vibro-doubleblade",
+		"price": 1192,
+		"category": "Melee weapons",
+		"defname": "O21_OR_VibroDoubleBlade"
+	},
+	{
+		"abr": "vibro-glaive",
+		"price": 1192,
+		"category": "Melee weapons",
+		"defname": "O21_OR_VibroGlaive"
+	},
+	{
+		"abr": "walllamp(generic)",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "O21_OR_WallLamp"
+	},
+	{
+		"abr": "watercooledmg",
+		"price": 708,
+		"category": "Ranged weapons",
+		"defname": "BA_Gun_WatercooledMG"
+	},
+	{
+		"abr": "weaponsfabricator",
+		"price": 1408,
+		"category": "Production",
+		"defname": "O21_OR_WeaponsFabricator"
+	},
+	{
+		"abr": "westar-18blasterpistol",
+		"price": 1133,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_WESTAR18Blaster"
+	},
+	{
+		"abr": "westar-34blasterpistol",
+		"price": 1133,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_WESTAR34Blaster"
+	},
+	{
+		"abr": "westar-35blasterpistol",
+		"price": 1133,
+		"category": "Ranged weapons",
+		"defname": "O21_OR_WESTAR35Blaster"
+	},
+	{
+		"abr": "widebrimfedora",
+		"price": 132,
+		"category": "Headgear",
+		"defname": "Apparel_WideFedora"
 	}
 	],
-	"total": 3878
+	"total": 4246
 }

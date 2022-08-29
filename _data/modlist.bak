@@ -1780,5 +1780,17 @@
     "name": "Compressed Raid",
     "steamId": "2377478084",
     "version": "1.3.2"
+  },
+  {
+    "author": "ValiDragunova",
+    "name": "Vali's Charged Arsenal - Eltex Series",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ValiDragunova",
+    "name": "Vali's Charged Arsenal",
+    "steamId": "2807241532",
+    "version": "1.0.0.0"
   }
 ]

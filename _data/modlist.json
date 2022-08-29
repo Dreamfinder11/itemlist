@@ -1783,14 +1783,32 @@
   },
   {
     "author": "ValiDragunova",
+    "name": "Vali's Charged Arsenal",
+    "steamId": "2807241532",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ValiDragunova",
     "name": "Vali's Charged Arsenal - Eltex Series",
     "steamId": null,
     "version": null
   },
   {
-    "author": "ValiDragunova",
-    "name": "Vali's Charged Arsenal",
-    "steamId": "2807241532",
-    "version": "1.0.0.0"
+    "author": "Mad Jack",
+    "name": "Bootleggers Arsenal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tabula Rasa",
+    "steamId": "1660622094",
+    "version": "2.5.8254.23319"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outer Rim Galaxies",
+    "steamId": "2681363470",
+    "version": "1.1.1"
   }
 ]
