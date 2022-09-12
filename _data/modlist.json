@@ -66,6 +66,12 @@
     "version": null
   },
   {
+    "author": "Fishbrains",
+    "name": "TechBlock",
+    "steamId": "1970774610",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Epicguru (James B)",
     "name": "In-game wiki",
     "steamId": "2113685739",
@@ -296,12 +302,6 @@
   {
     "author": "sakama",
     "name": "Roppoi hair",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rooboid",
-    "name": "Roo's HD Hairstyles",
     "steamId": null,
     "version": null
   },
@@ -1224,6 +1224,12 @@
     "version": "1.3.1.2"
   },
   {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Prehistoric",
+    "steamId": "2860715703",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Sarg",
     "name": "Alpha Biomes",
     "steamId": "1841354677",
@@ -1290,10 +1296,10 @@
     "version": null
   },
   {
-    "author": "Jexa",
-    "name": "Bulk Stonecutting",
-    "steamId": null,
-    "version": null
+    "author": "Scherub",
+    "name": "Stonecutting Extended",
+    "steamId": "2571676542",
+    "version": "1.1.0.0"
   },
   {
     "author": "Captain Muscles (Nathan Harbour)",
@@ -1341,7 +1347,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.1.0"
+    "version": "6.2.1.3"
   },
   {
     "author": "saschahi",
@@ -1674,6 +1680,12 @@
     "version": null
   },
   {
+    "author": "Asieruso23 and Asierus24",
+    "name": "[SRTS Expanded] Planes and Bombs",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Morphium",
     "name": "Morphs Assorted: Dropship SRTS",
     "steamId": null,
@@ -1800,15 +1812,15 @@
     "version": null
   },
   {
-    "author": "Neronix17",
-    "name": "Tabula Rasa",
-    "steamId": "1660622094",
-    "version": "2.5.8254.23319"
+    "author": "MarvinKosh",
+    "name": "Ugh You Got Me",
+    "steamId": "1542424705",
+    "version": "1.0.7468.14677"
   },
   {
-    "author": "Neronix17",
-    "name": "Outer Rim Galaxies",
-    "steamId": "2681363470",
-    "version": "1.1.1"
+    "author": "Dubwise",
+    "name": "Dubs Skylights",
+    "steamId": "833899765",
+    "version": "1.0.0.0"
   }
 ]

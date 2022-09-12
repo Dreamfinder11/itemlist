@@ -1341,7 +1341,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.1.0"
+    "version": "6.2.1.3"
   },
   {
     "author": "saschahi",
@@ -1783,14 +1783,26 @@
   },
   {
     "author": "ValiDragunova",
+    "name": "Vali's Charged Arsenal",
+    "steamId": "2807241532",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ValiDragunova",
     "name": "Vali's Charged Arsenal - Eltex Series",
     "steamId": null,
     "version": null
   },
   {
-    "author": "ValiDragunova",
-    "name": "Vali's Charged Arsenal",
-    "steamId": "2807241532",
+    "author": "Mad Jack",
+    "name": "Bootleggers Arsenal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Skylights",
+    "steamId": "833899765",
     "version": "1.0.0.0"
   }
 ]
