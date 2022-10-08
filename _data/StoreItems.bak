@@ -20990,7 +20990,7 @@
 	},
 	{
 		"abr": "eltex",
-		"price": 278,
+		"price": 10,
 		"category": "Manufactured",
 		"defname": "VPE_Eltex"
 	},
@@ -22177,18 +22177,6 @@
 		"defname": "BiomesIslands_FishFood"
 	},
 	{
-		"abr": "fishmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BiomesIslands_WhiteShark"
-	},
-	{
-		"abr": "fishmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_BMT_GreenEel"
-	},
-	{
 		"abr": "fishskin",
 		"price": 3,
 		"category": "Leathers",
@@ -22415,12 +22403,6 @@
 		"price": 42,
 		"category": "Eggs (fert.)",
 		"defname": "BiomesIslands_EggMegamantisFertilized"
-	},
-	{
-		"abr": "molluscashell",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "BMT_Molluscashell"
 	},
 	{
 		"abr": "muckfrill",
@@ -23624,7 +23606,7 @@
 	},
 	{
 		"abr": "techprint(gold-plasteelmetallurgy)",
-		"price": 16667,
+		"price": 1667,
 		"category": "Techprints",
 		"defname": "Techprint_GildedGuns"
 	},
@@ -23682,6 +23664,1998 @@
 		"category": "Headgear",
 		"defname": "Apparel_WideFedora"
 	},
+	{
+		"abr": "aerol-29delfín",
+		"price": 14200,
+		"category": "Buildings",
+		"defname": "AEROL29a"
+	},
+	{
+		"abr": "allosaurus",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "BMT_Allosaurus"
+	},
+	{
+		"abr": "allosaurusegg(fert.)",
+		"price": 105,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_AllosaurusEggFertilized"
+	},
+	{
+		"abr": "amargasaurus",
+		"price": 2033,
+		"category": "Animals",
+		"defname": "BMT_Amargasaurus"
+	},
+	{
+		"abr": "amargasaurusegg(fert.)",
+		"price": 103,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_AmargasaurusEggFertilized"
+	},
+	{
+		"abr": "ammonite",
+		"price": 533,
+		"category": "Animals",
+		"defname": "BMT_Ammonite"
+	},
+	{
+		"abr": "ammoniteegg(fert.)",
+		"price": 43,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_EggAmmoniteFertilized"
+	},
+	{
+		"abr": "amphibianmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BMT_Diplocaulus"
+	},
+	{
+		"abr": "anhanguera",
+		"price": 1583,
+		"category": "Animals",
+		"defname": "BMT_Anhanguera"
+	},
+	{
+		"abr": "anhangueraegg(fert.)",
+		"price": 92,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_AnhangueraEggFertilized"
+	},
+	{
+		"abr": "ankylosaurus",
+		"price": 2533,
+		"category": "Animals",
+		"defname": "BMT_Ankylosaurus"
+	},
+	{
+		"abr": "ankylosaurusegg(fert.)",
+		"price": 133,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_AnkylosaurusEggFertilized"
+	},
+	{
+		"abr": "ankylosidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BMT_Ankylosaurus"
+	},
+	{
+		"abr": "anomalocaris",
+		"price": 200,
+		"category": "Animals",
+		"defname": "BMT_Anomalocaris"
+	},
+	{
+		"abr": "anomalocarisegg(fert.)",
+		"price": 58,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_EggAnomalocarisFertilized"
+	},
+	{
+		"abr": "antonovan-225mriya",
+		"price": 21692,
+		"category": "Buildings",
+		"defname": "AN225a"
+	},
+	{
+		"abr": "apatosaurus",
+		"price": 2033,
+		"category": "Animals",
+		"defname": "BMT_Apatosaurus"
+	},
+	{
+		"abr": "apatosaurusegg(fert.)",
+		"price": 92,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_ApatosaurusEggFertilized"
+	},
+	{
+		"abr": "armoreddinosaurhide",
+		"price": 17,
+		"category": "Leathers",
+		"defname": "BMT_DinoHideArmored"
+	},
+	{
+		"abr": "arthropleura",
+		"price": 333,
+		"category": "Animals",
+		"defname": "BMT_Arthropleura"
+	},
+	{
+		"abr": "arthropleuraegg(fert.)",
+		"price": 58,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_ArthropleuraEggFertilized"
+	},
+	{
+		"abr": "avrolancaster",
+		"price": 9175,
+		"category": "Buildings",
+		"defname": "AvroLana"
+	},
+	{
+		"abr": "avrovulcan",
+		"price": 20200,
+		"category": "Buildings",
+		"defname": "AVROVULCANa"
+	},
+	{
+		"abr": "avroyork(type685)",
+		"price": 6392,
+		"category": "Buildings",
+		"defname": "AvroYork685a"
+	},
+	{
+		"abr": "b-28nuclearbomb",
+		"price": 20833,
+		"category": "Mortar shells",
+		"defname": "Shell_B28NukePyB"
+	},
+	{
+		"abr": "baryonyx",
+		"price": 1217,
+		"category": "Animals",
+		"defname": "BMT_Baryonyx"
+	},
+	{
+		"abr": "baryonyxegg(fert.)",
+		"price": 105,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_BaryonyxEggFertilized"
+	},
+	{
+		"abr": "bellah-1cobra",
+		"price": 3475,
+		"category": "Buildings",
+		"defname": "AH1C"
+	},
+	{
+		"abr": "bellboeingv-22osprey",
+		"price": 18775,
+		"category": "Buildings",
+		"defname": "V22OSa"
+	},
+	{
+		"abr": "belluh-1huey",
+		"price": 1575,
+		"category": "Buildings",
+		"defname": "UH1a"
+	},
+	{
+		"abr": "bf110c-7",
+		"price": 4100,
+		"category": "Buildings",
+		"defname": "Bf110C7a"
+	},
+	{
+		"abr": "boeing(baesystems/mcdonnelldouglas)av-8bharrierii",
+		"price": 19692,
+		"category": "Buildings",
+		"defname": "HAIIa"
+	},
+	{
+		"abr": "boeing(mcdonnelldouglas)f/a-18hornet",
+		"price": 19525,
+		"category": "Buildings",
+		"defname": "fa18a"
+	},
+	{
+		"abr": "boeingb-29superfortress",
+		"price": 9808,
+		"category": "Buildings",
+		"defname": "B29SFa"
+	},
+	{
+		"abr": "boeingb-52stratofortress",
+		"price": 23467,
+		"category": "Buildings",
+		"defname": "B52a"
+	},
+	{
+		"abr": "boomasaurolophus",
+		"price": 300,
+		"category": "Animals",
+		"defname": "BMT_Boomasaur"
+	},
+	{
+		"abr": "boomasaurolophusegg(fert.)",
+		"price": 58,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_BoomasaurEggFertilized"
+	},
+	{
+		"abr": "borealopelta",
+		"price": 1567,
+		"category": "Animals",
+		"defname": "BMT_Borealopelta"
+	},
+	{
+		"abr": "borealopeltaegg(fert.)",
+		"price": 133,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_BorealopeltaEggFertilized"
+	},
+	{
+		"abr": "brachiosaurus",
+		"price": 2033,
+		"category": "Animals",
+		"defname": "BMT_Brachiosaurus"
+	},
+	{
+		"abr": "brachiosaurusegg(fert.)",
+		"price": 37,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_BrachiosaurusEggFertilized"
+	},
+	{
+		"abr": "bréguetbr.1001taonb",
+		"price": 16175,
+		"category": "Buildings",
+		"defname": "BR1001a"
+	},
+	{
+		"abr": "camarasaurus",
+		"price": 1867,
+		"category": "Animals",
+		"defname": "BMT_Camarasaurus"
+	},
+	{
+		"abr": "camarasaurusegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_CamarasaurusEggFertilized"
+	},
+	{
+		"abr": "carnotaurus",
+		"price": 1217,
+		"category": "Animals",
+		"defname": "BMT_Carnotaurus"
+	},
+	{
+		"abr": "carnotaurusegg(fert.)",
+		"price": 105,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_CarnotaurusEggFertilized"
+	},
+	{
+		"abr": "centrosaurus",
+		"price": 867,
+		"category": "Animals",
+		"defname": "BMT_Centrosaurus"
+	},
+	{
+		"abr": "centrosaurusegg(fert.)",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_CentrosaurusEggFertilized"
+	},
+	{
+		"abr": "cephalopodmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BMT_Ammonite"
+	},
+	{
+		"abr": "ceratopsidhorn",
+		"price": 150,
+		"category": "Trophy",
+		"defname": "BMT_CeratopsidHorn"
+	},
+	{
+		"abr": "ceratopsidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BMT_Triceratops"
+	},
+	{
+		"abr": "chasmosaurus",
+		"price": 867,
+		"category": "Animals",
+		"defname": "BMT_Chasmosaurus"
+	},
+	{
+		"abr": "chasmosaurusegg(fert.)",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_ChasmosaurusEggFertilized"
+	},
+	{
+		"abr": "chengduj-10",
+		"price": 19633,
+		"category": "Buildings",
+		"defname": "J10a"
+	},
+	{
+		"abr": "chengduj-20",
+		"price": 20267,
+		"category": "Buildings",
+		"defname": "J20a"
+	},
+	{
+		"abr": "chungkingosaurus",
+		"price": 950,
+		"category": "Animals",
+		"defname": "BMT_Chungkingosaurus"
+	},
+	{
+		"abr": "chungkingosaurusegg(fert.)",
+		"price": 92,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_ChungkingosaurusEggFertilized"
+	},
+	{
+		"abr": "ciervac.19",
+		"price": 942,
+		"category": "Buildings",
+		"defname": "JCC16a"
+	},
+	{
+		"abr": "coelacanth",
+		"price": 200,
+		"category": "Animals",
+		"defname": "BMT_Coelacanth"
+	},
+	{
+		"abr": "coelacanthegg(fert.)",
+		"price": 47,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_EggCoelacanthFertilized"
+	},
+	{
+		"abr": "compsognathus",
+		"price": 933,
+		"category": "Animals",
+		"defname": "BMT_Compsognathus"
+	},
+	{
+		"abr": "compsognathusegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_CompsognathusEggFertilized"
+	},
+	{
+		"abr": "compsognathusegg(unfert.)",
+		"price": 25,
+		"category": "Eggs (unfert.)",
+		"defname": "BMT_EggCompsognathusUnfertilized"
+	},
+	{
+		"abr": "cycadnuts",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "BMT_RawCycadNuts"
+	},
+	{
+		"abr": "dassaultmirageiii",
+		"price": 16783,
+		"category": "Buildings",
+		"defname": "MIRAGEIIIa"
+	},
+	{
+		"abr": "dehavillanddh.100vampire",
+		"price": 8850,
+		"category": "Buildings",
+		"defname": "DH100V"
+	},
+	{
+		"abr": "deinonychus",
+		"price": 750,
+		"category": "Animals",
+		"defname": "BMT_Deinonychus"
+	},
+	{
+		"abr": "deinonychusegg(fert.)",
+		"price": 35,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_DeinonychusEggFertilized"
+	},
+	{
+		"abr": "dilophosaurus",
+		"price": 950,
+		"category": "Animals",
+		"defname": "BMT_Dilophosaurus"
+	},
+	{
+		"abr": "dilophosaurusegg(fert.)",
+		"price": 92,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_DilophosaurusEggFertilized"
+	},
+	{
+		"abr": "dilophosaurusskull",
+		"price": 250,
+		"category": "Trophy",
+		"defname": "BMT_DilophosaurusSkull"
+	},
+	{
+		"abr": "dimetrodon",
+		"price": 767,
+		"category": "Animals",
+		"defname": "BMT_Dimetrodon"
+	},
+	{
+		"abr": "dimetrodonegg(fert.)",
+		"price": 128,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_DimetrodonEggFertilized"
+	},
+	{
+		"abr": "dimorphodon",
+		"price": 1217,
+		"category": "Animals",
+		"defname": "BMT_Dimorphodon"
+	},
+	{
+		"abr": "dimorphodonegg(fert.)",
+		"price": 92,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_DimorphodonEggFertilized"
+	},
+	{
+		"abr": "diplocaulus",
+		"price": 750,
+		"category": "Animals",
+		"defname": "BMT_Diplocaulus"
+	},
+	{
+		"abr": "diplocaulusegg(fert.)",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_DiplocaulusEggFertilized"
+	},
+	{
+		"abr": "dornierdo217",
+		"price": 4900,
+		"category": "Buildings",
+		"defname": "DO217a"
+	},
+	{
+		"abr": "douglasa-26invader",
+		"price": 5450,
+		"category": "Buildings",
+		"defname": "A26NVADERa"
+	},
+	{
+		"abr": "douglasa-3skywarrior",
+		"price": 13225,
+		"category": "Buildings",
+		"defname": "DCA3a"
+	},
+	{
+		"abr": "douglasc-133cargomaster",
+		"price": 9692,
+		"category": "Buildings",
+		"defname": "DC133a"
+	},
+	{
+		"abr": "downyhide",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "BMT_DinoHideFeathery"
+	},
+	{
+		"abr": "dryosaurus",
+		"price": 300,
+		"category": "Animals",
+		"defname": "BMT_Dryosaurus"
+	},
+	{
+		"abr": "dryosaurusegg(fert.)",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_DryosaurusEggFertilized"
+	},
+	{
+		"abr": "dunkleosteus",
+		"price": 200,
+		"category": "Animals",
+		"defname": "BMT_Dunkleosteus"
+	},
+	{
+		"abr": "dunkleosteusegg(fert.)",
+		"price": 47,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_EggDunkleosteusFertilized"
+	},
+	{
+		"abr": "edmontosaurus",
+		"price": 300,
+		"category": "Animals",
+		"defname": "BMT_Edmontosaurus"
+	},
+	{
+		"abr": "edmontosaurusegg(fert.)",
+		"price": 55,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_EdmontosaurusEggFertilized"
+	},
+	{
+		"abr": "elasmosaurus",
+		"price": 5667,
+		"category": "Animals",
+		"defname": "BMT_Elasmosaurus"
+	},
+	{
+		"abr": "eurofightertyphoon",
+		"price": 19925,
+		"category": "Buildings",
+		"defname": "EurofighterTy"
+	},
+	{
+		"abr": "eurypterid",
+		"price": 200,
+		"category": "Animals",
+		"defname": "BMT_Eurypterid"
+	},
+	{
+		"abr": "eurypteridegg(fert.)",
+		"price": 58,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_EggEurypteridFertilized"
+	},
+	{
+		"abr": "f-16",
+		"price": 19225,
+		"category": "Buildings",
+		"defname": "F16a"
+	},
+	{
+		"abr": "fairchildrepublica-10thunderboltii",
+		"price": 19367,
+		"category": "Buildings",
+		"defname": "A10a"
+	},
+	{
+		"abr": "fernspores",
+		"price": 1,
+		"category": "Vegetarian",
+		"defname": "BMT_RawSporophylls"
+	},
+	{
+		"abr": "fishmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "BMT_FishMeat"
+	},
+	{
+		"abr": "focke-achgelisfa223drache",
+		"price": 1458,
+		"category": "Buildings",
+		"defname": "FA223a"
+	},
+	{
+		"abr": "gallimimus",
+		"price": 1033,
+		"category": "Animals",
+		"defname": "BMT_Gallimimus"
+	},
+	{
+		"abr": "gallimimusegg(fert.)",
+		"price": 103,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_GallimimusEggFertilized"
+	},
+	{
+		"abr": "generaldynamicsf-111k",
+		"price": 18617,
+		"category": "Buildings",
+		"defname": "F111Ka"
+	},
+	{
+		"abr": "generaldynamicsf-16xl",
+		"price": 21050,
+		"category": "Buildings",
+		"defname": "F16XLa"
+	},
+	{
+		"abr": "giantammonite",
+		"price": 533,
+		"category": "Animals",
+		"defname": "BMT_GiantAmmonite"
+	},
+	{
+		"abr": "giantammoniteegg(fert.)",
+		"price": 57,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_EggGiantAmmoniteFertilized"
+	},
+	{
+		"abr": "heavydinosaurhide",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "BMT_DinoHideHeavy"
+	},
+	{
+		"abr": "heinkelhe111",
+		"price": 4525,
+		"category": "Buildings",
+		"defname": "HE111a"
+	},
+	{
+		"abr": "heinkelhe177",
+		"price": 5317,
+		"category": "Buildings",
+		"defname": "he177a"
+	},
+	{
+		"abr": "homalocephale",
+		"price": 300,
+		"category": "Animals",
+		"defname": "BMT_Homalocephale"
+	},
+	{
+		"abr": "homalocephaleegg(fert.)",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_HomalocephaleEggFertilized"
+	},
+	{
+		"abr": "hypsilophodon",
+		"price": 583,
+		"category": "Animals",
+		"defname": "BMT_Hypsilophodon"
+	},
+	{
+		"abr": "hypsilophodonegg(fert.)",
+		"price": 35,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_HypsilophodonEggFertilized"
+	},
+	{
+		"abr": "icthyosaurmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BMT_Icthyosaurus"
+	},
+	{
+		"abr": "icthyosaurus",
+		"price": 1617,
+		"category": "Animals",
+		"defname": "BMT_Icthyosaurus"
+	},
+	{
+		"abr": "iguanodon",
+		"price": 300,
+		"category": "Animals",
+		"defname": "BMT_Iguanodon"
+	},
+	{
+		"abr": "iguanodonegg(fert.)",
+		"price": 55,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_IguanodonEggFertilized"
+	},
+	{
+		"abr": "inostrancevia",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "BMT_Inostrancevia"
+	},
+	{
+		"abr": "inostranceviaegg(fert.)",
+		"price": 103,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_InostranceviaEggFertilized"
+	},
+	{
+		"abr": "junkersju52",
+		"price": 7092,
+		"category": "Buildings",
+		"defname": "JU52a"
+	},
+	{
+		"abr": "junkersju-87stuka",
+		"price": 3758,
+		"category": "Buildings",
+		"defname": "JU87stua"
+	},
+	{
+		"abr": "kaprosuchus",
+		"price": 1600,
+		"category": "Animals",
+		"defname": "BMT_Kaprosuchus"
+	},
+	{
+		"abr": "kaprosuchusegg(fert.)",
+		"price": 128,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_KaprosuchusEggFertilized"
+	},
+	{
+		"abr": "kentrosaurus",
+		"price": 883,
+		"category": "Animals",
+		"defname": "BMT_Kentrosaurus"
+	},
+	{
+		"abr": "kentrosaurusegg(fert.)",
+		"price": 110,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_KentrosaurusEggFertilized"
+	},
+	{
+		"abr": "leaellynasaura",
+		"price": 417,
+		"category": "Animals",
+		"defname": "BMT_Leaellynasaura"
+	},
+	{
+		"abr": "leaellynasauraegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_LeaellynasauraEggFertilized"
+	},
+	{
+		"abr": "lightdinosaurhide",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "BMT_DinoHideThin"
+	},
+	{
+		"abr": "liopleurodon",
+		"price": 4667,
+		"category": "Animals",
+		"defname": "BMT_Liopleurodon"
+	},
+	{
+		"abr": "lizardmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BMT_Kaprosuchus"
+	},
+	{
+		"abr": "lockheedah-56cheyenne",
+		"price": 2842,
+		"category": "Buildings",
+		"defname": "AH56C"
+	},
+	{
+		"abr": "lockheedc-130hercules",
+		"price": 8200,
+		"category": "Buildings",
+		"defname": "C130a"
+	},
+	{
+		"abr": "lockheedc-5galaxy(cargoonly)",
+		"price": 21208,
+		"category": "Buildings",
+		"defname": "C5Ga"
+	},
+	{
+		"abr": "lockheedf-104starfighter",
+		"price": 15142,
+		"category": "Buildings",
+		"defname": "F104SF"
+	},
+	{
+		"abr": "lockheedf-117nighthawk",
+		"price": 22167,
+		"category": "Buildings",
+		"defname": "F117a"
+	},
+	{
+		"abr": "lockheedmartinf-22raptor",
+		"price": 21742,
+		"category": "Buildings",
+		"defname": "F22R"
+	},
+	{
+		"abr": "lockheedmartinx-44manta",
+		"price": 23325,
+		"category": "Buildings",
+		"defname": "X44a"
+	},
+	{
+		"abr": "lockheedp-38lightning",
+		"price": 3783,
+		"category": "Buildings",
+		"defname": "Lp38la"
+	},
+	{
+		"abr": "lockheedventurapv-1",
+		"price": 5050,
+		"category": "Buildings",
+		"defname": "LKPV1C7a"
+	},
+	{
+		"abr": "lystrosauregg(fert.)",
+		"price": 103,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_LystrosaurEggFertilized"
+	},
+	{
+		"abr": "lystrosaurus",
+		"price": 583,
+		"category": "Animals",
+		"defname": "BMT_Lystrosaur"
+	},
+	{
+		"abr": "m.e.m.pbomb",
+		"price": 4167,
+		"category": "Mortar shells",
+		"defname": "Shell_4000lbEMP"
+	},
+	{
+		"abr": "maiasaura",
+		"price": 333,
+		"category": "Animals",
+		"defname": "BMT_Maiasaura"
+	},
+	{
+		"abr": "maiasauraegg(fert.)",
+		"price": 55,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_MaiasauraEggFertilized"
+	},
+	{
+		"abr": "mauricefarmanf50",
+		"price": 1700,
+		"category": "Buildings",
+		"defname": "MFF50a"
+	},
+	{
+		"abr": "mcdonnelldouglasf-4phantomii",
+		"price": 16875,
+		"category": "Buildings",
+		"defname": "F4IIa"
+	},
+	{
+		"abr": "mcdonnelldouglas/boeingc-17globemasteriii",
+		"price": 20600,
+		"category": "Buildings",
+		"defname": "C17GBa"
+	},
+	{
+		"abr": "meganeura",
+		"price": 583,
+		"category": "Animals",
+		"defname": "BMT_Meganeura"
+	},
+	{
+		"abr": "meganeuraegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_MeganeuraEggFertilized"
+	},
+	{
+		"abr": "messerschmittme262a-2a",
+		"price": 8492,
+		"category": "Buildings",
+		"defname": "ME262a"
+	},
+	{
+		"abr": "messerschmitt-264–mep.1075/mep.1085",
+		"price": 10550,
+		"category": "Buildings",
+		"defname": "ME1075a"
+	},
+	{
+		"abr": "mig-29",
+		"price": 19242,
+		"category": "Buildings",
+		"defname": "mig29a"
+	},
+	{
+		"abr": "mikoyanmig1.42/1.44/mfi",
+		"price": 21183,
+		"category": "Buildings",
+		"defname": "MIG144a"
+	},
+	{
+		"abr": "mikoyanmig-27",
+		"price": 18992,
+		"category": "Buildings",
+		"defname": "mig27a"
+	},
+	{
+		"abr": "mikoyan-gurevichmig-19",
+		"price": 14367,
+		"category": "Buildings",
+		"defname": "MIG19a"
+	},
+	{
+		"abr": "milm-12homer",
+		"price": 9842,
+		"category": "Buildings",
+		"defname": "MI12a"
+	},
+	{
+		"abr": "milmi-24a",
+		"price": 3158,
+		"category": "Buildings",
+		"defname": "MI24A"
+	},
+	{
+		"abr": "milmi-4(hound)",
+		"price": 1583,
+		"category": "Buildings",
+		"defname": "MI4a"
+	},
+	{
+		"abr": "milmi-8hip",
+		"price": 1792,
+		"category": "Buildings",
+		"defname": "mi8a"
+	},
+	{
+		"abr": "minmi",
+		"price": 867,
+		"category": "Animals",
+		"defname": "BMT_Minmi"
+	},
+	{
+		"abr": "minmiegg(fert.)",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_MinmiEggFertilized"
+	},
+	{
+		"abr": "mitsubishia6m7rei-sen(zero)",
+		"price": 4817,
+		"category": "Buildings",
+		"defname": "A6M7a"
+	},
+	{
+		"abr": "mitsubishig4m",
+		"price": 5317,
+		"category": "Buildings",
+		"defname": "Mitsug4m"
+	},
+	{
+		"abr": "molluskshell",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "BMT_Molluskshell"
+	},
+	{
+		"abr": "mosasaurmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BMT_Mosasaurus"
+	},
+	{
+		"abr": "mosasaurus",
+		"price": 6333,
+		"category": "Animals",
+		"defname": "BMT_Mosasaurus"
+	},
+	{
+		"abr": "myasishchevm-4",
+		"price": 18117,
+		"category": "Buildings",
+		"defname": "MM4a"
+	},
+	{
+		"abr": "northamericanf-100supersabre",
+		"price": 14742,
+		"category": "Buildings",
+		"defname": "F100a"
+	},
+	{
+		"abr": "northamericanp51d",
+		"price": 5067,
+		"category": "Buildings",
+		"defname": "NAP51Da"
+	},
+	{
+		"abr": "northropgrummanb-2spirit",
+		"price": 26733,
+		"category": "Buildings",
+		"defname": "B2a"
+	},
+	{
+		"abr": "northropxb-35",
+		"price": 17433,
+		"category": "Buildings",
+		"defname": "XB35a"
+	},
+	{
+		"abr": "nuclearbomb",
+		"price": 20833,
+		"category": "Mortar shells",
+		"defname": "Shell_fatmanNukePyB"
+	},
+	{
+		"abr": "nypaleafs",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "BMT_RawNypa"
+	},
+	{
+		"abr": "olorotitan",
+		"price": 283,
+		"category": "Animals",
+		"defname": "BMT_Olorotitan"
+	},
+	{
+		"abr": "olorotitanegg(fert.)",
+		"price": 55,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_OlorotitanEggFertilized"
+	},
+	{
+		"abr": "ornithopodmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BMT_Iguanodon"
+	},
+	{
+		"abr": "orthoceras",
+		"price": 700,
+		"category": "Animals",
+		"defname": "BMT_Orthoceras"
+	},
+	{
+		"abr": "orthocerasegg(fert.)",
+		"price": 43,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_EggOrthocerasFertilized"
+	},
+	{
+		"abr": "ouranosaurus",
+		"price": 300,
+		"category": "Animals",
+		"defname": "BMT_Ouranosaurus"
+	},
+	{
+		"abr": "ouranosaurusegg(fert.)",
+		"price": 55,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_OuranosaurusEggFertilized"
+	},
+	{
+		"abr": "oviraptor",
+		"price": 367,
+		"category": "Animals",
+		"defname": "BMT_Oviraptor"
+	},
+	{
+		"abr": "oviraptoregg(fert.)",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_OviraptorEggFertilized"
+	},
+	{
+		"abr": "pachycephalosaurus",
+		"price": 800,
+		"category": "Animals",
+		"defname": "BMT_Pachycephalosaurus"
+	},
+	{
+		"abr": "pachycephalosaurusegg(fert.)",
+		"price": 117,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_PachycephalosaurusEggFertilized"
+	},
+	{
+		"abr": "pachycesidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BMT_Pachycephalosaurus"
+	},
+	{
+		"abr": "pachyrhinosaurus",
+		"price": 617,
+		"category": "Animals",
+		"defname": "BMT_Pachyrhinosaurus"
+	},
+	{
+		"abr": "pachyrhinosaurusegg(fert.)",
+		"price": 100,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_PachyrhinosaurusEggFertilized"
+	},
+	{
+		"abr": "panaviatornado",
+		"price": 19367,
+		"category": "Buildings",
+		"defname": "PNTa"
+	},
+	{
+		"abr": "parasaurolophus",
+		"price": 300,
+		"category": "Animals",
+		"defname": "BMT_Parasaur"
+	},
+	{
+		"abr": "parasaurolophusegg(fert.)",
+		"price": 55,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_ParasaurEggFertilized"
+	},
+	{
+		"abr": "piaseckih-25",
+		"price": 1583,
+		"category": "Buildings",
+		"defname": "PHRP"
+	},
+	{
+		"abr": "pinenuts",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "BMT_RawPineNuts"
+	},
+	{
+		"abr": "plesiosaurmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BMT_Elasmosaurus"
+	},
+	{
+		"abr": "polacanthus",
+		"price": 1733,
+		"category": "Animals",
+		"defname": "BMT_Polacanthus"
+	},
+	{
+		"abr": "polacanthusegg(fert.)",
+		"price": 133,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_PolacanthusEggFertilized"
+	},
+	{
+		"abr": "primordialchitin",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "BMT_PrimordialChitin"
+	},
+	{
+		"abr": "protofeathers",
+		"price": 4,
+		"category": "Wools",
+		"defname": "BMT_DinoFeather"
+	},
+	{
+		"abr": "protoceratops",
+		"price": 950,
+		"category": "Animals",
+		"defname": "BMT_Protoceratops"
+	},
+	{
+		"abr": "protoceratopsegg(fert.)",
+		"price": 100,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_ProtoceratopsEggFertilized"
+	},
+	{
+		"abr": "pteranodon",
+		"price": 1583,
+		"category": "Animals",
+		"defname": "BMT_Pteranodon"
+	},
+	{
+		"abr": "pteranodonegg(fert.)",
+		"price": 92,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_PteranodonEggFertilized"
+	},
+	{
+		"abr": "pterosaurmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BMT_Pteranodon"
+	},
+	{
+		"abr": "pulmonoscorpius",
+		"price": 167,
+		"category": "Animals",
+		"defname": "BMT_Pulmonoscorpius"
+	},
+	{
+		"abr": "pulmonoscorpiusegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_EggPulmonoscorpiusFertilized"
+	},
+	{
+		"abr": "quetzal",
+		"price": 1583,
+		"category": "Animals",
+		"defname": "BMT_Quetzal"
+	},
+	{
+		"abr": "quetzalegg(fert.)",
+		"price": 102,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_QuetzalEggFertilized"
+	},
+	{
+		"abr": "rockwellb-1lancer",
+		"price": 22258,
+		"category": "Buildings",
+		"defname": "B1La"
+	},
+	{
+		"abr": "sauropodmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BMT_Brachiosaurus"
+	},
+	{
+		"abr": "saurumbo",
+		"price": 6667,
+		"category": "Animals",
+		"defname": "BMT_Saurumbo"
+	},
+	{
+		"abr": "saurumbobladefeather",
+		"price": 1333,
+		"category": "Trophy",
+		"defname": "BMT_BladeFeather"
+	},
+	{
+		"abr": "saurumboegg(fert.)",
+		"price": 1667,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_SaurumboEggFertilized"
+	},
+	{
+		"abr": "shonisaurus",
+		"price": 1833,
+		"category": "Animals",
+		"defname": "BMT_Shonisaurus"
+	},
+	{
+		"abr": "sickleclaw",
+		"price": 133,
+		"category": "Trophy",
+		"defname": "BMT_RaptorClaw"
+	},
+	{
+		"abr": "sikorskych-53seastallion",
+		"price": 2000,
+		"category": "Buildings",
+		"defname": "CH53a"
+	},
+	{
+		"abr": "sikorskyr-4scouthelicopter",
+		"price": 1150,
+		"category": "Buildings",
+		"defname": "SKR4a"
+	},
+	{
+		"abr": "spinosaurus",
+		"price": 4000,
+		"category": "Animals",
+		"defname": "BMT_Spinosaurus"
+	},
+	{
+		"abr": "spinosaurusegg(fert.)",
+		"price": 125,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_SpinosaurusEggFertilized"
+	},
+	{
+		"abr": "spinosaurussail",
+		"price": 167,
+		"category": "Trophy",
+		"defname": "BMT_SpinoSail"
+	},
+	{
+		"abr": "stegoceras",
+		"price": 633,
+		"category": "Animals",
+		"defname": "BMT_Stegoceras"
+	},
+	{
+		"abr": "stegocerasegg(fert.)",
+		"price": 92,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_StegocerasEggFertilized"
+	},
+	{
+		"abr": "stegosaurus",
+		"price": 600,
+		"category": "Animals",
+		"defname": "BMT_Stegosaurus"
+	},
+	{
+		"abr": "stegosaurusegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_StegosaurusEggFertilized"
+	},
+	{
+		"abr": "stegosidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BMT_Stegosaurus"
+	},
+	{
+		"abr": "struthiomimus",
+		"price": 750,
+		"category": "Animals",
+		"defname": "BMT_Struthiomimus"
+	},
+	{
+		"abr": "struthiomimusegg(fert.)",
+		"price": 35,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_StruthiomimusEggFertilized"
+	},
+	{
+		"abr": "stygimoloch",
+		"price": 800,
+		"category": "Animals",
+		"defname": "BMT_Stygimoloch"
+	},
+	{
+		"abr": "stygimolochegg(fert.)",
+		"price": 117,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_StygimolochEggFertilized"
+	},
+	{
+		"abr": "styracosaurus",
+		"price": 967,
+		"category": "Animals",
+		"defname": "BMT_Styracosaurus"
+	},
+	{
+		"abr": "styracosaurusegg(fert.)",
+		"price": 117,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_StyracosaurusEggFertilized"
+	},
+	{
+		"abr": "su-15sh",
+		"price": 18617,
+		"category": "Buildings",
+		"defname": "SU15a"
+	},
+	{
+		"abr": "sukhoisu-47berkut",
+		"price": 21808,
+		"category": "Buildings",
+		"defname": "SU47a"
+	},
+	{
+		"abr": "synapsidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BMT_Dimetrodon"
+	},
+	{
+		"abr": "therizinosaurus",
+		"price": 500,
+		"category": "Animals",
+		"defname": "BMT_Therizinosaurus"
+	},
+	{
+		"abr": "therizinosaurusegg(fert.)",
+		"price": 105,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_TherizinosaurusEggFertilized"
+	},
+	{
+		"abr": "theropodmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BMT_Velociraptor"
+	},
+	{
+		"abr": "timimus",
+		"price": 583,
+		"category": "Animals",
+		"defname": "BMT_Timimus"
+	},
+	{
+		"abr": "timimusegg(fert.)",
+		"price": 35,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_TimimusEggFertilized"
+	},
+	{
+		"abr": "titanoboa",
+		"price": -10,
+		"category": "Animals",
+		"defname": "BMT_Titanoboa"
+	},
+	{
+		"abr": "titanoboaegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_TitanoboaEggFertilized"
+	},
+	{
+		"abr": "triceratops",
+		"price": 950,
+		"category": "Animals",
+		"defname": "BMT_Triceratops"
+	},
+	{
+		"abr": "triceratopsegg(fert.)",
+		"price": 100,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_TriceratopsEggFertilized"
+	},
+	{
+		"abr": "trilobite",
+		"price": 183,
+		"category": "Animals",
+		"defname": "BMT_Trilobite"
+	},
+	{
+		"abr": "trilobiteegg(fert.)",
+		"price": 58,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_EggTrilobiteFertilized"
+	},
+	{
+		"abr": "troodon",
+		"price": 583,
+		"category": "Animals",
+		"defname": "BMT_Troodon"
+	},
+	{
+		"abr": "troodonegg(fert.)",
+		"price": 35,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_TroodonEggFertilized"
+	},
+	{
+		"abr": "túpolevtu-2",
+		"price": 7408,
+		"category": "Buildings",
+		"defname": "tu2da"
+	},
+	{
+		"abr": "tupolevtu-95",
+		"price": 26033,
+		"category": "Buildings",
+		"defname": "TU95a"
+	},
+	{
+		"abr": "tyrannosaurus",
+		"price": 4167,
+		"category": "Animals",
+		"defname": "BMT_TRex"
+	},
+	{
+		"abr": "tyrannosaurusegg(fert.)",
+		"price": 105,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_TRexEggFertilized"
+	},
+	{
+		"abr": "stymphalianbird",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "MM_StymphalianBird"
+	},
+	{
+		"abr": "stymphalianbirdegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggStymphalianBirdFertilized"
+	},
+	{
+		"abr": "tyrannosaurusskull",
+		"price": 250,
+		"category": "Trophy",
+		"defname": "BMT_TyrannoSkull"
+	},
+	{
+		"abr": "unguided1000lbbomb",
+		"price": 1667,
+		"category": "Mortar shells",
+		"defname": "Shell_1000lb"
+	},
+	{
+		"abr": "unguided120lbbomb",
+		"price": 250,
+		"category": "Mortar shells",
+		"defname": "Shell_120lb"
+	},
+	{
+		"abr": "unguided12000lbbomb",
+		"price": 16667,
+		"category": "Mortar shells",
+		"defname": "Shell_12000lb"
+	},
+	{
+		"abr": "unguided2100lbbomb",
+		"price": 1667,
+		"category": "Mortar shells",
+		"defname": "Shell_2100lb"
+	},
+	{
+		"abr": "unguided220lbbomb",
+		"price": 250,
+		"category": "Mortar shells",
+		"defname": "Shell_220lb"
+	},
+	{
+		"abr": "unguided22000lbbomb",
+		"price": 16667,
+		"category": "Mortar shells",
+		"defname": "Shell_22000lb"
+	},
+	{
+		"abr": "unguided3080lbbomb",
+		"price": 1667,
+		"category": "Mortar shells",
+		"defname": "Shell_3080lb"
+	},
+	{
+		"abr": "unguided350lbbomb",
+		"price": 1667,
+		"category": "Mortar shells",
+		"defname": "Shell_350lb"
+	},
+	{
+		"abr": "unguided40lbbomb",
+		"price": 250,
+		"category": "Mortar shells",
+		"defname": "Shell_40lb"
+	},
+	{
+		"abr": "unguided4000lbbomb",
+		"price": 16667,
+		"category": "Mortar shells",
+		"defname": "Shell_4000lb"
+	},
+	{
+		"abr": "unguided500lbbomb",
+		"price": 1667,
+		"category": "Mortar shells",
+		"defname": "Shell_500lb"
+	},
+	{
+		"abr": "unguided8000lbbomb",
+		"price": 16667,
+		"category": "Mortar shells",
+		"defname": "Shell_8000lb"
+	},
+	{
+		"abr": "unguidedelectromagneticpulsebomb",
+		"price": 2500,
+		"category": "Mortar shells",
+		"defname": "Shell_500lbEMP"
+	},
+	{
+		"abr": "unguidedextinguisherbomb",
+		"price": 2500,
+		"category": "Mortar shells",
+		"defname": "Shell_500lbExtinguish"
+	},
+	{
+		"abr": "unguidedincendiary500lbbomb",
+		"price": 2500,
+		"category": "Mortar shells",
+		"defname": "Shell_500lbNapalm"
+	},
+	{
+		"abr": "unguidedsmokescreenbomb",
+		"price": 2500,
+		"category": "Mortar shells",
+		"defname": "Shell_500lbSmoke"
+	},
+	{
+		"abr": "utahraptor",
+		"price": 750,
+		"category": "Animals",
+		"defname": "BMT_Utahraptor"
+	},
+	{
+		"abr": "utahraptoregg(fert.)",
+		"price": 35,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_UtahraptorEggFertilized"
+	},
+	{
+		"abr": "velociraptor",
+		"price": 750,
+		"category": "Animals",
+		"defname": "BMT_Velociraptor"
+	},
+	{
+		"abr": "velociraptoregg(fert.)",
+		"price": 35,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_VelociraptorEggFertilized"
+	},
+	{
+		"abr": "xianjh-7(flounder)",
+		"price": 19142,
+		"category": "Buildings",
+		"defname": "JH7a"
+	},
+	{
+		"abr": "yakovlevyak-41freestyle",
+		"price": 20283,
+		"category": "Buildings",
+		"defname": "yak41a"
+	},
+	{
+		"abr": "yakovlevyak-9b",
+		"price": 4817,
+		"category": "Buildings",
+		"defname": "YAK9Ba"
+	},
+	{
+		"abr": "yutyrannus",
+		"price": 3333,
+		"category": "Animals",
+		"defname": "BMT_Yutyrannus"
+	},
+	{
+		"abr": "yutyrannusegg(fert.)",
+		"price": 105,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_YutyrannusEggFertilized"
+	},
+	{
+		"abr": "belemnite",
+		"price": 533,
+		"category": "Animals",
+		"defname": "BMT_Belemnite"
+	},
+	{
+		"abr": "belemniteegg(fert.)",
+		"price": 43,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_EggBelemniteFertilized"
+	},
+	{
+		"abr": "cameroceras",
+		"price": 700,
+		"category": "Animals",
+		"defname": "BMT_Cameroceras"
+	},
+	{
+		"abr": "camerocerasegg(fert.)",
+		"price": 43,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_EggCamerocerasFertilized"
+	},
+	{
+		"abr": "ephedraleaves",
+		"price": 3,
+		"category": "Drugs",
+		"defname": "BMT_EphedraLeaves"
+	},
+	{
+		"abr": "henodus",
+		"price": 1250,
+		"category": "Animals",
+		"defname": "BMT_Henodus"
+	},
+	{
+		"abr": "henodusegg(fert.)",
+		"price": 58,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_EggHenodusFertilized"
+	},
+	{
+		"abr": "jamoytius",
+		"price": 50,
+		"category": "Animals",
+		"defname": "BMT_Jamoytius"
+	},
+	{
+		"abr": "jamoytiusegg(fert.)",
+		"price": 47,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_EggJamoytiusFertilized"
+	},
+	{
+		"abr": "kaikaifilu",
+		"price": 6333,
+		"category": "Animals",
+		"defname": "BMT_Kaikaifilu"
+	},
+	{
+		"abr": "kaiwhekea",
+		"price": 5667,
+		"category": "Animals",
+		"defname": "BMT_Kaiwhekea"
+	},
+	{
+		"abr": "kronosaurus",
+		"price": 5667,
+		"category": "Animals",
+		"defname": "BMT_Kronosaurus"
+	},
+	{
+		"abr": "leedsichthys",
+		"price": 200,
+		"category": "Animals",
+		"defname": "BMT_Leedsichthys"
+	},
+	{
+		"abr": "leedsichthysegg(fert.)",
+		"price": 47,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_EggLeedsichthysFertilized"
+	},
+	{
+		"abr": "mediumdinosaurhide",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "BMT_DinoHideMedium"
+	},
+	{
+		"abr": "megalodon",
+		"price": 5000,
+		"category": "Animals",
+		"defname": "BMT_Megalodon"
+	},
+	{
+		"abr": "nanosaurus",
+		"price": 167,
+		"category": "Animals",
+		"defname": "BMT_Nanosaurus"
+	},
+	{
+		"abr": "nanosaurusegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_NanosaurusEggFertilized"
+	},
+	{
+		"abr": "onchiodon",
+		"price": 258,
+		"category": "Animals",
+		"defname": "BMT_Onchiodon"
+	},
+	{
+		"abr": "onchiodonegg(fert.)",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_OnchiodonEggFertilized"
+	},
+	{
+		"abr": "panphagia",
+		"price": 167,
+		"category": "Animals",
+		"defname": "BMT_Panphagia"
+	},
+	{
+		"abr": "panphagiaegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_PanphagiaEggFertilized"
+	},
+	{
+		"abr": "psittacosaurus",
+		"price": 167,
+		"category": "Animals",
+		"defname": "BMT_Psittacosaurus"
+	},
+	{
+		"abr": "psittacosaurusegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_PsittacosaurusEggFertilized"
+	},
+	{
+		"abr": "psittacosaurusegg(unfert.)",
+		"price": 25,
+		"category": "Eggs (unfert.)",
+		"defname": "BMT_EggPsittacosaurusUnfertilized"
+	},
+	{
+		"abr": "tapejara",
+		"price": 1217,
+		"category": "Animals",
+		"defname": "BMT_Tapejara"
+	},
+	{
+		"abr": "tapejaraegg(fert.)",
+		"price": 92,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_TapejaraEggFertilized"
+	},
+	{
+		"abr": "thalattosuchus",
+		"price": 200,
+		"category": "Animals",
+		"defname": "BMT_Thalattosuchus"
+	},
+	{
+		"abr": "thalattosuchusegg(fert.)",
+		"price": 47,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_EggThalattosuchusFertilized"
+	},
+	{
+		"abr": "wannanosaurus",
+		"price": 167,
+		"category": "Animals",
+		"defname": "BMT_Wannanosaurus"
+	},
+	{
+		"abr": "wannanosaurusegg(fert.)",
+		"price": 117,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_WannanosaurusEggFertilized"
+	},
+	{
+		"abr": "yinlong",
+		"price": 167,
+		"category": "Animals",
+		"defname": "BMT_Yinlong"
+	},
+	{
+		"abr": "yinlongegg(fert.)",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_YinlongEggFertilized"
+	},
+	{
+		"abr": "addictol",
+		"price": 833,
+		"category": "Drugs",
+		"defname": "Addictol"
+	},
+	{
+		"abr": "doormat",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatLeather"
+	},
+	{
+		"abr": "doormat(blue)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatBlue"
+	},
+	{
+		"abr": "doormat(green)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatGreen"
+	},
+	{
+		"abr": "doormat(orange)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatOrange"
+	},
+	{
+		"abr": "doormat(red)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatRed"
+	},
+	{
+		"abr": "doormat(teal)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatTeal"
+	},
+	{
+		"abr": "largedoormat",
+		"price": 20,
+		"category": "Furniture",
+		"defname": "DoorMatBigLeather"
+	},
+	{
+		"abr": "largedoormat(blue)",
+		"price": 20,
+		"category": "Furniture",
+		"defname": "DoorMatBigBlue"
+	},
+	{
+		"abr": "largedoormat(green)",
+		"price": 20,
+		"category": "Furniture",
+		"defname": "DoorMatBigGreen"
+	},
+	{
+		"abr": "largedoormat(orange)",
+		"price": 20,
+		"category": "Furniture",
+		"defname": "DoorMatBigOrange"
+	},
+	{
+		"abr": "largedoormat(red)",
+		"price": 20,
+		"category": "Furniture",
+		"defname": "DoorMatBigRed"
+	},
+	{
+		"abr": "largedoormat(teal)",
+		"price": 20,
+		"category": "Furniture",
+		"defname": "DoorMatBigTeal"
+	},
+	{
+		"abr": "linkeddoormat",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatLinkedLeather"
+	},
+	{
+		"abr": "linkeddoormat(blue)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatLinkedBlue"
+	},
+	{
+		"abr": "linkeddoormat(green)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatLinkedGreen"
+	},
+	{
+		"abr": "linkeddoormat(orange)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatLinkedOrange"
+	},
+	{
+		"abr": "linkeddoormat(red)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatLinkedRed"
+	},
+	{
+		"abr": "linkeddoormat(teal)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatLinkedTeal"
+	},
+	{
+		"abr": "mediumdoormat",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "DoorMatMediumLeather"
+	},
+	{
+		"abr": "mediumdoormat(blue)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "DoorMatMediumBlue"
+	},
+	{
+		"abr": "mediumdoormat(green)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "DoorMatMediumGreen"
+	},
+	{
+		"abr": "mediumdoormat(orange)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "DoorMatMediumOrange"
+	},
+	{
+		"abr": "mediumdoormat(red)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "DoorMatMediumRed"
+	},
+	{
+		"abr": "mediumdoormat(teal)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "DoorMatMediumTeal"
+	},
 	],
-	"total": 3959
+	"total": 4288
 }
