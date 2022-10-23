@@ -49,7 +49,7 @@
   },
   {
     "author": "Machine",
-    "name": "Better Infestations 1.3",
+    "name": "Better Infestations 1.4",
     "steamId": "1319614331",
     "version": "1.0.0.0"
   },
@@ -102,14 +102,104 @@
     "version": null
   },
   {
+    "author": "PeteTimesSix",
+    "name": "Research Reinvented",
+    "steamId": "2868392160",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zebu Wan",
+    "name": "Rimscape Music",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Bishop",
     "name": "Music on the Rim",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Zebu Wan",
-    "name": "Rimscape Music",
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vesper",
+    "name": "Not My Fault",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Elseud",
+    "name": "Machines of War",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
+  },
+  {
+    "author": "Bonible",
+    "name": "VFEM - Machines of War Addon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha,  legodude17 and  ISOREX",
+    "name": "Vanilla Furniture Expanded - Architect",
+    "steamId": "2608762624",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sam",
+    "name": "Tilled Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Winterbloom",
+    "name": "Tilled Soil + Vanilla Expanded Architect Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tabula Rasa",
+    "steamId": "1660622094",
+    "version": "2.5.8254.23319"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Forgotten Realms",
+    "steamId": "2184183669",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Smash Phil",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.3.7862.41411"
+  },
+  {
+    "author": "explodoboy",
+    "name": "Science Never Stops: Ambition of the Cosmic",
     "steamId": null,
     "version": null
   },
@@ -124,12 +214,6 @@
     "name": "Consistent Map Stone",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
   },
   {
     "author": "Wyatt Mingji Lim aka WalkingProblem",
@@ -216,18 +300,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and  Smash Phil",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": "2288125657",
-    "version": "1.3.7862.41411"
-  },
-  {
     "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "Vanilla Fishing Expanded",
     "steamId": "1914064942",
@@ -297,7 +369,7 @@
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
-    "version": "0.7.5"
+    "version": "0.7.7"
   },
   {
     "author": "Jaxe",
@@ -409,7 +481,7 @@
   },
   {
     "author": "DaLLaN",
-    "name": "Cyber Fauna 1.3",
+    "name": "Cyber Fauna 1.4",
     "steamId": "1548649032",
     "version": "1.0.0.0"
   },
@@ -798,12 +870,6 @@
     "version": "1.2.3.1"
   },
   {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.3.0.1"
-  },
-  {
     "author": "Netrve",
     "name": "Netrve's DeepStorage GUI",
     "steamId": "2169841018",
@@ -844,12 +910,6 @@
     "name": "Mercer's Backpacks + Nano Suit (Continued)",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
-    "name": "Vanilla Factions Expanded - Mechanoids",
-    "steamId": "2329011599",
-    "version": "1.0.1.2"
   },
   {
     "author": "Vanilla Expanded team",
@@ -904,12 +964,6 @@
     "name": "Vanilla Furniture Expanded",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki,  xrushha,  legodude17 and  ISOREX",
-    "name": "Vanilla Furniture Expanded - Architect",
-    "steamId": "2608762624",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
@@ -1022,6 +1076,18 @@
   {
     "author": "Oskar Potocki and  SmashPhil",
     "name": "Vanilla Weapons Expanded - Makeshift",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Diego Industrial",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Maynard Medieval",
     "steamId": null,
     "version": null
   },
@@ -1188,13 +1254,13 @@
     "version": "2.6.0"
   },
   {
-    "author": "Sarg",
-    "name": "Magical Menagerie",
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mythology",
     "steamId": "1821617793",
     "version": "1.0.0.0"
   },
   {
-    "author": "Spino",
+    "author": "Spino and  Sarg",
     "name": "Megafauna",
     "steamId": null,
     "version": null
@@ -1246,12 +1312,6 @@
     "name": "ReGrowth: Expanded World Generation (Continued)",
     "steamId": "2791768296",
     "version": "1.3.6"
-  },
-  {
-    "author": "Sam",
-    "name": "Tilled Soil",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "hodlhodl",
@@ -1473,7 +1533,7 @@
     "author": "SirMashedPotato",
     "name": "MorrowRim - Just the Animals",
     "steamId": "2094591339",
-    "version": "1.1.12"
+    "version": "1.1.14"
   },
   {
     "author": "Paradox",
@@ -1641,7 +1701,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.3.5"
+    "version": "1.4.1"
   },
   {
     "author": "Owlchemist",

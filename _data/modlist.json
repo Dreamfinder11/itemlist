@@ -24,12 +24,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.3.0.4"
-  },
-  {
     "author": "Odeum",
     "name": "BiomesKit",
     "steamId": "2153006237",
@@ -49,7 +43,7 @@
   },
   {
     "author": "Machine",
-    "name": "Better Infestations 1.3",
+    "name": "Better Infestations 1.4",
     "steamId": "1319614331",
     "version": "1.0.0.0"
   },
@@ -120,12 +114,6 @@
     "version": null
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Vesper",
     "name": "Not My Fault",
     "steamId": null,
@@ -158,6 +146,24 @@
   {
     "author": "Bonible",
     "name": "VFEM - Machines of War Addon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha,  legodude17 and  ISOREX",
+    "name": "Vanilla Furniture Expanded - Architect",
+    "steamId": "2608762624",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sam",
+    "name": "Tilled Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Winterbloom",
+    "name": "Tilled Soil + Vanilla Expanded Architect Patch",
     "steamId": null,
     "version": null
   },
@@ -198,12 +204,6 @@
     "version": null
   },
   {
-    "author": "Wyatt Mingji Lim aka WalkingProblem",
-    "name": "[1.3] Advanced Animal Frameworks 3.95",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Syrchalis",
     "name": "[SYR] Processor Framework",
     "steamId": "2633514537",
@@ -226,12 +226,6 @@
     "name": "Dual Wield",
     "steamId": "1628211313",
     "version": "0.5.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Rimatomics",
-    "steamId": "1127530465",
-    "version": "1.7.7368"
   },
   {
     "author": "Dubwise",
@@ -330,12 +324,6 @@
     "version": "1.3.3389.1"
   },
   {
-    "author": "Captain Muscles (Nathan Harbour)",
-    "name": "Grab Your Tool!",
-    "steamId": "2355912467",
-    "version": "1.0.7"
-  },
-  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
@@ -351,7 +339,7 @@
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
-    "version": "0.7.5"
+    "version": "0.7.7"
   },
   {
     "author": "Jaxe",
@@ -402,38 +390,8 @@
     "version": null
   },
   {
-    "author": "Erin and  xrushha",
-    "name": "Erin's Au Ra",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Erin and  xrushha",
-    "name": "Erin's Miqo'te",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ryflamer",
-    "name": "[Ry]Rimcraft",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Ryflamer",
     "name": "[Ry]Rimcraft Tribal Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ryflamer",
-    "name": "[Ry]Rimcraft Animals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Erin",
-    "name": "Erin's Body Retexture",
     "steamId": null,
     "version": null
   },
@@ -463,7 +421,7 @@
   },
   {
     "author": "DaLLaN",
-    "name": "Cyber Fauna 1.3",
+    "name": "Cyber Fauna 1.4",
     "steamId": "1548649032",
     "version": "1.0.0.0"
   },
@@ -540,12 +498,6 @@
     "version": "1.2.7364"
   },
   {
-    "author": "Epicguru (James B)",
-    "name": "RimForge",
-    "steamId": "2505778174",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "SwedishMask",
     "name": "<i>Better</i> difficulty names (Unofficial Patch)",
     "steamId": null,
@@ -578,18 +530,6 @@
   {
     "author": "Zeitloser and  Erin",
     "name": "Birds Beyond: Tropical Rainforest",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Wyatt Mingji Lim aka WalkingProblem",
-    "name": "[1.3] Boom Boom Is Prey",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jaxe",
-    "name": "BoomMod",
     "steamId": null,
     "version": null
   },
@@ -900,12 +840,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and  Taranchuk",
-    "name": "Vanilla Persona Weapons Expanded",
-    "steamId": "2826922787",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki and  Alestria",
     "name": "Vanilla Plants Expanded - Succulents",
     "steamId": null,
@@ -946,12 +880,6 @@
     "name": "Vanilla Furniture Expanded",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki,  xrushha,  legodude17 and  ISOREX",
-    "name": "Vanilla Furniture Expanded - Architect",
-    "steamId": "2608762624",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
@@ -1116,18 +1044,6 @@
     "version": null
   },
   {
-    "author": "Kikohi",
-    "name": "Forsakens",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kikohi,  Trunken,  Immortalus and Sarg Bjornson",
-    "name": "Forsakens: Fauna",
-    "steamId": "1929101125",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Wolfcub05",
     "name": "Draftable Animals",
     "steamId": null,
@@ -1138,12 +1054,6 @@
     "name": "Alpha Animals",
     "steamId": "1541721856",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "xrushha",
-    "name": "Anima Animals",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "PlayIgel,  Alastair,  Kayedon,  SalmonToastie and  Xrushha",
@@ -1188,12 +1098,6 @@
     "version": null
   },
   {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Cosmic Horrors",
-    "steamId": "765890823",
-    "version": "1.3.0.2"
-  },
-  {
     "author": "Erin",
     "name": "Erin's Friendly Ferrets",
     "steamId": null,
@@ -1230,25 +1134,19 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Kitsune",
-    "name": "Kit's Brazilian Crops",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Albion",
     "name": "Sparkling Worlds - Full Mod",
     "steamId": "1123043922",
     "version": "2.6.0"
   },
   {
-    "author": "Sarg",
-    "name": "Magical Menagerie",
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mythology",
     "steamId": "1821617793",
     "version": "1.0.0.0"
   },
   {
-    "author": "Spino",
+    "author": "Spino and  Sarg",
     "name": "Megafauna",
     "steamId": null,
     "version": null
@@ -1300,12 +1198,6 @@
     "name": "ReGrowth: Expanded World Generation (Continued)",
     "steamId": "2791768296",
     "version": "1.3.6"
-  },
-  {
-    "author": "Sam",
-    "name": "Tilled Soil",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "hodlhodl",
@@ -1368,18 +1260,6 @@
     "version": "1.0.0.1"
   },
   {
-    "author": "Sierra",
-    "name": "RimTraits - General Traits",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hahkethomemah",
-    "name": "1-2-3 Personalities M1",
-    "steamId": "2527258500",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "SheiFoxy",
     "name": "SF Grim Reality",
     "steamId": null,
@@ -1388,18 +1268,6 @@
   {
     "author": "BOXrsxx,  Vaniat and  LingLuo",
     "name": "More Practical Traits",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Fuglypump",
-    "name": "Fallout Traits",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neceros",
-    "name": "Bad Can Be Good",
     "steamId": null,
     "version": null
   },
@@ -1446,12 +1314,6 @@
     "version": null
   },
   {
-    "author": "Kikohi",
-    "name": "Jewelry",
-    "steamId": "2020964421",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Kuratheris",
     "name": "Kura's Extra Gems",
     "steamId": null,
@@ -1474,18 +1336,6 @@
     "name": "Clean Pathfinding",
     "steamId": "2603765747",
     "version": "1.3"
-  },
-  {
-    "author": "Lanilor and  Pustalorc",
-    "name": "Loot Boxes [CONTINUED]",
-    "steamId": "2191113747",
-    "version": "1.3.1"
-  },
-  {
-    "author": "MrKociak",
-    "name": "Loot Boxes retexture",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Kayedon",
@@ -1527,7 +1377,7 @@
     "author": "SirMashedPotato",
     "name": "MorrowRim - Just the Animals",
     "steamId": "2094591339",
-    "version": "1.1.12"
+    "version": "1.1.14"
   },
   {
     "author": "Paradox",
@@ -1546,18 +1396,6 @@
     "name": "More Vanilla Turrets - Turret Extensions Patch (Continued)",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Sinnamon",
-    "name": "More Ritual Rewards",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "noodlesking",
-    "name": "More Psycasts",
-    "steamId": "2460833332",
-    "version": "1.0.0.1"
   },
   {
     "author": "Telkir",
@@ -1620,20 +1458,8 @@
     "version": "1.3.2"
   },
   {
-    "author": "GassyTaco",
-    "name": "Prisoner Harvesting",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Ethereal",
     "name": "Rejuvenate Surgery",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Rimworld: Spartan Foundry (Continued)",
     "steamId": null,
     "version": null
   },
@@ -1695,7 +1521,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.3.5"
+    "version": "1.4.1"
   },
   {
     "author": "Owlchemist",
