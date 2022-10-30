@@ -33,7 +33,19 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1027.0"
+    "version": "1.4.1030.0"
+  },
+  {
+    "author": "WiseClock and fork: AtrociousCollector",
+    "name": "Days Matter (fork)",
+    "steamId": "2045496988",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "merthsoft",
+    "name": "Designator Shapes",
+    "steamId": "1235181370",
+    "version": "1.0.0.0"
   },
   {
     "author": "Dubwise",
@@ -99,7 +111,7 @@
     "author": "jecrell and contributors",
     "name": "JecsTools",
     "steamId": "932008009",
-    "version": "1.4.0.0"
+    "version": "1.4.1.1"
   },
   {
     "author": "Papito",
@@ -244,6 +256,24 @@
     "name": "Vanilla Ideology Expanded - Memes and Structures",
     "steamId": "2636329500",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Animals Expanded",
+    "steamId": "2871933948",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Winterbloom",
+    "name": "Tilled Soil + Vanilla Expanded Architect Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Erin",
+    "name": "Vanilla Animals Expanded — Royal Animals",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "flangopink",
@@ -456,6 +486,12 @@
     "version": "1.1.0.0"
   },
   {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Randy Burger - Fast Food set",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded",
     "steamId": null,
@@ -484,6 +520,12 @@
     "name": "Twitch Toolkit",
     "steamId": "1718525787",
     "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.3.0.0.biotech.B2"
   },
   {
     "author": "Smash Phil and Neceros",
@@ -540,6 +582,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Telkir and Rain",
+    "name": "[T] MoreFloors 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Storytellers Expanded - Empress Evil",
     "steamId": null,
@@ -549,7 +597,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.5.1.0"
+    "version": "3.5.2.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -946,17 +994,5 @@
     "name": "Dubs Skylights",
     "steamId": "833899765",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes (Unofficial)",
-    "steamId": "1720021578",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.B2"
   }
 ]
