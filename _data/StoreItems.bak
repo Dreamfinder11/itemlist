@@ -724,7 +724,7 @@
       "abr": "anchovy",
       "category": "Raw fish",
       "defName": "VCEF_RawAnchovy",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientairconditioner",
@@ -6130,7 +6130,7 @@
       "abr": "graniteblocks",
       "category": "Stone blocks",
       "defName": "BlocksGranite",
-      "price": 2
+      "price": 1
     },
     {
       "abr": "greatdevourer",
@@ -6310,7 +6310,7 @@
       "abr": "guppy",
       "category": "Raw fish",
       "defName": "VCEF_RawGuppy",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "haddock",
@@ -7732,7 +7732,7 @@
       "abr": "limestoneblocks",
       "category": "Stone blocks",
       "defName": "BlocksLimestone",
-      "price": 2
+      "price": 1
     },
     {
       "abr": "linkeddoormat",
@@ -8068,7 +8068,7 @@
       "abr": "marbleblocks",
       "category": "Stone blocks",
       "defName": "BlocksMarble",
-      "price": 2
+      "price": 1
     },
     {
       "abr": "marialite",
@@ -8500,7 +8500,7 @@
       "abr": "minnow",
       "category": "Raw fish",
       "defName": "VCEF_RawMinnow",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "mintcoffee",
@@ -9208,7 +9208,7 @@
       "abr": "packagedsurvivalmeal",
       "category": "Meals",
       "defName": "MealSurvivalPack",
-      "price": 40
+      "price": 1
     },
     {
       "abr": "padparadscha",
@@ -9820,7 +9820,7 @@
       "abr": "pristinelimestoneblocks",
       "category": "Stone blocks",
       "defName": "AM_BlocksPristineLimestone",
-      "price": 2
+      "price": 1
     },
     {
       "abr": "procoptodon",
@@ -11890,7 +11890,7 @@
       "abr": "sandstoneblocks",
       "category": "Stone blocks",
       "defName": "BlocksSandstone",
-      "price": 2
+      "price": 1
     },
     {
       "abr": "sapphire",
@@ -12586,7 +12586,7 @@
       "abr": "slateblocks",
       "category": "Stone blocks",
       "defName": "BlocksSlate",
-      "price": 2
+      "price": 1
     },
     {
       "abr": "slavebodystrap",
@@ -12892,7 +12892,7 @@
       "abr": "sprat",
       "category": "Raw fish",
       "defName": "VCEF_RawSprat",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "sprinkler",
