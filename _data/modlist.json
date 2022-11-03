@@ -42,6 +42,42 @@
     "version": "1.4.2"
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "QuantumX",
+    "name": "Astra Militarum Imperial Guard Core Mod v2.41",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "QuantumX",
+    "name": "Astra Militarum Imperial Guard ServoSkull Addon Mod v1.6",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Armoury",
+    "steamId": "1541438614",
+    "version": "1.6.5.1"
+  },
+  {
     "author": "WiseClock and fork: AtrociousCollector",
     "name": "Days Matter (fork)",
     "steamId": "2045496988",
@@ -148,12 +184,6 @@
     "name": "Mod Manager",
     "steamId": "1507748539",
     "version": "3.8.1038"
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.4.1.1"
   },
   {
     "author": "Papito",
@@ -318,9 +348,21 @@
     "version": null
   },
   {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Faction: V.O.I.D.",
+    "steamId": "2883208829",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Sarg Bjornson and AFriend",
     "name": "Alpha Animals",
     "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
     "version": "1.0.0.0"
   },
   {
@@ -352,12 +394,6 @@
     "name": "Vanilla Ideology Expanded - Memes and Structures",
     "steamId": "2636329500",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "MrKociak",
@@ -394,12 +430,6 @@
     "name": "Vanilla Animals Expanded — Royal Animals",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
   },
   {
     "author": "ShauaPuta",
@@ -658,12 +688,6 @@
     "name": "Dub's Paint Shop",
     "steamId": "1579516669",
     "version": "1.1.7359"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Research Reinvented",
-    "steamId": "2868392160",
-    "version": "1.0.0.0"
   },
   {
     "author": "explodoboy",
