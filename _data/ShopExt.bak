@@ -1929,6 +1929,84 @@
       },
       "defName": "AM_Ahimsa",
       "name": "vowofnonviolence"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "costToAdd": 3500,
+      "costToRemove": 5500,
+      "degree": 1,
+      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
+      "stats": [
+        "+0.10 move speed",
+        "+20% global work speed",
+        "-100% psychic sensitivity",
+        "+95% toxic resistance",
+        "-90% mental break threshold"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "traitData": {
+        "conflicts": [],
+        "stats": [
+          "+0.10 move speed",
+          "+20% global work speed",
+          "-100% psychic sensitivity",
+          "+95% toxic resistance",
+          "-90% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Misc. Robots",
+        "karmaType": null
+      },
+      "defName": "AIRobot_BaseTrait",
+      "name": "robot"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "costToAdd": 3500,
+      "costToRemove": 5500,
+      "degree": 1,
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "traitData": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaType": null
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "costToAdd": 3500,
+      "costToRemove": 5500,
+      "degree": -1,
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "traitData": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaType": null
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile"
     }
   ],
   "races": [
@@ -1953,6 +2031,91 @@
       "enabled": true,
       "name": "human",
       "cost": 1
+    },
+    {
+      "pawnData": {
+        "customName": false,
+        "stats": [
+          "+30.00 Mass",
+          "+100% Flammability",
+          "+28.8F Minimum comfortable temperature",
+          "+64.8F Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+30 Meat amount",
+          "+$900 Market value",
+          "+4.60 Move speed",
+          "+45 Carrying capacity",
+          "+120% Mining speed",
+          "+2 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of cave-dwelling, small reptilian humanoids.",
+      "defName": "Pawnbold_bold",
+      "enabled": true,
+      "name": "kobold",
+      "cost": 1500
+    },
+    {
+      "pawnData": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+2 Honor value",
+          "+120.00% Negotiation ability",
+          "+120.00% Trade price improvement",
+          "+120.00% Social impact",
+          "+120% Research speed",
+          "+120% Drug cooking speed",
+          "+120% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+70% Mining speed",
+          "+70% Smoothing speed",
+          "+70% Construction speed",
+          "+70% Plant work speed",
+          "+80% Rest rate multiplier"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of above average intelligent aliens.",
+      "defName": "XotanRace",
+      "enabled": true,
+      "name": "xotan",
+      "cost": 2917
+    },
+    {
+      "pawnData": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$3500 Market value",
+          "+5.25 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+64.8F Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+3 Honor value",
+          "+90% Research speed",
+          "+125% Mining speed",
+          "+95.00% Social impact",
+          "+1.3 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A bloodthirsty vulpine near-human.",
+      "defName": "ReviaRaceAlien",
+      "enabled": true,
+      "name": "Revia",
+      "cost": 5833
     }
   ]
 }
