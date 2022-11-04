@@ -1,0 +1,9 @@
+{
+	"defName":"LevelPawn",
+	"abbreviation":"levelskill",
+	"cost":"1500",
+	"eventCap":"2",
+	"karmaType":"Good",
+	"minPointsToFire":"1500",
+	"maxWager":"10000",
+}

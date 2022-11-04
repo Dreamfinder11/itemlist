@@ -1,0 +1,9 @@
+{
+	"defName":"Backpack",
+	"abbreviation":"backpack",
+	"cost":"1",
+	"eventCap":"70",
+	"karmaType":"Neutral",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

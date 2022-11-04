@@ -1,0 +1,9 @@
+{
+	"defName":"Sanctuary",
+	"abbreviation":"sanctuary",
+	"cost":"100000",
+	"eventCap":"1",
+	"karmaType":"Good",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

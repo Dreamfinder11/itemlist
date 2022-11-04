@@ -1,0 +1,9 @@
+{
+	"defName":"EquipWeapon",
+	"abbreviation":"equip",
+	"cost":"1",
+	"eventCap":"20",
+	"karmaType":"Neutral",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

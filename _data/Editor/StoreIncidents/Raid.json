@@ -1,0 +1,9 @@
+{
+	"defName":"Raid",
+	"abbreviation":"raid",
+	"cost":"1500",
+	"eventCap":"2",
+	"karmaType":"Doom",
+	"minPointsToFire":"0",
+	"maxWager":"10000",
+}

@@ -1,0 +1,9 @@
+{
+	"defName":"RandomChildhood",
+	"abbreviation":"randomchildhood",
+	"cost":"3000",
+	"eventCap":"5",
+	"karmaType":"Neutral",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

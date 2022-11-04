@@ -1,0 +1,9 @@
+{
+	"defName":"MechanoidRaid",
+	"abbreviation":"mechanoidraid",
+	"cost":"2500",
+	"eventCap":"200",
+	"karmaType":"Doom",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

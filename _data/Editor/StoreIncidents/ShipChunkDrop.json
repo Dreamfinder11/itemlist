@@ -1,0 +1,7 @@
+{
+	"defName":"ShipChunkDrop",
+	"abbreviation":"shipchunkdrop",
+	"cost":"300",
+	"eventCap":"3",
+	"karmaType":"Good"
+}

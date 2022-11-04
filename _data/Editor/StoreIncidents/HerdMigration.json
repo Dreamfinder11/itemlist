@@ -1,0 +1,7 @@
+{
+	"defName":"HerdMigration",
+	"abbreviation":"herdmigration",
+	"cost":"200",
+	"eventCap":"1",
+	"karmaType":"Good"
+}

@@ -1,0 +1,9 @@
+{
+	"defName":"FactionWarShelling",
+	"abbreviation":"factionsiege",
+	"cost":"1500",
+	"eventCap":"1",
+	"karmaType":"Doom",
+	"minPointsToFire":"1000",
+	"maxWager":"10000",
+}

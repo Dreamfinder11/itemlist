@@ -1,0 +1,9 @@
+{
+	"defName":"AddonSRLogging",
+	"abbreviation":"raidloggers",
+	"cost":"1000",
+	"eventCap":"1",
+	"karmaType":"Doom",
+	"minPointsToFire":"500",
+	"maxWager":"10000",
+}

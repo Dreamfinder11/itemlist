@@ -1,0 +1,10 @@
+{
+	"defName":"HealAllShortcut",
+	"command":"healall",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"False",
+	"requiresMod":"False",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}

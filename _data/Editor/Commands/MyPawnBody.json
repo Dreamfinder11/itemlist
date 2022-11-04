@@ -1,0 +1,10 @@
+{
+	"defName":"MyPawnBody",
+	"command":"mypawnbody",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"False",
+	"requiresMod":"False",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}

@@ -1,0 +1,9 @@
+{
+	"defName":"Infestation",
+	"abbreviation":"infestation",
+	"cost":"2500",
+	"eventCap":"2",
+	"karmaType":"Bad",
+	"minPointsToFire":"2500",
+	"maxWager":"10000",
+}

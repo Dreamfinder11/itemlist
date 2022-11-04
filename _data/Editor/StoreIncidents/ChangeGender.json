@@ -1,0 +1,9 @@
+{
+	"defName":"ChangeGender",
+	"abbreviation":"genderswap",
+	"cost":"600",
+	"eventCap":"2",
+	"karmaType":"Neutral",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

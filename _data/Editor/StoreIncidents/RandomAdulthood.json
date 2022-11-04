@@ -1,0 +1,9 @@
+{
+	"defName":"RandomAdulthood",
+	"abbreviation":"randomadulthood",
+	"cost":"3000",
+	"eventCap":"5",
+	"karmaType":"Neutral",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

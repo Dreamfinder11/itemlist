@@ -1,0 +1,9 @@
+{
+	"defName":"SapperRaid",
+	"abbreviation":"sapperraid",
+	"cost":"1500",
+	"eventCap":"2",
+	"karmaType":"Doom",
+	"minPointsToFire":"1500",
+	"maxWager":"10000",
+}

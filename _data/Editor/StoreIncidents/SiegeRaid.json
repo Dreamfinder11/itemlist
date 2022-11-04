@@ -1,0 +1,9 @@
+{
+	"defName":"SiegeRaid",
+	"abbreviation":"siegeraid",
+	"cost":"2500",
+	"eventCap":"2",
+	"karmaType":"Doom",
+	"minPointsToFire":"2500",
+	"maxWager":"10000",
+}
