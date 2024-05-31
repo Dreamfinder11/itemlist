@@ -3416,7 +3416,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 0
+      "price": 1
     }
   ]
 }

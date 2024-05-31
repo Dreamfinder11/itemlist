@@ -240,12 +240,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Furniture Expanded - Props and Decor",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded - Spacer Module",
     "steamId": null,
@@ -596,6 +590,24 @@
   {
     "author": "Ykara(Original) elStrages(1.4Update)",
     "name": "EPOE 1.4 (Expanded Prosthetics and Organ Engineering)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Dual Wield",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Happycam",
+    "name": "Christmas Trees Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lakuna and Drizzly",
+    "name": "Christmas Hats",
     "steamId": null,
     "version": null
   }
