@@ -1156,5 +1156,35 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "7.0.6.0-RC1+38a1afff462be37643029c36d14ea73ac3f17859"
+  },
+  {
+    "author": "Indeed",
+    "name": "Stack XXL",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Allie, Erin, Major Quadrangle, Matsay and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.16.2.0"
+  },
+  {
+    "author": "Defi",
+    "name": "Stabilize Bleeding",
+    "steamId": "3521178066",
+    "version": "1.17.0.0"
+  },
+  {
+    "author": "Tixiv",
+    "name": "Who shot my leg off?",
+    "steamId": null,
+    "version": null
   }
 ]
