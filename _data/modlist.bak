@@ -21,7 +21,7 @@
     "author": "RedMattis",
     "name": "Big and Small - Framework",
     "steamId": "2925432336",
-    "version": "1.0.0+ece9e172c5850ada17e6aeb9931b1272edad3886"
+    "version": "1.0.0+008336b02102f63d35543c91f75c6cc7495b5844"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -87,7 +87,7 @@
     "author": "Dubwise",
     "name": "Dubs Performance Analyzer",
     "steamId": "2038874626",
-    "version": "1.0.0+5fb044d66fad0b387b699f5d503d66ffcf14715f"
+    "version": "1.0.0+eb73e76f2484f4a2a8b3299454f80691f4879a59"
   },
   {
     "author": "Dubwise",
@@ -711,7 +711,7 @@
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
-    "version": "1.0.0+7d6a175a6a309c388664a15ea28bc15067480780"
+    "version": "1.0.0+6a70b1976da3315c41359fb0a7cab1ac98cc7c4c"
   },
   {
     "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
@@ -783,7 +783,7 @@
     "author": "Mehni",
     "name": "Pick Up And Haul Unofficial 1.6 Alternative",
     "steamId": "3513718710",
-    "version": "1.0.0+b98db4b1562f399c7b9606c0e721266c1706a26b"
+    "version": "1.0.0+32a468c60ac57311871407dbdb570259848ccdf4"
   },
   {
     "author": "tiagorbrodrigues",
@@ -1173,7 +1173,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.16.2.0"
+    "version": "1.16.3+19591e2831845cc886bd5cb870728e53761882f0"
   },
   {
     "author": "Defi",
@@ -1186,5 +1186,65 @@
     "name": "Who shot my leg off?",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Vesper",
+    "name": "Not My Fault",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "KittahKhan",
+    "name": "[Kit] Graze up",
+    "steamId": "2302739121",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Wyr3d",
+    "name": "[WYD] Worthless Junk (Adjusted)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Darth_Sergeant",
+    "name": "Nurse Job",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arkymn",
+    "name": "Performance - Slower Pawn Tick Rate",
+    "steamId": "3524116050",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "busted_bunny",
+    "name": "Not This One (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
+    "steamId": "3239583412",
+    "version": "1.6.0.1"
+  },
+  {
+    "author": "Mlie",
+    "name": "Prisoners Dont Have Keys",
+    "steamId": "2595360307",
+    "version": "1.5.2"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "No One Left Behind",
+    "steamId": "2879457494",
+    "version": "1.1.3"
   }
 ]
