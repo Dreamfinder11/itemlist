@@ -21,7 +21,7 @@
     "author": "RedMattis",
     "name": "Big and Small - Framework",
     "steamId": "2925432336",
-    "version": "1.0.0+008336b02102f63d35543c91f75c6cc7495b5844"
+    "version": "1.0.0+ba282e1b2536254e422babc94b268c9fd8b8e828"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -87,7 +87,7 @@
     "author": "Dubwise",
     "name": "Dubs Performance Analyzer",
     "steamId": "2038874626",
-    "version": "1.0.0+eb73e76f2484f4a2a8b3299454f80691f4879a59"
+    "version": "1.0.0+b6d6595b7457219357c25e8cef1082652454b7f7"
   },
   {
     "author": "Dubwise",
@@ -126,12 +126,6 @@
     "version": null
   },
   {
-    "author": "404Utopia",
-    "name": "Replace Stuff (Continued)",
-    "steamId": "3523391246",
-    "version": "1.6.0.0"
-  },
-  {
     "author": "legodude17",
     "name": "Smarter Deconstruction and Mining (Continued)",
     "steamId": "3261302741",
@@ -146,8 +140,8 @@
   {
     "author": "Sarg Bjornson and Oskar Potocki",
     "name": "Vanilla Animals Expanded",
-    "steamId": "2871933948",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Erin and Sarg Bjornson",
@@ -444,6 +438,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Sarg, erdelf, Oskar Potocki, Luizi and Reann Shepard",
     "name": "Vanilla Genetics Expanded",
     "steamId": "2801160906",
@@ -660,6 +660,12 @@
     "version": null
   },
   {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.16.4+4c4c716d7c8ecdf05871c56d1319e69547ab277e"
+  },
+  {
     "author": "legodude17, Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Skills Expanded",
     "steamId": "3400246558",
@@ -764,8 +770,8 @@
   {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
-    "steamId": "3513789221",
-    "version": "11.0.5"
+    "steamId": "818773962",
+    "version": "12.0.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -778,12 +784,6 @@
     "name": "Autocleaner",
     "steamId": "2051042827",
     "version": "1.0.379.0018"
-  },
-  {
-    "author": "Mehni",
-    "name": "Pick Up And Haul Unofficial 1.6 Alternative",
-    "steamId": "3513718710",
-    "version": "1.0.0+32a468c60ac57311871407dbdb570259848ccdf4"
   },
   {
     "author": "tiagorbrodrigues",
@@ -819,7 +819,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.19+38e3c1d37efeaa968b36bbea039239ab0b121eb5"
+    "version": "1.12.20+30c308d6228c29f03e2a3138829df73ded68e7df"
   },
   {
     "author": "Scherub",
@@ -933,7 +933,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.9324.32939"
+    "version": "1.0.9332.29106"
   },
   {
     "author": "ScarKy0",
@@ -948,7 +948,7 @@
     "version": null
   },
   {
-    "author": "Khorbos",
+    "author": "Captain Muscles (Original), Khorbos, Maxhd4321, Translations:, Mr. Wolf (摄魂狼) (Chinese), Tkhakiro (Spanish) and Ferchu (French)",
     "name": "Go the Fork to Sleep",
     "steamId": "3523734445",
     "version": "1.0.6"
@@ -1092,6 +1092,12 @@
     "version": "1.5.0"
   },
   {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Books",
+    "steamId": "3403180654",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Zaljerem",
     "name": "Zal's Library",
     "steamId": null,
@@ -1170,12 +1176,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": "1508850027",
-    "version": "1.16.3+19591e2831845cc886bd5cb870728e53761882f0"
-  },
-  {
     "author": "Defi",
     "name": "Stabilize Bleeding",
     "steamId": "3521178066",
@@ -1246,5 +1246,161 @@
     "name": "No One Left Behind",
     "steamId": "2879457494",
     "version": "1.1.3"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff - Continued",
+    "steamId": "3526354009",
+    "version": "1.0.0+04a919dbde3e27749069d154d92794a1081d4e08"
+  },
+  {
+    "author": "DRILLED_HEAD",
+    "name": "[DHM]Hybrid-Powered Gravships",
+    "steamId": "3524491355",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Seamless Embrasures",
+    "steamId": "2290689449",
+    "version": "1.6.0.0"
+  },
+  {
+    "author": "Myf",
+    "name": "Ars Mythica - Lightseeker",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mr.Wireman",
+    "name": "No conduit on Gravship",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Setosa",
+    "name": "Setosa's Power Tools",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien and Oracle of Thessia",
+    "name": "ReBuild: Doors and Corners",
+    "steamId": "3262718980",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zoarak963",
+    "name": "Mechanitor Orbital Platform",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Forsakens (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bean",
+    "name": "Dwarves of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "VexedTrees",
+    "name": "Rim-Elves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "VexedTrees",
+    "name": "Rim-Gnoblins",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "VexedTrees",
+    "name": "Rim-Robots_",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Echo Foxtrot",
+    "name": "Acceptable Barracks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.6.4518.1"
+  },
+  {
+    "author": "Sentinel",
+    "name": "VPE - Gravcaster",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Weapon Proficiency",
+    "steamId": "3523531768",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Survival Tools (Continued)",
+    "steamId": "3278071677",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Grab Your Tool! (Continued)",
+    "steamId": "2947023388",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "3512466087",
+    "version": "1.0.17"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Augmented Vanilla Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Randy Burger - Fast Food set",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zoarak963",
+    "name": "Anomaly Research Asteroid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Smart Medicine - Continued",
+    "steamId": "3526251680",
+    "version": "1.0.0+5ff0edb14e21380285ee9b5cedf72fa37411766e"
+  },
+  {
+    "author": "Nalzurin and Yaveton",
+    "name": "Cuddles",
+    "steamId": "3456415745",
+    "version": "1.0.0.0"
   }
 ]
