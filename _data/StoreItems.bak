@@ -1732,7 +1732,7 @@
       "abr": "blizzariskclutchmother",
       "category": "Animals",
       "defname": "AA_BlizzariskClutchMother",
-      "price": 1500
+      "price": -10
     },
     {
       "abr": "blizzariskegg(fert.)",
@@ -2380,7 +2380,7 @@
       "abr": "catalope",
       "category": "Animals",
       "defname": "GR_Catalope",
-      "price": 208
+      "price": -10
     },
     {
       "abr": "cataphractarmor",
@@ -3820,7 +3820,7 @@
       "abr": "dunealiskclutchmother",
       "category": "Animals",
       "defname": "AA_DunealiskClutchMother",
-      "price": 1500
+      "price": -10
     },
     {
       "abr": "dunealiskegg(fert.)",
@@ -4300,7 +4300,7 @@
       "abr": "feraliskclutchmother",
       "category": "Animals",
       "defname": "AA_FeraliskClutchMother",
-      "price": 1500
+      "price": -10
     },
     {
       "abr": "feraliskegg(fert.)",
@@ -19375,12 +19375,6 @@
       "price": 3
     },
     {
-      "abr": "kidoutfitstand",
-      "category": "Furniture",
-      "defname": "Building_KidOutfitStand",
-      "price": 102
-    },
-    {
       "abr": "kidvacsuit",
       "category": "Armor",
       "defname": "Apparel_VacsuitChildren",
@@ -20747,12 +20741,6 @@
       "category": "Meat",
       "defname": "Meat_Enhydriodon",
       "price": 3
-    },
-    {
-      "abr": "outfitstand",
-      "category": "Furniture",
-      "defname": "Building_OutfitStand",
-      "price": 119
     },
     {
       "abr": "oxygenpump",
@@ -27364,7 +27352,7 @@
       "abr": "pinkcrystal",
       "category": "Raw resources",
       "defname": "TWRL_Resource_PinkCrystal",
-      "price": 58
+      "price": 5
     },
     {
       "abr": "pinkcrystalcrab",
@@ -27943,11 +27931,377 @@
       "price": 3
     },
     {
+      "abr": "amphibiananthro",
+      "category": "Animal",
+      "defname": "AmpAnthro",
+      "price": -10
+    },
+    {
+      "abr": "amphibiananthromeat",
+      "category": "Meat",
+      "defname": "Meat_AmpAnthro",
+      "price": 1
+    },
+    {
+      "abr": "avali",
+      "category": "Animal",
+      "defname": "Avali",
+      "price": -10
+    },
+    {
+      "abr": "avalimeat",
+      "category": "Meat",
+      "defname": "Meat_Avali",
+      "price": 1
+    },
+    {
+      "abr": "aviananthro",
+      "category": "Animal",
+      "defname": "AvianAnthro",
+      "price": -10
+    },
+    {
+      "abr": "aviananthromeat",
+      "category": "Meat",
+      "defname": "Meat_AvianAnthro",
+      "price": 1
+    },
+    {
+      "abr": "batanthro",
+      "category": "Animal",
+      "defname": "BatAnthro",
+      "price": -10
+    },
+    {
+      "abr": "batanthromeat",
+      "category": "Meat",
+      "defname": "Meat_BatAnthro",
+      "price": 1
+    },
+    {
+      "abr": "bovidaeanthro",
+      "category": "Animal",
+      "defname": "BovAnthro",
+      "price": -10
+    },
+    {
+      "abr": "bovidaeanthromeat",
+      "category": "Meat",
+      "defname": "Meat_BovAnthro",
+      "price": 1
+    },
+    {
+      "abr": "bunnyanthro",
+      "category": "Animal",
+      "defname": "BunAnthro",
+      "price": -10
+    },
+    {
+      "abr": "bunnyanthromeat",
+      "category": "Meat",
+      "defname": "Meat_BunAnthro",
+      "price": 1
+    },
+    {
+      "abr": "canineanthro",
+      "category": "Animal",
+      "defname": "CanineAnthro",
+      "price": -10
+    },
+    {
+      "abr": "canineanthromeat",
+      "category": "Meat",
+      "defname": "Meat_CanineAnthro",
+      "price": 1
+    },
+    {
+      "abr": "doubleloftbed",
+      "category": "Furniture",
+      "defname": "DoubleLoftBed",
+      "price": 312
+    },
+    {
+      "abr": "felineanthro",
+      "category": "Animal",
+      "defname": "FelineAnthro",
+      "price": -10
+    },
+    {
+      "abr": "felineanthromeat",
+      "category": "Meat",
+      "defname": "Meat_FelineAnthro",
+      "price": 1
+    },
+    {
+      "abr": "fishanthro",
+      "category": "Animal",
+      "defname": "FishAnthro",
+      "price": -10
+    },
+    {
+      "abr": "fishanthromeat",
+      "category": "Meat",
+      "defname": "Meat_FishAnthro",
+      "price": 1
+    },
+    {
+      "abr": "genericanthro",
+      "category": "Animal",
+      "defname": "Anthro",
+      "price": -10
+    },
+    {
+      "abr": "genericanthromeat",
+      "category": "Meat",
+      "defname": "Meat_Anthro",
+      "price": 1
+    },
+    {
+      "abr": "insectanthro",
+      "category": "Animal",
+      "defname": "BugAnthro",
+      "price": -10
+    },
+    {
+      "abr": "insectanthromeat",
+      "category": "Meat",
+      "defname": "Meat_BugAnthro",
+      "price": 1
+    },
+    {
+      "abr": "loftbed",
+      "category": "Furniture",
+      "defname": "LoftBed",
+      "price": 174
+    },
+    {
+      "abr": "mustelidanthro",
+      "category": "Animal",
+      "defname": "MustAnthro",
+      "price": -10
+    },
+    {
+      "abr": "mustelidanthromeat",
+      "category": "Meat",
+      "defname": "Meat_MustAnthro",
+      "price": 1
+    },
+    {
+      "abr": "protogen",
+      "category": "Animal",
+      "defname": "Protogen",
+      "price": -10
+    },
+    {
+      "abr": "protogenmeat",
+      "category": "Meat",
+      "defname": "Meat_Protogen",
+      "price": 1
+    },
+    {
+      "abr": "scalyanthro",
+      "category": "Animal",
+      "defname": "ReptileAnthro",
+      "price": -10
+    },
+    {
+      "abr": "scalyanthromeat",
+      "category": "Meat",
+      "defname": "Meat_ReptileAnthro",
+      "price": 1
+    },
+    {
+      "abr": "sergal",
+      "category": "Animal",
+      "defname": "Sergal",
+      "price": -10
+    },
+    {
+      "abr": "sergalmeat",
+      "category": "Meat",
+      "defname": "Meat_Sergal",
+      "price": 1
+    },
+    {
+      "abr": "skullanthro",
+      "category": "Animal",
+      "defname": "SkullAnthro",
+      "price": -10
+    },
+    {
+      "abr": "skullanthromeat",
+      "category": "Meat",
+      "defname": "Meat_SkullAnthro",
+      "price": 1
+    },
+    {
+      "abr": "synth",
+      "category": "Animal",
+      "defname": "Synth",
+      "price": -10
+    },
+    {
+      "abr": "synthmeat",
+      "category": "Meat",
+      "defname": "Meat_Synth",
+      "price": 1
+    },
+    {
+      "abr": "advancedherbalmedicine",
+      "category": "Medicine",
+      "defname": "VV_AdvancedHerbalMedicine",
+      "price": 30
+    },
+    {
+      "abr": "calendulablossoms",
+      "category": "Plant matter",
+      "defname": "VV_CalendulaBlossoms",
+      "price": 3
+    },
+    {
+      "abr": "chamomileblossoms",
+      "category": "Plant matter",
+      "defname": "VV_ChamomileBlossoms",
+      "price": 3
+    },
+    {
+      "abr": "chamomiletea",
+      "category": "Drugs",
+      "defname": "VV_ChamomileTea",
+      "price": 13
+    },
+    {
+      "abr": "echinaceablossoms",
+      "category": "Plant matter",
+      "defname": "VV_EchinaceaBlossoms",
+      "price": 3
+    },
+    {
+      "abr": "echinaceadecoction",
+      "category": "Drugs",
+      "defname": "VV_EchinaceaDecoction",
+      "price": 28
+    },
+    {
+      "abr": "ginkgoleaves",
+      "category": "Plant matter",
+      "defname": "VV_GinkgoLeaves",
+      "price": 4
+    },
+    {
+      "abr": "ginkgotea",
+      "category": "Drugs",
+      "defname": "VV_GinkgoTea",
+      "price": 15
+    },
+    {
+      "abr": "ginsengdecoction",
+      "category": "Drugs",
+      "defname": "VV_GinsengDecoction",
+      "price": 30
+    },
+    {
+      "abr": "ginsengroots",
+      "category": "Plant matter",
+      "defname": "VV_GinsengRoots",
+      "price": 5
+    },
+    {
+      "abr": "hawthornberries",
+      "category": "Vegetarian",
+      "defname": "VV_HawthornBerries",
+      "price": 3
+    },
+    {
+      "abr": "lavenderblossoms",
+      "category": "Plant matter",
+      "defname": "VV_LavenderBlossoms",
+      "price": 4
+    },
+    {
+      "abr": "lemonbalmleaves",
+      "category": "Plant matter",
+      "defname": "VV_LemonBalmLeaves",
+      "price": 3
+    },
+    {
+      "abr": "lindenblossoms",
+      "category": "Plant matter",
+      "defname": "VV_LindenBlossoms",
+      "price": 3
+    },
+    {
+      "abr": "lindentea",
+      "category": "Drugs",
+      "defname": "VV_LindenTea",
+      "price": 13
+    },
+    {
+      "abr": "marshmallowroots",
+      "category": "Plant matter",
+      "defname": "VV_MarshmallowRoots",
+      "price": 4
+    },
+    {
+      "abr": "nettleleaves",
+      "category": "Vegetarian",
+      "defname": "VV_NettleLeaves",
+      "price": 3
+    },
+    {
+      "abr": "restorativeherbalointment",
+      "category": "Medicine",
+      "defname": "VV_RestorativeHerbalOintment",
+      "price": 23
+    },
+    {
+      "abr": "soothingherbalointment",
+      "category": "Medicine",
+      "defname": "VV_SoothingHerbalOintment",
+      "price": 23
+    },
+    {
+      "abr": "st.john'swortblossoms",
+      "category": "Plant matter",
+      "defname": "VV_StJohnsWortBlossoms",
+      "price": 4
+    },
+    {
+      "abr": "thymeleaves",
+      "category": "Plant matter",
+      "defname": "VV_ThymeLeaves",
+      "price": 3
+    },
+    {
+      "abr": "thymetea",
+      "category": "Drugs",
+      "defname": "VV_ThymeTea",
+      "price": 13
+    },
+    {
+      "abr": "valeriandecoction",
+      "category": "Drugs",
+      "defname": "VV_ValerianDecoction",
+      "price": 30
+    },
+    {
+      "abr": "valerianroots",
+      "category": "Plant matter",
+      "defname": "VV_ValerianRoots",
+      "price": 4
+    },
+    {
+      "abr": "yarrowblossoms",
+      "category": "Plant matter",
+      "defname": "VV_YarrowBlossoms",
+      "price": 3
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
     }
   ],
-  "total": 4658
+  "total": 4717
 }
